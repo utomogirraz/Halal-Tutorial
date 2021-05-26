@@ -1193,7 +1193,7 @@ halalc:PT_KALDU_SARI_NABATI_INDONESIA a halalv:HalalCertificate;
 halals:Majelis_Ulama_Indonesia a foaf:Organization; 
 	rdfs:label "Majelis Ulama Indonesia";
 	foaf:homepage "nan";
-	foaf:based_near nan .
+	foaf:based_near "nan" .
 
 halali: a foodlirmm:Ingredient;
 	rdfs:label "" .
