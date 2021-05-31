@@ -7381,25 +7381,25 @@ halalm:Zrosee a foaf:Organization;
     	rdfs:label "22 seafood salmon portion";
     	gr:hasManufacturer halalm:Pt_Indo_Seafood .
 
-    halalf:22_Seafood_Salmon_Portion foodlirmm:certificate halalc:15030029130318 .
+halalf:22_Seafood_Salmon_Portion foodlirmm:certificate halalc:15030029130318 .
 
-    halalf:22_Seafood_Tuna_Steak a foodlirmm:FoodProduct;
+halalf:22_Seafood_Tuna_Steak a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1154";
     	rdfs:label "22 seafood tuna steak";
     	gr:hasManufacturer halalm:Ninuk_Catering .
 
-    halalf:22_Seafood_Tuna_Steak foodlirmm:certificate halalc:15160062290920 .
+halalf:22_Seafood_Tuna_Steak foodlirmm:certificate halalc:15160062290920 .
 
-    halalf:3_Ayam_Mie_Telor_Super_Kuning a foodlirmm:FoodProduct;
+halalf:3_Ayam_Mie_Telor_Super_Kuning a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "469";
     	rdfs:label "3 ayam mie telor super kuning";
     	gr:hasManufacturer halalm:Bakso_Jwr .
 
-    halalf:3_Ayam_Mie_Telor_Super_Kuning foodlirmm:certificate halalc:00160077740616 .
+halalf:3_Ayam_Mie_Telor_Super_Kuning foodlirmm:certificate halalc:00160077740616 .
 
-    halalf:3_Ayam_Mie_Telor_Super_Merah a foodlirmm:FoodProduct;
+halalf:3_Ayam_Mie_Telor_Super_Merah a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "687";
 	rdfs:label "3 ayam mie telor super merah";
@@ -7441,9 +7441,9 @@ halalf:Abc_Coffee_Drink_Milk_Coffee a foodlirmm:FoodProduct;
     	rdfs:label "abc coffee drink milk coffee";
     	gr:hasManufacturer halalm:Bilani .
 
-    halalf:Abc_Coffee_Drink_Milk_Coffee foodlirmm:certificate halalc:03120026770719 .
+halalf:Abc_Coffee_Drink_Milk_Coffee foodlirmm:certificate halalc:03120026770719 .
 
-    halalf:Abc_Juice_Kacang_Hijau a foodlirmm:FoodProduct;
+halalf:Abc_Juice_Kacang_Hijau a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "556";
 	rdfs:label "abc juice kacang hijau";
@@ -7773,9 +7773,9 @@ halalf:Air_Mancur_Madurasa_Murni a foodlirmm:FoodProduct;
     	rdfs:label "air mancur madurasa murni";
     	gr:hasManufacturer halalm:Pt_Air_Mancur .
 
-    halalf:Air_Mancur_Madurasa_Murni foodlirmm:certificate halalc:00130007780298 .
+halalf:Air_Mancur_Madurasa_Murni foodlirmm:certificate halalc:00130007780298 .
 
-    halalf:Air_Mancur_Madurasa_Original a foodlirmm:FoodProduct;
+halalf:Air_Mancur_Madurasa_Original a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "630";
 	rdfs:label "air mancur madurasa original";
@@ -7853,9 +7853,9 @@ halalf:Anmum_Susu_Ibu_Hamil_Materna_Strawberry_White_Chocolate a foodlirmm:FoodP
     	rdfs:label "anmum susu ibu hamil materna strawberry white chocolate";
     	gr:hasManufacturer halalm:Pt_Sanghiang_Perkasa .
 
-    halalf:Anmum_Susu_Ibu_Hamil_Materna_Strawberry_White_Chocolate foodlirmm:certificate halalc:00040011611299 .
+halalf:Anmum_Susu_Ibu_Hamil_Materna_Strawberry_White_Chocolate foodlirmm:certificate halalc:00040011611299 .
 
-    halalf:Aqua_Air_Mineral a foodlirmm:FoodProduct;
+halalf:Aqua_Air_Mineral a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "144";
 	rdfs:label "aqua air mineral";
@@ -7885,9 +7885,9 @@ halalf:Aqua_Galon_Kosong_Isi_Ulang a foodlirmm:FoodProduct;
     	rdfs:label "aqua galon kosong + isi ulang";
     	gr:hasManufacturer halalm:Panji_Galon .
 
-    halalf:Aqua_Galon_Kosong_Isi_Ulang foodlirmm:certificate halalc:02160016671120 .
+halalf:Aqua_Galon_Kosong_Isi_Ulang foodlirmm:certificate halalc:02160016671120 .
 
-    halalf:Arnott_S_Biscuit_Nyam_Nyam_Bubble_Puff_Choco a foodlirmm:FoodProduct;
+halalf:Arnott_S_Biscuit_Nyam_Nyam_Bubble_Puff_Choco a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1235";
 	rdfs:label "arnott's biscuit nyam-nyam bubble puff choco";
@@ -7953,25 +7953,25 @@ halalf:Ayam_Brand_Mackerel_In_Tomato_Bulat a foodlirmm:FoodProduct;
     	rdfs:label "ayam brand mackerel in tomato bulat";
     	gr:hasManufacturer halalm:Fujian_Yonghua_Food_Co_Ltd .
 
-    halalf:Ayam_Brand_Mackerel_In_Tomato_Bulat foodlirmm:certificate halalc:00030099701119 .
+halalf:Ayam_Brand_Mackerel_In_Tomato_Bulat foodlirmm:certificate halalc:00030099701119 .
 
-    halalf:Ayam_Brand_Sardens_In_Tomato_Bulat a foodlirmm:FoodProduct;
+halalf:Ayam_Brand_Sardens_In_Tomato_Bulat a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "542";
     	rdfs:label "ayam brand sardens in tomato bulat";
     	gr:hasManufacturer halalm:Fujian_Yonghua_Food_Co_Ltd .
 
-    halalf:Ayam_Brand_Sardens_In_Tomato_Bulat foodlirmm:certificate halalc:00030099701119 .
+halalf:Ayam_Brand_Sardens_In_Tomato_Bulat foodlirmm:certificate halalc:00030099701119 .
 
-    halalf:Ayam_Brand_Sardens_Oval a foodlirmm:FoodProduct;
+halalf:Ayam_Brand_Sardens_Oval a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1182";
     	rdfs:label "ayam brand sardens oval";
     	gr:hasManufacturer halalm:Fujian_Yonghua_Food_Co_Ltd .
 
-    halalf:Ayam_Brand_Sardens_Oval foodlirmm:certificate halalc:00030099701119 .
+halalf:Ayam_Brand_Sardens_Oval foodlirmm:certificate halalc:00030099701119 .
 
-    halalf:A_T_B_Marie_Milk a foodlirmm:FoodProduct;
+halalf:A_T_B_Marie_Milk a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1026";
 	rdfs:label "a.t.b marie milk";
@@ -8049,17 +8049,17 @@ halalf:Bernardi_Corned_Beef a foodlirmm:FoodProduct;
     	rdfs:label "bernardi corned beef";
     	gr:hasManufacturer halalm:Pt_Pancamitra_Kreasi_Kulina .
 
-    halalf:Bernardi_Corned_Beef foodlirmm:certificate halalc:00160108031020 .
+halalf:Bernardi_Corned_Beef foodlirmm:certificate halalc:00160108031020 .
 
-    halalf:Bertolli_Olive_Oil_Classico a foodlirmm:FoodProduct;
+halalf:Bertolli_Olive_Oil_Classico a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "990";
     	rdfs:label "bertolli olive oil classico";
     	gr:hasManufacturer halalm:Pt_Lucas_Djaja .
 
-    halalf:Bertolli_Olive_Oil_Classico foodlirmm:certificate halalc:01271097480214 .
+halalf:Bertolli_Olive_Oil_Classico foodlirmm:certificate halalc:01271097480214 .
 
-    halalf:Bertolli_Olive_Oil_Extra_Light a foodlirmm:FoodProduct;
+halalf:Bertolli_Olive_Oil_Extra_Light a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "992";
 	rdfs:label "bertolli olive oil extra light";
@@ -8137,9 +8137,9 @@ halalf:Bihophar_Acacia_Honey a foodlirmm:FoodProduct;
     	rdfs:label "bihophar acacia honey";
     	gr:hasManufacturer halalm:Makuka_Honey .
 
-    halalf:Bihophar_Acacia_Honey foodlirmm:certificate halalc:05120019520320 .
+halalf:Bihophar_Acacia_Honey foodlirmm:certificate halalc:05120019520320 .
 
-    halalf:Bihophar_Black_Forest_Honey a foodlirmm:FoodProduct;
+halalf:Bihophar_Black_Forest_Honey a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "889";
 	rdfs:label "bihophar black forest honey";
@@ -8157,41 +8157,41 @@ halalf:Binggrae_Flavoured_Uht_Milk_Banana a foodlirmm:FoodProduct;
     	rdfs:label "binggrae flavoured uht milk banana";
     	gr:hasManufacturer halalm:Pt_Nestle_Indonesia .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Banana foodlirmm:certificate halalc:00120005360899 .
+halalf:Binggrae_Flavoured_Uht_Milk_Banana foodlirmm:certificate halalc:00120005360899 .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Lychee_Peach a foodlirmm:FoodProduct;
+halalf:Binggrae_Flavoured_Uht_Milk_Lychee_Peach a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "949";
     	rdfs:label "binggrae flavoured uht milk lychee,peach";
     	gr:hasManufacturer halalm:Pt_Mondo_Gelato_Asia .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Lychee_Peach foodlirmm:certificate halalc:15160049960520 .
+halalf:Binggrae_Flavoured_Uht_Milk_Lychee_Peach foodlirmm:certificate halalc:15160049960520 .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Melon a foodlirmm:FoodProduct;
+halalf:Binggrae_Flavoured_Uht_Milk_Melon a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1178";
     	rdfs:label "binggrae flavoured uht milk melon";
     	gr:hasManufacturer halalm:Pt_Cipta_Selera_Murni .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Melon foodlirmm:certificate halalc:00160026010903 .
+halalf:Binggrae_Flavoured_Uht_Milk_Melon foodlirmm:certificate halalc:00160026010903 .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Strawberry a foodlirmm:FoodProduct;
+halalf:Binggrae_Flavoured_Uht_Milk_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "694";
     	rdfs:label "binggrae flavoured uht milk strawberry";
     	gr:hasManufacturer halalm:Pt_Mondo_Gelato_Asia .
 
-    halalf:Binggrae_Flavoured_Uht_Milk_Strawberry foodlirmm:certificate halalc:15160049960520 .
+halalf:Binggrae_Flavoured_Uht_Milk_Strawberry foodlirmm:certificate halalc:15160049960520 .
 
-    halalf:Bintang_Radler_0_0_Blackcurrant_Lime a foodlirmm:FoodProduct;
+halalf:Bintang_Radler_0_0_Blackcurrant_Lime a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1245";
     	rdfs:label "bintang radler 0.0 blackcurrant,lime";
     	gr:hasManufacturer halalm:Pt_Bintang_Timur_Indoboga .
 
-    halalf:Bintang_Radler_0_0_Blackcurrant_Lime foodlirmm:certificate halalc:00160115230221 .
+halalf:Bintang_Radler_0_0_Blackcurrant_Lime foodlirmm:certificate halalc:00160115230221 .
 
-    halalf:Bintang_Soft_Drink_Radler_0_0 a foodlirmm:FoodProduct;
+halalf:Bintang_Soft_Drink_Radler_0_0 a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "896";
 	rdfs:label "bintang soft drink radler 0.0";
@@ -8245,9 +8245,9 @@ halalf:Biskuat_Biscuit_Wonderfull a foodlirmm:FoodProduct;
     	rdfs:label "biskuat biscuit wonderfull";
     	gr:hasManufacturer halalm:Cv_Sumodatama .
 
-    halalf:Biskuat_Biscuit_Wonderfull foodlirmm:certificate halalc:00160116420321 .
+halalf:Biskuat_Biscuit_Wonderfull foodlirmm:certificate halalc:00160116420321 .
 
-    halalf:Blenuten_Minuman_Serbuk_Instan_Vanila a foodlirmm:FoodProduct;
+halalf:Blenuten_Minuman_Serbuk_Instan_Vanila a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "273";
 	rdfs:label "blenuten minuman serbuk instan vanila";
@@ -8265,9 +8265,9 @@ halalf:Boncha_Brick_O_Cokelat_Biskuit a foodlirmm:FoodProduct;
     	rdfs:label "boncha brick-o cokelat biskuit";
     	gr:hasManufacturer halalm:C_V_Inti_Soekensan_Pangan .
 
-    halalf:Boncha_Brick_O_Cokelat_Biskuit foodlirmm:certificate halalc:17100054690420 .
+halalf:Boncha_Brick_O_Cokelat_Biskuit foodlirmm:certificate halalc:17100054690420 .
 
-    halalf:Bon_Cabe_Snack_Makaroni_Level_10 a foodlirmm:FoodProduct;
+halalf:Bon_Cabe_Snack_Makaroni_Level_10 a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "786";
 	rdfs:label "bon cabe snack makaroni level 10";
@@ -8405,9 +8405,9 @@ halalf:Buavita_Juice_Slim_Lychee a foodlirmm:FoodProduct;
     	rdfs:label "buavita juice slim lychee";
     	gr:hasManufacturer halalm:Pt_Bali_Alam_Rayya .
 
-    halalf:Buavita_Juice_Slim_Lychee foodlirmm:certificate halalc:08120008460316 .
+halalf:Buavita_Juice_Slim_Lychee foodlirmm:certificate halalc:08120008460316 .
 
-    halalf:Buavita_Juice_Slim_Mangga a foodlirmm:FoodProduct;
+halalf:Buavita_Juice_Slim_Mangga a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "624";
 	rdfs:label "buavita juice slim mangga";
@@ -8533,9 +8533,9 @@ halalf:Chekhup_White_Coffee_2_In_1_No_Added_Sugar a foodlirmm:FoodProduct;
     	rdfs:label "chekhup white coffee 2 in 1 no added sugar";
     	gr:hasManufacturer halalm:Pt_Jaya_Putra_Dewata .
 
-    halalf:Chekhup_White_Coffee_2_In_1_No_Added_Sugar foodlirmm:certificate halalc:00120070961214 .
+halalf:Chekhup_White_Coffee_2_In_1_No_Added_Sugar foodlirmm:certificate halalc:00120070961214 .
 
-    halalf:Chiki_Balls_Snack_Chocolate a foodlirmm:FoodProduct;
+halalf:Chiki_Balls_Snack_Chocolate a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "610";
 	rdfs:label "chiki balls snack chocolate";
@@ -8661,9 +8661,9 @@ halalf:Chocodrink_Belgian_Chocolate_Taste a foodlirmm:FoodProduct;
     	rdfs:label "chocodrink belgian chocolate taste";
     	gr:hasManufacturer halalm:Pt_Maxx_Coffee_Prima .
 
-    halalf:Chocodrink_Belgian_Chocolate_Taste foodlirmm:certificate halalc:00160105990820 .
+halalf:Chocodrink_Belgian_Chocolate_Taste foodlirmm:certificate halalc:00160105990820 .
 
-    halalf:Chocolatos_Chocolate_Drink a foodlirmm:FoodProduct;
+halalf:Chocolatos_Chocolate_Drink a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "340";
 	rdfs:label "chocolatos chocolate drink";
@@ -8681,9 +8681,9 @@ halalf:Chocolatos_Wafer_Roll_Mini a foodlirmm:FoodProduct;
     	rdfs:label "chocolatos wafer roll mini";
     	gr:hasManufacturer halalm:Esthree .
 
-    halalf:Chocolatos_Wafer_Roll_Mini foodlirmm:certificate halalc:15160029640418 .
+halalf:Chocolatos_Wafer_Roll_Mini foodlirmm:certificate halalc:15160029640418 .
 
-    halalf:Cho_Cho_Wafer_Snack_Chocolate_Rice_Crispy a foodlirmm:FoodProduct;
+halalf:Cho_Cho_Wafer_Snack_Chocolate_Rice_Crispy a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "790";
 	rdfs:label "cho-cho wafer snack chocolate rice crispy";
@@ -8713,17 +8713,17 @@ halalf:Chrysanthemum_Granule a foodlirmm:FoodProduct;
     	rdfs:label "chrysanthemum granule";
     	gr:hasManufacturer halalm:Pt_Konimex .
 
-    halalf:Chrysanthemum_Granule foodlirmm:certificate halalc:00130084070817 .
+halalf:Chrysanthemum_Granule foodlirmm:certificate halalc:00130084070817 .
 
-    halalf:Chui_Hiang_Pistachio_Nuts a foodlirmm:FoodProduct;
+halalf:Chui_Hiang_Pistachio_Nuts a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "631";
     	rdfs:label "chui hiang pistachio nuts";
     	gr:hasManufacturer halalm:Chui_Hiang_Pte_Ltd .
 
-    halalf:Chui_Hiang_Pistachio_Nuts foodlirmm:certificate halalc:00100095810519 .
+halalf:Chui_Hiang_Pistachio_Nuts foodlirmm:certificate halalc:00100095810519 .
 
-    halalf:Cimory_Yoghurt_Drink_Low_Fat_Strawberry_Mango a foodlirmm:FoodProduct;
+halalf:Cimory_Yoghurt_Drink_Low_Fat_Strawberry_Mango a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1121";
 	rdfs:label "cimory yoghurt drink low fat strawberry,mango";
@@ -8849,9 +8849,9 @@ halalf:Crystalline_Air_Mineral a foodlirmm:FoodProduct;
     	rdfs:label "crystalline air mineral";
     	gr:hasManufacturer halalm:Sibeste_Cv .
 
-    halalf:Crystalline_Air_Mineral foodlirmm:certificate halalc:07340061160719 .
+halalf:Crystalline_Air_Mineral foodlirmm:certificate halalc:07340061160719 .
 
-    halalf:Cy_Double_Hot_Chocolate_Drink a foodlirmm:FoodProduct;
+halalf:Cy_Double_Hot_Chocolate_Drink a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "595";
 	rdfs:label "cy double hot chocolate drink";
@@ -8917,9 +8917,9 @@ halalf:Delmonte_Whole_Kernel_Corn_Fresh_Cut a foodlirmm:FoodProduct;
     	rdfs:label "delmonte whole kernel corn fresh cut";
     	gr:hasManufacturer halalm:Pt_Daily_Fresh_Indonesia .
 
-    halalf:Delmonte_Whole_Kernel_Corn_Fresh_Cut foodlirmm:certificate halalc:01191162000416 .
+halalf:Delmonte_Whole_Kernel_Corn_Fresh_Cut foodlirmm:certificate halalc:01191162000416 .
 
-    halalf:Diabetasol_Susu_Formula_Diabetes_Vita_Digest_Vanila a foodlirmm:FoodProduct;
+halalf:Diabetasol_Susu_Formula_Diabetes_Vita_Digest_Vanila a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1168";
 	rdfs:label "diabetasol susu formula diabetes vita digest vanila";
@@ -8937,9 +8937,9 @@ halalf:Diabetasol_Zero_Calorie_Sweetener_50_S a foodlirmm:FoodProduct;
     	rdfs:label "diabetasol zero calorie sweetener 50's";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia .
 
-    halalf:Diabetasol_Zero_Calorie_Sweetener_50_S foodlirmm:certificate halalc:00230043470307 .
+halalf:Diabetasol_Zero_Calorie_Sweetener_50_S foodlirmm:certificate halalc:00230043470307 .
 
-    halalf:Diamond_Grains_Banana_Nana_Granola a foodlirmm:FoodProduct;
+halalf:Diamond_Grains_Banana_Nana_Granola a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1009";
 	rdfs:label "diamond grains banana nana granola";
@@ -9101,9 +9101,9 @@ halalf:Ellenka_Fiber_Creme a foodlirmm:FoodProduct;
     	rdfs:label "ellenka fiber creme";
     	gr:hasManufacturer halalm:Pt_Lautan_Natural_Krimerindo .
 
-    halalf:Ellenka_Fiber_Creme foodlirmm:certificate halalc:00120061610612 .
+halalf:Ellenka_Fiber_Creme foodlirmm:certificate halalc:00120061610612 .
 
-    halalf:Enam_Tiga_Premium_Tea_20_S_Assorted a foodlirmm:FoodProduct;
+halalf:Enam_Tiga_Premium_Tea_20_S_Assorted a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1114";
 	rdfs:label "enam tiga premium tea 20's assorted";
@@ -9145,9 +9145,9 @@ halalf:Ensure_Cokelat a foodlirmm:FoodProduct;
     	rdfs:label "ensure cokelat";
     	gr:hasManufacturer halalm:Esthree .
 
-    halalf:Ensure_Cokelat foodlirmm:certificate halalc:15160029640418 .
+halalf:Ensure_Cokelat foodlirmm:certificate halalc:15160029640418 .
 
-    halalf:Ensure_Nutrition_Powder_Fos_Vanila a foodlirmm:FoodProduct;
+halalf:Ensure_Nutrition_Powder_Fos_Vanila a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1170";
 	rdfs:label "ensure nutrition powder fos vanila";
@@ -9189,9 +9189,9 @@ halalf:Excelso_Kopi_Arabica a foodlirmm:FoodProduct;
     	rdfs:label "excelso kopi arabica";
     	gr:hasManufacturer halalm:Ppkopkdl_Kopi_Donomerto .
 
-    halalf:Excelso_Kopi_Arabica foodlirmm:certificate halalc:15120045280320 .
+halalf:Excelso_Kopi_Arabica foodlirmm:certificate halalc:15120045280320 .
 
-    halalf:Excelso_Kopi_Bubuk_Arabica_Gold a foodlirmm:FoodProduct;
+halalf:Excelso_Kopi_Bubuk_Arabica_Gold a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "286";
 	rdfs:label "excelso kopi bubuk arabica gold";
@@ -9233,33 +9233,33 @@ halalf:Filippo_Berio_Olive_Oil_Extra_Light a foodlirmm:FoodProduct;
     	rdfs:label "filippo berio olive oil extra light";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia_Sovena .
 
-    halalf:Filippo_Berio_Olive_Oil_Extra_Light foodlirmm:certificate halalc:00080103090320 .
+halalf:Filippo_Berio_Olive_Oil_Extra_Light foodlirmm:certificate halalc:00080103090320 .
 
-    halalf:Filippo_Berio_Olive_Oil_Extra_Virgin a foodlirmm:FoodProduct;
+halalf:Filippo_Berio_Olive_Oil_Extra_Virgin a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "738";
     	rdfs:label "filippo berio olive oil extra virgin";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia_Sovena .
 
-    halalf:Filippo_Berio_Olive_Oil_Extra_Virgin foodlirmm:certificate halalc:00080103090320 .
+halalf:Filippo_Berio_Olive_Oil_Extra_Virgin foodlirmm:certificate halalc:00080103090320 .
 
-    halalf:Filippo_Berio_Olive_Oil_Extra_Virgin_Spray a foodlirmm:FoodProduct;
+halalf:Filippo_Berio_Olive_Oil_Extra_Virgin_Spray a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "414";
     	rdfs:label "filippo berio olive oil extra virgin spray";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia_Sovena .
 
-    halalf:Filippo_Berio_Olive_Oil_Extra_Virgin_Spray foodlirmm:certificate halalc:00080103090320 .
+halalf:Filippo_Berio_Olive_Oil_Extra_Virgin_Spray foodlirmm:certificate halalc:00080103090320 .
 
-    halalf:Filippo_Berio_Olive_Oil_Mild_Light_Spray a foodlirmm:FoodProduct;
+halalf:Filippo_Berio_Olive_Oil_Mild_Light_Spray a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1236";
     	rdfs:label "filippo berio olive oil mild,light spray";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia_Sovena .
 
-    halalf:Filippo_Berio_Olive_Oil_Mild_Light_Spray foodlirmm:certificate halalc:00080103090320 .
+halalf:Filippo_Berio_Olive_Oil_Mild_Light_Spray foodlirmm:certificate halalc:00080103090320 .
 
-    halalf:Floridina_Juice_Pulp_Orange a foodlirmm:FoodProduct;
+halalf:Floridina_Juice_Pulp_Orange a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "560";
 	rdfs:label "floridina juice pulp orange";
@@ -9277,17 +9277,17 @@ halalf:Fox_S_Candy_Crystal_Clear_Berries a foodlirmm:FoodProduct;
     	rdfs:label "fox's candy crystal clear berries";
     	gr:hasManufacturer halalm:Pt_Immortal_Cosmedika_Indonesia .
 
-    halalf:Fox_S_Candy_Crystal_Clear_Berries foodlirmm:certificate halalc:00150068420314 .
+halalf:Fox_S_Candy_Crystal_Clear_Berries foodlirmm:certificate halalc:00150068420314 .
 
-    halalf:Fox_S_Candy_Fruits a foodlirmm:FoodProduct;
+halalf:Fox_S_Candy_Fruits a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1251";
     	rdfs:label "fox's candy fruits";
     	gr:hasManufacturer halalm:Pt_Dyriana .
 
-    halalf:Fox_S_Candy_Fruits foodlirmm:certificate halalc:15160037220419 .
+halalf:Fox_S_Candy_Fruits foodlirmm:certificate halalc:15160037220419 .
 
-    halalf:Frestea_Minuman_Teh_Apel a foodlirmm:FoodProduct;
+halalf:Frestea_Minuman_Teh_Apel a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "671";
 	rdfs:label "frestea minuman teh apel";
@@ -9353,33 +9353,33 @@ halalf:Fs_Beras_Hitam a foodlirmm:FoodProduct;
     	rdfs:label "fs beras hitam";
     	gr:hasManufacturer halalm:Alghifari .
 
-    halalf:Fs_Beras_Hitam foodlirmm:certificate halalc:01331247570520 .
+halalf:Fs_Beras_Hitam foodlirmm:certificate halalc:01331247570520 .
 
-    halalf:Fs_Beras_Ketan_Hitam a foodlirmm:FoodProduct;
+halalf:Fs_Beras_Ketan_Hitam a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "262";
     	rdfs:label "fs beras ketan hitam";
     	gr:hasManufacturer halalm:Sukses_Mandiri .
 
-    halalf:Fs_Beras_Ketan_Hitam foodlirmm:certificate halalc:01221247780620 .
+halalf:Fs_Beras_Ketan_Hitam foodlirmm:certificate halalc:01221247780620 .
 
-    halalf:Fs_Beras_Ketan_Putih a foodlirmm:FoodProduct;
+halalf:Fs_Beras_Ketan_Putih a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "245";
     	rdfs:label "fs beras ketan putih";
     	gr:hasManufacturer halalm:Sukses_Mandiri .
 
-    halalf:Fs_Beras_Ketan_Putih foodlirmm:certificate halalc:01221247780620 .
+halalf:Fs_Beras_Ketan_Putih foodlirmm:certificate halalc:01221247780620 .
 
-    halalf:Fs_Beras_Merah a foodlirmm:FoodProduct;
+halalf:Fs_Beras_Merah a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "98";
     	rdfs:label "fs beras merah";
     	gr:hasManufacturer halalm:Alghifari .
 
-    halalf:Fs_Beras_Merah foodlirmm:certificate halalc:01331247570520 .
+halalf:Fs_Beras_Merah foodlirmm:certificate halalc:01331247570520 .
 
-    halalf:Gadjah_Kopi_Tubruk_Manis_2_In_1 a foodlirmm:FoodProduct;
+halalf:Gadjah_Kopi_Tubruk_Manis_2_In_1 a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "522";
 	rdfs:label "gadjah kopi tubruk manis 2 in 1";
@@ -9493,9 +9493,9 @@ halalf:Garuda_Snack_Potato_Daging_Sapi_Bbq a foodlirmm:FoodProduct;
     	rdfs:label "garuda snack potato daging sapi bbq";
     	gr:hasManufacturer halalm:Pt_Katering_Makanan_Indonesia .
 
-    halalf:Garuda_Snack_Potato_Daging_Sapi_Bbq foodlirmm:certificate halalc:00340074090915 .
+halalf:Garuda_Snack_Potato_Daging_Sapi_Bbq foodlirmm:certificate halalc:00340074090915 .
 
-    halalf:Gery_Crackers_Malkist_Saluut_Matcha_Latte a foodlirmm:FoodProduct;
+halalf:Gery_Crackers_Malkist_Saluut_Matcha_Latte a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1145";
 	rdfs:label "gery crackers malkist saluut matcha latte";
@@ -9549,9 +9549,9 @@ halalf:Glico_Biscuit_Pocky_Colourful a foodlirmm:FoodProduct;
     	rdfs:label "glico biscuit pocky colourful";
     	gr:hasManufacturer halalm:Thai_Glico_Co_Ltd .
 
-    halalf:Glico_Biscuit_Pocky_Colourful foodlirmm:certificate halalc:00100078150816 .
+halalf:Glico_Biscuit_Pocky_Colourful foodlirmm:certificate halalc:00100078150816 .
 
-    halalf:Golda_Coffee_Drink_Dolce_Latte a foodlirmm:FoodProduct;
+halalf:Golda_Coffee_Drink_Dolce_Latte a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "39";
 	rdfs:label "golda coffee drink dolce latte";
@@ -9569,9 +9569,9 @@ halalf:Goldenfil_Jam_Strawberry a foodlirmm:FoodProduct;
     	rdfs:label "goldenfil jam strawberry";
     	gr:hasManufacturer halalm:Ud_Bali_Asli .
 
-    halalf:Goldenfil_Jam_Strawberry foodlirmm:certificate halalc:08250005461112 .
+halalf:Goldenfil_Jam_Strawberry foodlirmm:certificate halalc:08250005461112 .
 
-    halalf:Goody_Pudding_With_Nata_De_Coco_3_S_Lychee a foodlirmm:FoodProduct;
+halalf:Goody_Pudding_With_Nata_De_Coco_3_S_Lychee a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "412";
 	rdfs:label "goody pudding with nata de coco 3's lychee";
@@ -9769,9 +9769,9 @@ halalf:Harada_Green_Tea_Bag a foodlirmm:FoodProduct;
     	rdfs:label "harada green tea bag";
     	gr:hasManufacturer halalm:Tema_Tea .
 
-    halalf:Harada_Green_Tea_Bag foodlirmm:certificate halalc:00120101910120 .
+halalf:Harada_Green_Tea_Bag foodlirmm:certificate halalc:00120101910120 .
 
-    halalf:Harada_Green_Tea_Bag_With_Brown_Rice a foodlirmm:FoodProduct;
+halalf:Harada_Green_Tea_Bag_With_Brown_Rice a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "195";
 	rdfs:label "harada green tea bag with brown rice";
@@ -9825,17 +9825,17 @@ halalf:Hershey_S_Delicious_Syrup_Caramel a foodlirmm:FoodProduct;
     	rdfs:label "hershey's delicious syrup caramel";
     	gr:hasManufacturer halalm:Gambino_Coffee .
 
-    halalf:Hershey_S_Delicious_Syrup_Caramel foodlirmm:certificate halalc:00120088760518 .
+halalf:Hershey_S_Delicious_Syrup_Caramel foodlirmm:certificate halalc:00120088760518 .
 
-    halalf:Hershey_S_Delicious_Syrup_Strawberry a foodlirmm:FoodProduct;
+halalf:Hershey_S_Delicious_Syrup_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "679";
     	rdfs:label "hershey's delicious syrup strawberry";
     	gr:hasManufacturer halalm:Gambino_Coffee .
 
-    halalf:Hershey_S_Delicious_Syrup_Strawberry foodlirmm:certificate halalc:00120088760518 .
+halalf:Hershey_S_Delicious_Syrup_Strawberry foodlirmm:certificate halalc:00120088760518 .
 
-    halalf:Hijra_Kurma_Tunisia a foodlirmm:FoodProduct;
+halalf:Hijra_Kurma_Tunisia a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1059";
 	rdfs:label "hijra kurma tunisia";
@@ -9865,25 +9865,25 @@ halalf:Huwi_Silky_Pudding_Chocolate a foodlirmm:FoodProduct;
     	rdfs:label "huwi silky pudding chocolate";
     	gr:hasManufacturer halalm:Pt_Maquis_Indonesia .
 
-    halalf:Huwi_Silky_Pudding_Chocolate foodlirmm:certificate halalc:00210114030121 .
+halalf:Huwi_Silky_Pudding_Chocolate foodlirmm:certificate halalc:00210114030121 .
 
-    halalf:Huwi_Silky_Pudding_Mango a foodlirmm:FoodProduct;
+halalf:Huwi_Silky_Pudding_Mango a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "570";
     	rdfs:label "huwi silky pudding mango";
     	gr:hasManufacturer halalm:Pt_Maquis_Indonesia .
 
-    halalf:Huwi_Silky_Pudding_Mango foodlirmm:certificate halalc:00210114030121 .
+halalf:Huwi_Silky_Pudding_Mango foodlirmm:certificate halalc:00210114030121 .
 
-    halalf:Huwi_Silky_Pudding_Strawberry a foodlirmm:FoodProduct;
+halalf:Huwi_Silky_Pudding_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "572";
     	rdfs:label "huwi silky pudding strawberry";
     	gr:hasManufacturer halalm:Cv_Sinarfood_Healthindo .
 
-    halalf:Huwi_Silky_Pudding_Strawberry foodlirmm:certificate halalc:15250062676020 .
+halalf:Huwi_Silky_Pudding_Strawberry foodlirmm:certificate halalc:15250062676020 .
 
-    halalf:Hydro_Coco_Natural_Health_Drink a foodlirmm:FoodProduct;
+halalf:Hydro_Coco_Natural_Health_Drink a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "898";
 	rdfs:label "hydro coco natural health drink";
@@ -10045,9 +10045,9 @@ halalf:Indomaret_Air_Minum a foodlirmm:FoodProduct;
     	rdfs:label "indomaret air minum";
     	gr:hasManufacturer halalm:Pt_Aetra_Air_Tangerang .
 
-    halalf:Indomaret_Air_Minum foodlirmm:certificate halalc:00170092031118 .
+halalf:Indomaret_Air_Minum foodlirmm:certificate halalc:00170092031118 .
 
-    halalf:Indomaret_Air_Oksi a foodlirmm:FoodProduct;
+halalf:Indomaret_Air_Oksi a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1166";
 	rdfs:label "indomaret air oksi";
@@ -10113,25 +10113,25 @@ halalf:Indomaret_Bumbu_Biji_Kemiri a foodlirmm:FoodProduct;
     	rdfs:label "indomaret bumbu biji kemiri";
     	gr:hasManufacturer halalm:Cv_Kalandara .
 
-    halalf:Indomaret_Bumbu_Biji_Kemiri foodlirmm:certificate halalc:01061076870812 .
+halalf:Indomaret_Bumbu_Biji_Kemiri foodlirmm:certificate halalc:01061076870812 .
 
-    halalf:Indomaret_Bumbu_Ketumbar a foodlirmm:FoodProduct;
+halalf:Indomaret_Bumbu_Ketumbar a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "923";
     	rdfs:label "indomaret bumbu ketumbar";
     	gr:hasManufacturer halalm:Cv_Munira_Setia .
 
-    halalf:Indomaret_Bumbu_Ketumbar foodlirmm:certificate halalc:06200010981217 .
+halalf:Indomaret_Bumbu_Ketumbar foodlirmm:certificate halalc:06200010981217 .
 
-    halalf:Indomaret_Bumbu_Lada_Putih a foodlirmm:FoodProduct;
+halalf:Indomaret_Bumbu_Lada_Putih a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "337";
     	rdfs:label "indomaret bumbu lada putih";
     	gr:hasManufacturer halalm:Lada_Alam .
 
-    halalf:Indomaret_Bumbu_Lada_Putih foodlirmm:certificate halalc:00060109051120 .
+halalf:Indomaret_Bumbu_Lada_Putih foodlirmm:certificate halalc:00060109051120 .
 
-    halalf:Indomaret_Candy_Gummy a foodlirmm:FoodProduct;
+halalf:Indomaret_Candy_Gummy a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1253";
 	rdfs:label "indomaret candy gummy";
@@ -10161,9 +10161,9 @@ halalf:Indomaret_Coklat_Meisis a foodlirmm:FoodProduct;
     	rdfs:label "indomaret coklat meisis";
     	gr:hasManufacturer halalm:Pt_Gita .
 
-    halalf:Indomaret_Coklat_Meisis foodlirmm:certificate halalc:15100000720307 .
+halalf:Indomaret_Coklat_Meisis foodlirmm:certificate halalc:15100000720307 .
 
-    halalf:Indomaret_Coklat_Meisis_Mix a foodlirmm:FoodProduct;
+halalf:Indomaret_Coklat_Meisis_Mix a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "931";
 	rdfs:label "indomaret coklat meisis mix";
@@ -10229,9 +10229,9 @@ halalf:Indomaret_Galon_Isi_Oksi a foodlirmm:FoodProduct;
     	rdfs:label "indomaret galon + isi oksi";
     	gr:hasManufacturer halalm:Panji_Galon .
 
-    halalf:Indomaret_Galon_Isi_Oksi foodlirmm:certificate halalc:02160016671120 .
+halalf:Indomaret_Galon_Isi_Oksi foodlirmm:certificate halalc:02160016671120 .
 
-    halalf:Indomaret_Gula_Halus a foodlirmm:FoodProduct;
+halalf:Indomaret_Gula_Halus a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "402";
 	rdfs:label "indomaret gula halus";
@@ -10441,9 +10441,9 @@ halalf:Indomaret_Keripik_Singkong_Asin a foodlirmm:FoodProduct;
     	rdfs:label "indomaret keripik singkong asin";
     	gr:hasManufacturer halalm:Askha_Jaya .
 
-    halalf:Indomaret_Keripik_Singkong_Asin foodlirmm:certificate halalc:02120014651219 .
+halalf:Indomaret_Keripik_Singkong_Asin foodlirmm:certificate halalc:02120014651219 .
 
-    halalf:Indomaret_Keripik_Singkong_Tradisional a foodlirmm:FoodProduct;
+halalf:Indomaret_Keripik_Singkong_Tradisional a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "359";
 	rdfs:label "indomaret keripik singkong tradisional";
@@ -10497,9 +10497,9 @@ halalf:Indomaret_Kuaci a foodlirmm:FoodProduct;
     	rdfs:label "indomaret kuaci";
     	gr:hasManufacturer halalm:Pt_Gita .
 
-    halalf:Indomaret_Kuaci foodlirmm:certificate halalc:15100000720307 .
+halalf:Indomaret_Kuaci foodlirmm:certificate halalc:15100000720307 .
 
-    halalf:Indomaret_Kuaci_Susu a foodlirmm:FoodProduct;
+halalf:Indomaret_Kuaci_Susu a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1030";
 	rdfs:label "indomaret kuaci susu";
@@ -10613,17 +10613,17 @@ halalf:Indomaret_Snack_Kue_Tambang a foodlirmm:FoodProduct;
     	rdfs:label "indomaret snack kue tambang";
     	gr:hasManufacturer halalm:Yosita_Snack .
 
-    halalf:Indomaret_Snack_Kue_Tambang foodlirmm:certificate halalc:15100039370819 .
+halalf:Indomaret_Snack_Kue_Tambang foodlirmm:certificate halalc:15100039370819 .
 
-    halalf:Indomaret_Snack_Kuku_Macan a foodlirmm:FoodProduct;
+halalf:Indomaret_Snack_Kuku_Macan a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "845";
     	rdfs:label "indomaret snack kuku macan";
     	gr:hasManufacturer halalm:Sinar_Terang .
 
-    halalf:Indomaret_Snack_Kuku_Macan foodlirmm:certificate halalc:10100004910313 .
+halalf:Indomaret_Snack_Kuku_Macan foodlirmm:certificate halalc:10100004910313 .
 
-    halalf:Indomaret_Snack_Pang_Pang a foodlirmm:FoodProduct;
+halalf:Indomaret_Snack_Pang_Pang a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1204";
 	rdfs:label "indomaret snack pang-pang";
@@ -10653,17 +10653,17 @@ halalf:Indomaret_Teh_Daun_Jawa_Oolong a foodlirmm:FoodProduct;
     	rdfs:label "indomaret teh daun jawa oolong";
     	gr:hasManufacturer halalm:Pt_Eka_Bogainti .
 
-    halalf:Indomaret_Teh_Daun_Jawa_Oolong foodlirmm:certificate halalc:00160048830908 .
+halalf:Indomaret_Teh_Daun_Jawa_Oolong foodlirmm:certificate halalc:00160048830908 .
 
-    halalf:Indomaret_Teh_Daun_Jawa_Oolong_Jasmine a foodlirmm:FoodProduct;
+halalf:Indomaret_Teh_Daun_Jawa_Oolong_Jasmine a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "794";
     	rdfs:label "indomaret teh daun jawa oolong jasmine";
     	gr:hasManufacturer halalm:Pt_Eka_Bogainti .
 
-    halalf:Indomaret_Teh_Daun_Jawa_Oolong_Jasmine foodlirmm:certificate halalc:00160048830908 .
+halalf:Indomaret_Teh_Daun_Jawa_Oolong_Jasmine foodlirmm:certificate halalc:00160048830908 .
 
-    halalf:Indomaret_Teh_Hijau_Celup_Melati a foodlirmm:FoodProduct;
+halalf:Indomaret_Teh_Hijau_Celup_Melati a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "103";
 	rdfs:label "indomaret teh hijau celup melati";
@@ -10909,9 +10909,9 @@ halalf:Kartika_Toast_Soesnack_Chocolate a foodlirmm:FoodProduct;
     	rdfs:label "kartika toast soesnack chocolate";
     	gr:hasManufacturer halalm:Cv_Khariza_Inti_Boga .
 
-    halalf:Kartika_Toast_Soesnack_Chocolate foodlirmm:certificate halalc:03160024250419 .
+halalf:Kartika_Toast_Soesnack_Chocolate foodlirmm:certificate halalc:03160024250419 .
 
-    halalf:Karuhun_Keripik_Singkong_Original a foodlirmm:FoodProduct;
+halalf:Karuhun_Keripik_Singkong_Original a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "23";
 	rdfs:label "karuhun keripik singkong original";
@@ -10977,17 +10977,17 @@ halalf:Kepala_Djenggot_Teh_Celup_25_S_Green_Tea a foodlirmm:FoodProduct;
     	rdfs:label "kepala djenggot teh celup 25's green tea";
     	gr:hasManufacturer halalm:Cv_Toga_Nusantara .
 
-    halalf:Kepala_Djenggot_Teh_Celup_25_S_Green_Tea foodlirmm:certificate halalc:00130056471010 .
+halalf:Kepala_Djenggot_Teh_Celup_25_S_Green_Tea foodlirmm:certificate halalc:00130056471010 .
 
-    halalf:Kewpie_Saus_Siram_Wijen_Sangrai a foodlirmm:FoodProduct;
+halalf:Kewpie_Saus_Siram_Wijen_Sangrai a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "760";
     	rdfs:label "kewpie saus siram wijen sangrai";
     	gr:hasManufacturer halalm:Pt_Inkenas_Agung .
 
-    halalf:Kewpie_Saus_Siram_Wijen_Sangrai foodlirmm:certificate halalc:00060019690402 .
+halalf:Kewpie_Saus_Siram_Wijen_Sangrai foodlirmm:certificate halalc:00060019690402 .
 
-    halalf:Khong_Guan_Biscuit_Red_Assorted a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Biscuit_Red_Assorted a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "979";
 	rdfs:label "khong guan biscuit red assorted";
@@ -11017,25 +11017,25 @@ halalf:Khong_Guan_Crackers_Potatoz a foodlirmm:FoodProduct;
     	rdfs:label "khong guan crackers potatoz";
     	gr:hasManufacturer halalm:Pt_Khong_Guan_Biscuit_Factory_Indonesia_Ltd .
 
-    halalf:Khong_Guan_Crackers_Potatoz foodlirmm:certificate halalc:00100039280306 .
+halalf:Khong_Guan_Crackers_Potatoz foodlirmm:certificate halalc:00100039280306 .
 
-    halalf:Khong_Guan_Crackers_Saltcheese_Barbeque a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Crackers_Saltcheese_Barbeque a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1076";
     	rdfs:label "khong guan crackers saltcheese barbeque";
     	gr:hasManufacturer halalm:Pt_Khong_Guan_Biscuit_Factory_Indonesia_Ltd .
 
-    halalf:Khong_Guan_Crackers_Saltcheese_Barbeque foodlirmm:certificate halalc:00100039280306 .
+halalf:Khong_Guan_Crackers_Saltcheese_Barbeque foodlirmm:certificate halalc:00100039280306 .
 
-    halalf:Khong_Guan_Crackers_Saltcheese_Combociz a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Crackers_Saltcheese_Combociz a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1092";
     	rdfs:label "khong guan crackers saltcheese combociz";
     	gr:hasManufacturer halalm:Pt_Khong_Guan_Biscuit_Factory_Indonesia_Ltd .
 
-    halalf:Khong_Guan_Crackers_Saltcheese_Combociz foodlirmm:certificate halalc:00100039280306 .
+halalf:Khong_Guan_Crackers_Saltcheese_Combociz foodlirmm:certificate halalc:00100039280306 .
 
-    halalf:Khong_Guan_Crackers_Saltcheese_Regular a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Crackers_Saltcheese_Regular a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1086";
 	rdfs:label "khong guan crackers saltcheese regular";
@@ -11053,41 +11053,41 @@ halalf:Khong_Guan_Crackers_Salt_Pepper a foodlirmm:FoodProduct;
     	rdfs:label "khong guan crackers salt,pepper";
     	gr:hasManufacturer halalm:Pt_Khong_Guan_Biscuit_Factory_Indonesia_Ltd .
 
-    halalf:Khong_Guan_Crackers_Salt_Pepper foodlirmm:certificate halalc:00100039280306 .
+halalf:Khong_Guan_Crackers_Salt_Pepper foodlirmm:certificate halalc:00100039280306 .
 
-    halalf:Khong_Guan_Crackers_Wafer_Saltcheese_Combo a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Crackers_Wafer_Saltcheese_Combo a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1123";
     	rdfs:label "khong guan crackers + wafer saltcheese combo";
     	gr:hasManufacturer halalm:Pt_Serena_Indopangan_Industri .
 
-    halalf:Khong_Guan_Crackers_Wafer_Saltcheese_Combo foodlirmm:certificate halalc:00100040660306 .
+halalf:Khong_Guan_Crackers_Wafer_Saltcheese_Combo foodlirmm:certificate halalc:00100040660306 .
 
-    halalf:Khong_Guan_Wafer_Stick_Chocolate a foodlirmm:FoodProduct;
+halalf:Khong_Guan_Wafer_Stick_Chocolate a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "820";
     	rdfs:label "khong guan wafer stick chocolate";
     	gr:hasManufacturer halalm:Bangun_Anugerah_Persada_Pt .
 
-    halalf:Khong_Guan_Wafer_Stick_Chocolate foodlirmm:certificate halalc:07100041411017 .
+halalf:Khong_Guan_Wafer_Stick_Chocolate foodlirmm:certificate halalc:07100041411017 .
 
-    halalf:Kikkoman_Saus_Bulgogi a foodlirmm:FoodProduct;
+halalf:Kikkoman_Saus_Bulgogi a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "566";
     	rdfs:label "kikkoman saus bulgogi";
     	gr:hasManufacturer halalm:Pt_Bamboe_Indonesia .
 
-    halalf:Kikkoman_Saus_Bulgogi foodlirmm:certificate halalc:088_SPKP_MUI_JATIM .
+halalf:Kikkoman_Saus_Bulgogi foodlirmm:certificate halalc:088_SPKP_MUI_JATIM .
 
-    halalf:Kikkoman_Saus_Pedas_Ala_Korea a foodlirmm:FoodProduct;
+halalf:Kikkoman_Saus_Pedas_Ala_Korea a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "767";
     	rdfs:label "kikkoman saus pedas ala korea";
     	gr:hasManufacturer halalm:Pt_Ajinomoto_Indonesia .
 
-    halalf:Kikkoman_Saus_Pedas_Ala_Korea foodlirmm:certificate halalc:00060008910908 .
+halalf:Kikkoman_Saus_Pedas_Ala_Korea foodlirmm:certificate halalc:00060008910908 .
 
-    halalf:Kinder_Joy_Chocolate_Crispy_Girl a foodlirmm:FoodProduct;
+halalf:Kinder_Joy_Chocolate_Crispy_Girl a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "962";
 	rdfs:label "kinder joy chocolate crispy girl";
@@ -11153,9 +11153,9 @@ halalf:Klop_Cracker_Saluto_Choconut a foodlirmm:FoodProduct;
     	rdfs:label "klop cracker saluto choconut";
     	gr:hasManufacturer halalm:Golite .
 
-    halalf:Klop_Cracker_Saluto_Choconut foodlirmm:certificate halalc:01101161420316 .
+halalf:Klop_Cracker_Saluto_Choconut foodlirmm:certificate halalc:01101161420316 .
 
-    halalf:Kobe_Tepung_Bumbu_Putih a foodlirmm:FoodProduct;
+halalf:Kobe_Tepung_Bumbu_Putih a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "565";
 	rdfs:label "kobe tepung bumbu putih";
@@ -11173,9 +11173,9 @@ halalf:Kobe_Tepung_Roti a foodlirmm:FoodProduct;
     	rdfs:label "kobe tepung roti";
     	gr:hasManufacturer halalm:Menil .
 
-    halalf:Kobe_Tepung_Roti foodlirmm:certificate halalc:01111089680713 .
+halalf:Kobe_Tepung_Roti foodlirmm:certificate halalc:01111089680713 .
 
-    halalf:Kolln_Crunchy_Muesli_Choco_Brittle a foodlirmm:FoodProduct;
+halalf:Kolln_Crunchy_Muesli_Choco_Brittle a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1167";
 	rdfs:label "kolln crunchy muesli choco brittle";
@@ -11409,9 +11409,9 @@ halalf:Kurma_Fresh a foodlirmm:FoodProduct;
     	rdfs:label "kurma fresh";
     	gr:hasManufacturer halalm:Timtim .
 
-    halalf:Kurma_Fresh foodlirmm:certificate halalc:224_SPKP_MUI_JATIM .
+halalf:Kurma_Fresh foodlirmm:certificate halalc:224_SPKP_MUI_JATIM .
 
-    halalf:Kusuka_Cassava_Snack_Barbeque a foodlirmm:FoodProduct;
+halalf:Kusuka_Cassava_Snack_Barbeque a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1080";
 	rdfs:label "kusuka cassava snack barbeque";
@@ -11513,9 +11513,9 @@ halalf:Kusuka_Keripik_Talas_Sapi_Panggang a foodlirmm:FoodProduct;
     	rdfs:label "kusuka keripik talas sapi panggang";
     	gr:hasManufacturer halalm:Ppkopbnr_Ud_Cahaya .
 
-    halalf:Kusuka_Keripik_Talas_Sapi_Panggang foodlirmm:certificate halalc:15100048670420 .
+halalf:Kusuka_Keripik_Talas_Sapi_Panggang foodlirmm:certificate halalc:15100048670420 .
 
-    halalf:Lay_S_Snack_Potato_Chips_Bbq_Fiesta a foodlirmm:FoodProduct;
+halalf:Lay_S_Snack_Potato_Chips_Bbq_Fiesta a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "796";
 	rdfs:label "lay's snack potato chips bbq fiesta";
@@ -11653,9 +11653,9 @@ halalf:Loacker_Wafer_Quadratini_Cocoa_Milk a foodlirmm:FoodProduct;
     	rdfs:label "loacker wafer quadratini cocoa,milk";
     	gr:hasManufacturer halalm:Pt_Puratos_Indonesia .
 
-    halalf:Loacker_Wafer_Quadratini_Cocoa_Milk foodlirmm:certificate halalc:00210025450703 .
+halalf:Loacker_Wafer_Quadratini_Cocoa_Milk foodlirmm:certificate halalc:00210025450703 .
 
-    halalf:Loacker_Wafer_Quadratini_Dark_Chocolate a foodlirmm:FoodProduct;
+halalf:Loacker_Wafer_Quadratini_Dark_Chocolate a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "838";
 	rdfs:label "loacker wafer quadratini dark chocolate";
@@ -11709,41 +11709,41 @@ halalf:Lotte_Minuman_Bersoda_Milkis_Banana a foodlirmm:FoodProduct;
     	rdfs:label "lotte minuman bersoda milkis banana";
     	gr:hasManufacturer halalm:Arayaindo .
 
-    halalf:Lotte_Minuman_Bersoda_Milkis_Banana foodlirmm:certificate halalc:00120106620920 .
+halalf:Lotte_Minuman_Bersoda_Milkis_Banana foodlirmm:certificate halalc:00120106620920 .
 
-    halalf:Lotte_Minuman_Bersoda_Milkis_Strawberry a foodlirmm:FoodProduct;
+halalf:Lotte_Minuman_Bersoda_Milkis_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1161";
     	rdfs:label "lotte minuman bersoda milkis strawberry";
     	gr:hasManufacturer halalm:Pt_Goodfood_Indonesia .
 
-    halalf:Lotte_Minuman_Bersoda_Milkis_Strawberry foodlirmm:certificate halalc:00120042890107 .
+halalf:Lotte_Minuman_Bersoda_Milkis_Strawberry foodlirmm:certificate halalc:00120042890107 .
 
-    halalf:Lotte_Minuman_Buah_Pear a foodlirmm:FoodProduct;
+halalf:Lotte_Minuman_Buah_Pear a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "994";
     	rdfs:label "lotte minuman buah pear";
     	gr:hasManufacturer halalm:Fans_Food .
 
-    halalf:Lotte_Minuman_Buah_Pear foodlirmm:certificate halalc:15120031200518 .
+halalf:Lotte_Minuman_Buah_Pear foodlirmm:certificate halalc:15120031200518 .
 
-    halalf:Lotte_Minuman_Chilsung_Cider_Lemon a foodlirmm:FoodProduct;
+halalf:Lotte_Minuman_Chilsung_Cider_Lemon a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1162";
     	rdfs:label "lotte minuman chilsung cider lemon";
     	gr:hasManufacturer halalm:Dapoer_Bunda_Ochie .
 
-    halalf:Lotte_Minuman_Chilsung_Cider_Lemon foodlirmm:certificate halalc:03120027410819 .
+halalf:Lotte_Minuman_Chilsung_Cider_Lemon foodlirmm:certificate halalc:03120027410819 .
 
-    halalf:Lotte_Minuman_Rasa_Buah_Grape_Coconut a foodlirmm:FoodProduct;
+halalf:Lotte_Minuman_Rasa_Buah_Grape_Coconut a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "955";
     	rdfs:label "lotte minuman rasa buah grape,coconut";
     	gr:hasManufacturer halalm:Arayaindo .
 
-    halalf:Lotte_Minuman_Rasa_Buah_Grape_Coconut foodlirmm:certificate halalc:00120106620920 .
+halalf:Lotte_Minuman_Rasa_Buah_Grape_Coconut foodlirmm:certificate halalc:00120106620920 .
 
-    halalf:Lotte_Snack_Biscuit_Koala_Chocolate a foodlirmm:FoodProduct;
+halalf:Lotte_Snack_Biscuit_Koala_Chocolate a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "849";
 	rdfs:label "lotte snack biscuit koala chocolate";
@@ -11761,25 +11761,25 @@ halalf:Lotus_Biscoff_Biscuit_Karamel a foodlirmm:FoodProduct;
     	rdfs:label "lotus biscoff biscuit karamel";
     	gr:hasManufacturer halalm:Pt_Premier_Doughnut_Indonesia_Krispy_Kreme .
 
-    halalf:Lotus_Biscoff_Biscuit_Karamel foodlirmm:certificate halalc:00160068660314 .
+halalf:Lotus_Biscoff_Biscuit_Karamel foodlirmm:certificate halalc:00160068660314 .
 
-    halalf:Lovy_Butter_Cookies_Choco_Butter a foodlirmm:FoodProduct;
+halalf:Lovy_Butter_Cookies_Choco_Butter a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "76";
     	rdfs:label "lovy butter cookies choco butter";
     	gr:hasManufacturer halalm:Yona_Butter_Cookies .
 
-    halalf:Lovy_Butter_Cookies_Choco_Butter foodlirmm:certificate halalc:01201225260419 .
+halalf:Lovy_Butter_Cookies_Choco_Butter foodlirmm:certificate halalc:01201225260419 .
 
-    halalf:Lovy_Butter_Cookies_Coffeeccino a foodlirmm:FoodProduct;
+halalf:Lovy_Butter_Cookies_Coffeeccino a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "579";
     	rdfs:label "lovy butter cookies coffeeccino";
     	gr:hasManufacturer halalm:Yona_Butter_Cookies .
 
-    halalf:Lovy_Butter_Cookies_Coffeeccino foodlirmm:certificate halalc:01201225260419 .
+halalf:Lovy_Butter_Cookies_Coffeeccino foodlirmm:certificate halalc:01201225260419 .
 
-    halalf:Lo_Han_Kuo_Minuman_Infusion a foodlirmm:FoodProduct;
+halalf:Lo_Han_Kuo_Minuman_Infusion a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "795";
 	rdfs:label "lo han kuo minuman infusion";
@@ -11833,17 +11833,17 @@ halalf:Maling_Mailing_Greenpeas a foodlirmm:FoodProduct;
     	rdfs:label "maling/mailing greenpeas";
     	gr:hasManufacturer halalm:Pt_Pureeland_Nutritama_Prima .
 
-    halalf:Maling_Mailing_Greenpeas foodlirmm:certificate halalc:00050102520220 .
+halalf:Maling_Mailing_Greenpeas foodlirmm:certificate halalc:00050102520220 .
 
-    halalf:Mama_Mie_Instant_Noodles_Kimchi a foodlirmm:FoodProduct;
+halalf:Mama_Mie_Instant_Noodles_Kimchi a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1213";
     	rdfs:label "mama mie instant noodles kimchi";
     	gr:hasManufacturer halalm:Pt_Nissin_Foods_Indonesia .
 
-    halalf:Mama_Mie_Instant_Noodles_Kimchi foodlirmm:certificate halalc:00090005000297 .
+halalf:Mama_Mie_Instant_Noodles_Kimchi foodlirmm:certificate halalc:00090005000297 .
 
-    halalf:Mama_Mie_Instant_Noodle_Beef a foodlirmm:FoodProduct;
+halalf:Mama_Mie_Instant_Noodle_Beef a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "902";
 	rdfs:label "mama mie instant noodle beef";
@@ -11873,9 +11873,9 @@ halalf:Mama_Mie_Instant_Noodle_Shrimp_Tom_Yum a foodlirmm:FoodProduct;
     	rdfs:label "mama mie instant noodle shrimp tom yum";
     	gr:hasManufacturer halalm:Paramartha_Dharmaguna_Pt .
 
-    halalf:Mama_Mie_Instant_Noodle_Shrimp_Tom_Yum foodlirmm:certificate halalc:07090017940613 .
+halalf:Mama_Mie_Instant_Noodle_Shrimp_Tom_Yum foodlirmm:certificate halalc:07090017940613 .
 
-    halalf:Marjan_Syrup_Cocopan a foodlirmm:FoodProduct;
+halalf:Marjan_Syrup_Cocopan a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "905";
 	rdfs:label "marjan syrup cocopan,";
@@ -11941,9 +11941,9 @@ halalf:Max_Creamer_Krimer_Nabati_Non_Dairy a foodlirmm:FoodProduct;
     	rdfs:label "max creamer krimer nabati non dairy";
     	gr:hasManufacturer halalm:Pt_Hakiki_Donarta .
 
-    halalf:Max_Creamer_Krimer_Nabati_Non_Dairy foodlirmm:certificate halalc:00120078360816 .
+halalf:Max_Creamer_Krimer_Nabati_Non_Dairy foodlirmm:certificate halalc:00120078360816 .
 
-    halalf:Mayasi_Kacang_Jepang_Bawang a foodlirmm:FoodProduct;
+halalf:Mayasi_Kacang_Jepang_Bawang a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "623";
 	rdfs:label "mayasi kacang jepang bawang";
@@ -11973,9 +11973,9 @@ halalf:Maya_Sardens_Tomato_Chili_Sauce a foodlirmm:FoodProduct;
     	rdfs:label "maya sardens tomato,chili sauce";
     	gr:hasManufacturer halalm:Cv_Pasific_Harvest .
 
-    halalf:Maya_Sardens_Tomato_Chili_Sauce foodlirmm:certificate halalc:00030000761094 .
+halalf:Maya_Sardens_Tomato_Chili_Sauce foodlirmm:certificate halalc:00030000761094 .
 
-    halalf:Maya_Sarden_In_Tomato_Sauce a foodlirmm:FoodProduct;
+halalf:Maya_Sarden_In_Tomato_Sauce a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "398";
 	rdfs:label "maya sarden in tomato sauce";
@@ -12053,9 +12053,9 @@ halalf:Milo_Healthy_Drink_3_In_1_Actigen_E a foodlirmm:FoodProduct;
     	rdfs:label "milo healthy drink 3 in 1 actigen-e";
     	gr:hasManufacturer halalm:Ibuku_Bakery .
 
-    halalf:Milo_Healthy_Drink_3_In_1_Actigen_E foodlirmm:certificate halalc:15160037920619 .
+halalf:Milo_Healthy_Drink_3_In_1_Actigen_E foodlirmm:certificate halalc:15160037920619 .
 
-    halalf:Milo_Healthy_Drink_Polybag_Activ_Go a foodlirmm:FoodProduct;
+halalf:Milo_Healthy_Drink_Polybag_Activ_Go a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1279";
 	rdfs:label "milo healthy drink polybag activ-go";
@@ -12073,9 +12073,9 @@ halalf:Milo_Sereal_Bar_Cokelat a foodlirmm:FoodProduct;
     	rdfs:label "milo sereal bar cokelat";
     	gr:hasManufacturer halalm:Bakoel_Tjoklat .
 
-    halalf:Milo_Sereal_Bar_Cokelat foodlirmm:certificate halalc:05110021641220 .
+halalf:Milo_Sereal_Bar_Cokelat foodlirmm:certificate halalc:05110021641220 .
 
-    halalf:Mister_Potato_Snack_Crisps_Original a foodlirmm:FoodProduct;
+halalf:Mister_Potato_Snack_Crisps_Original a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "664";
 	rdfs:label "mister potato snack crisps original";
@@ -12093,17 +12093,17 @@ halalf:Mister_Potato_Snack_Crisps_Roasted_Beef a foodlirmm:FoodProduct;
     	rdfs:label "mister potato snack crisps roasted beef";
     	gr:hasManufacturer halalm:Cv_Kenanga .
 
-    halalf:Mister_Potato_Snack_Crisps_Roasted_Beef foodlirmm:certificate halalc:00340105590720 .
+halalf:Mister_Potato_Snack_Crisps_Roasted_Beef foodlirmm:certificate halalc:00340105590720 .
 
-    halalf:Mister_Potato_Snack_To_Go_Crisps_Roasted_Beef a foodlirmm:FoodProduct;
+halalf:Mister_Potato_Snack_To_Go_Crisps_Roasted_Beef a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1199";
     	rdfs:label "mister potato snack to go crisps roasted beef";
     	gr:hasManufacturer halalm:Cv_Kenanga .
 
-    halalf:Mister_Potato_Snack_To_Go_Crisps_Roasted_Beef foodlirmm:certificate halalc:00340105590720 .
+halalf:Mister_Potato_Snack_To_Go_Crisps_Roasted_Beef foodlirmm:certificate halalc:00340105590720 .
 
-    halalf:Mizone_Mood_Up_Minuman_Isotonik_Cranberry a foodlirmm:FoodProduct;
+halalf:Mizone_Mood_Up_Minuman_Isotonik_Cranberry a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1217";
 	rdfs:label "mizone mood up minuman isotonik cranberry";
@@ -12145,49 +12145,49 @@ halalf:Mi_Gemez_Snack_Mie_Kering_Enak_Fam_Pack_Spicy a foodlirmm:FoodProduct;
     	rdfs:label "mi gemez snack mie kering enak fam pack spicy";
     	gr:hasManufacturer halalm:Pt_Surya_Pratista_Hutama .
 
-    halalf:Mi_Gemez_Snack_Mie_Kering_Enak_Fam_Pack_Spicy foodlirmm:certificate halalc:00090071710115 .
+halalf:Mi_Gemez_Snack_Mie_Kering_Enak_Fam_Pack_Spicy foodlirmm:certificate halalc:00090071710115 .
 
-    halalf:Mogu_Moguminuman_Nata_De_Coco_Strawberry a foodlirmm:FoodProduct;
+halalf:Mogu_Moguminuman_Nata_De_Coco_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "484";
     	rdfs:label "mogu-moguminuman nata de coco strawberry";
     	gr:hasManufacturer halalm:Cv_Berkah .
 
-    halalf:Mogu_Moguminuman_Nata_De_Coco_Strawberry foodlirmm:certificate halalc:15160022971016 .
+halalf:Mogu_Moguminuman_Nata_De_Coco_Strawberry foodlirmm:certificate halalc:15160022971016 .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Coconut a foodlirmm:FoodProduct;
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Coconut a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "335";
     	rdfs:label "mogu-mogu minuman nata de coco coconut";
     	gr:hasManufacturer halalm:Pt_Kosena_Lestari_Makmur .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Coconut foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Coconut foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Grape a foodlirmm:FoodProduct;
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Grape a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "334";
     	rdfs:label "mogu-mogu minuman nata de coco grape";
     	gr:hasManufacturer halalm:Pt_Kosena_Lestari_Makmur .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Grape foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Grape foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Lychee a foodlirmm:FoodProduct;
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Lychee a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "409";
     	rdfs:label "mogu-mogu minuman nata de coco lychee";
     	gr:hasManufacturer halalm:Pt_Kosena_Lestari_Makmur .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Lychee foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Lychee foodlirmm:certificate halalc:303_SPKP_MUI_JATIM .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Mangga a foodlirmm:FoodProduct;
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Mangga a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "316";
     	rdfs:label "mogu-mogu minuman nata de coco mangga";
     	gr:hasManufacturer halalm:Pt_Greshindo_Aroma .
 
-    halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Mangga foodlirmm:certificate halalc:00120060021211 .
+halalf:Mogu_Mogu_Minuman_Nata_De_Coco_Mangga foodlirmm:certificate halalc:00120060021211 .
 
-    halalf:Monde_Biscuit_Bourbon_Black_Vanila a foodlirmm:FoodProduct;
+halalf:Monde_Biscuit_Bourbon_Black_Vanila a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1139";
 	rdfs:label "monde biscuit bourbon black vanila";
@@ -12337,9 +12337,9 @@ halalf:Mr_Bread_Roti_Isi_Abon_Ayam_Mayo_Pedas a foodlirmm:FoodProduct;
     	rdfs:label "mr.bread roti isi abon ayam mayo pedas";
     	gr:hasManufacturer halalm:Pt_Lottemart_Indonesia .
 
-    halalf:Mr_Bread_Roti_Isi_Abon_Ayam_Mayo_Pedas foodlirmm:certificate halalc:00160090860918 .
+halalf:Mr_Bread_Roti_Isi_Abon_Ayam_Mayo_Pedas foodlirmm:certificate halalc:00160090860918 .
 
-    halalf:Mr_Hottest_Snack_Tortilla_Chips_Maitos_Sambal_Balado a foodlirmm:FoodProduct;
+halalf:Mr_Hottest_Snack_Tortilla_Chips_Maitos_Sambal_Balado a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1015";
 	rdfs:label "mr.hottest snack tortilla chips maitos sambal balado";
@@ -12417,9 +12417,9 @@ halalf:Muria_Seblak_Stick_Cabe_Merah a foodlirmm:FoodProduct;
     	rdfs:label "muria seblak stick cabe merah";
     	gr:hasManufacturer halalm:Royyan .
 
-    halalf:Muria_Seblak_Stick_Cabe_Merah foodlirmm:certificate halalc:05100020521120 .
+halalf:Muria_Seblak_Stick_Cabe_Merah foodlirmm:certificate halalc:05100020521120 .
 
-    halalf:Muria_Telur_Ikan a foodlirmm:FoodProduct;
+halalf:Muria_Telur_Ikan a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "385";
 	rdfs:label "muria telur ikan";
@@ -12437,17 +12437,17 @@ halalf:Nabati_Bisvit_Marie_Sandwich_Cheese_Cream a foodlirmm:FoodProduct;
     	rdfs:label "nabati bisvit marie sandwich cheese cream";
     	gr:hasManufacturer halalm:Mondelez_Indonesia_Manufacturing .
 
-    halalf:Nabati_Bisvit_Marie_Sandwich_Cheese_Cream foodlirmm:certificate halalc:00100039270306 .
+halalf:Nabati_Bisvit_Marie_Sandwich_Cheese_Cream foodlirmm:certificate halalc:00100039270306 .
 
-    halalf:Nabati_Graker_Biscuit_Crackers_Richoco a foodlirmm:FoodProduct;
+halalf:Nabati_Graker_Biscuit_Crackers_Richoco a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1040";
     	rdfs:label "nabati graker biscuit crackers richoco";
     	gr:hasManufacturer halalm:Pt_Kaldu_Sari_Nabati_Indonesia .
 
-    halalf:Nabati_Graker_Biscuit_Crackers_Richoco foodlirmm:certificate halalc:00100062440912 .
+halalf:Nabati_Graker_Biscuit_Crackers_Richoco foodlirmm:certificate halalc:00100062440912 .
 
-    halalf:Nadesha_Snack_Kue_Gambang a foodlirmm:FoodProduct;
+halalf:Nadesha_Snack_Kue_Gambang a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "727";
 	rdfs:label "nadesha snack kue gambang";
@@ -12465,9 +12465,9 @@ halalf:Naraya_Roasted_Almond a foodlirmm:FoodProduct;
     	rdfs:label "naraya roasted almond";
     	gr:hasManufacturer halalm:Tros .
 
-    halalf:Naraya_Roasted_Almond foodlirmm:certificate halalc:01121217501218 .
+halalf:Naraya_Roasted_Almond foodlirmm:certificate halalc:01121217501218 .
 
-    halalf:Neo_Coffee_Kopi_Instant_Caramel_Machiato a foodlirmm:FoodProduct;
+halalf:Neo_Coffee_Kopi_Instant_Caramel_Machiato a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "464";
 	rdfs:label "neo coffee kopi instant caramel machiato";
@@ -12629,9 +12629,9 @@ halalf:Nextar_Strawberry_Cookies a foodlirmm:FoodProduct;
     	rdfs:label "nextar strawberry cookies";
     	gr:hasManufacturer halalm:Yona_Butter_Cookies .
 
-    halalf:Nextar_Strawberry_Cookies foodlirmm:certificate halalc:01201225260419 .
+halalf:Nextar_Strawberry_Cookies foodlirmm:certificate halalc:01201225260419 .
 
-    halalf:Nissin_Biscuit_Butter_Coconut a foodlirmm:FoodProduct;
+halalf:Nissin_Biscuit_Butter_Coconut a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "615";
 	rdfs:label "nissin biscuit butter coconut";
@@ -12949,17 +12949,17 @@ halalf:Oatbits_Biskuit_Oat_Strawbery_Yogurt a foodlirmm:FoodProduct;
     	rdfs:label "oatbits biskuit oat strawbery,yogurt";
     	gr:hasManufacturer halalm:Pt_Inkubisc .
 
-    halalf:Oatbits_Biskuit_Oat_Strawbery_Yogurt foodlirmm:certificate halalc:00100077860716 .
+halalf:Oatbits_Biskuit_Oat_Strawbery_Yogurt foodlirmm:certificate halalc:00100077860716 .
 
-    halalf:Oatbits_Biskuit_Oat_Vitafruit a foodlirmm:FoodProduct;
+halalf:Oatbits_Biskuit_Oat_Vitafruit a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "909";
     	rdfs:label "oatbits biskuit oat vitafruit";
     	gr:hasManufacturer halalm:Pt_Inkubisc .
 
-    halalf:Oatbits_Biskuit_Oat_Vitafruit foodlirmm:certificate halalc:00100077860716 .
+halalf:Oatbits_Biskuit_Oat_Vitafruit foodlirmm:certificate halalc:00100077860716 .
 
-    halalf:Oatbits_Oat8_Biscuit_Havermout_Almond a foodlirmm:FoodProduct;
+halalf:Oatbits_Oat8_Biscuit_Havermout_Almond a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1234";
 	rdfs:label "oatbits oat8 biscuit havermout almond";
@@ -13169,9 +13169,9 @@ halalf:Olivoila_Olive_Oil_Extra_Virgin a foodlirmm:FoodProduct;
     	rdfs:label "olivoila olive oil extra virgin";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia_Sovena .
 
-    halalf:Olivoila_Olive_Oil_Extra_Virgin foodlirmm:certificate halalc:00080103090320 .
+halalf:Olivoila_Olive_Oil_Extra_Virgin foodlirmm:certificate halalc:00080103090320 .
 
-    halalf:Olw_Cheez_Ballz_Snack a foodlirmm:FoodProduct;
+halalf:Olw_Cheez_Ballz_Snack a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1254";
 	rdfs:label "olw cheez ballz snack";
@@ -13201,25 +13201,25 @@ halalf:Orchid_Butter a foodlirmm:FoodProduct;
     	rdfs:label "orchid butter";
     	gr:hasManufacturer halalm:Melessi .
 
-    halalf:Orchid_Butter foodlirmm:certificate halalc:17040032320817 .
+halalf:Orchid_Butter foodlirmm:certificate halalc:17040032320817 .
 
-    halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hijau a foodlirmm:FoodProduct;
+halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hijau a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "946";
     	rdfs:label "pada suka kue phia 5's kacang hijau";
     	gr:hasManufacturer halalm:Kue_Kering_Aini_Bpjph2020 .
 
-    halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hijau foodlirmm:certificate halalc:08200012001120 .
+halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hijau foodlirmm:certificate halalc:08200012001120 .
 
-    halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hitam a foodlirmm:FoodProduct;
+halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hitam a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1050";
     	rdfs:label "pada suka kue phia 5's kacang hitam";
     	gr:hasManufacturer halalm:Pt_Matahari_Putra_Prima_Tbk .
 
-    halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hitam foodlirmm:certificate halalc:00160103310320 .
+halalf:Pada_Suka_Kue_Phia_5_S_Kacang_Hitam foodlirmm:certificate halalc:00160103310320 .
 
-    halalf:Panda_Grass_Jelly_Drink a foodlirmm:FoodProduct;
+halalf:Panda_Grass_Jelly_Drink a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "485";
 	rdfs:label "panda grass jelly drink";
@@ -13237,17 +13237,17 @@ halalf:Piattos_Premium_Snack_Kentang_Barbeque_With_Black_Pepper a foodlirmm:Food
     	rdfs:label "piattos premium snack kentang barbeque with black pepper";
     	gr:hasManufacturer halalm:Pt_Multirasa_Nusantara_Yoshinoya_Restaurant .
 
-    halalf:Piattos_Premium_Snack_Kentang_Barbeque_With_Black_Pepper foodlirmm:certificate halalc:00160068240214 .
+halalf:Piattos_Premium_Snack_Kentang_Barbeque_With_Black_Pepper foodlirmm:certificate halalc:00160068240214 .
 
-    halalf:Piattos_Premium_Snack_Kentang_Sambal_Geprek_With_Barbeque a foodlirmm:FoodProduct;
+halalf:Piattos_Premium_Snack_Kentang_Sambal_Geprek_With_Barbeque a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1047";
     	rdfs:label "piattos premium snack kentang sambal geprek with barbeque";
     	gr:hasManufacturer halalm:Pt_Urc_Indonesia .
 
-    halalf:Piattos_Premium_Snack_Kentang_Sambal_Geprek_With_Barbeque foodlirmm:certificate halalc:00100042041006 .
+halalf:Piattos_Premium_Snack_Kentang_Sambal_Geprek_With_Barbeque foodlirmm:certificate halalc:00100042041006 .
 
-    halalf:Piattos_Snack_Kentang_Kimchi a foodlirmm:FoodProduct;
+halalf:Piattos_Snack_Kentang_Kimchi a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "637";
 	rdfs:label "piattos snack kentang kimchi";
@@ -13313,25 +13313,25 @@ halalf:Pon_Brownies_Kukus_Panggang_Chocolate a foodlirmm:FoodProduct;
     	rdfs:label "pon,brownies kukus / panggang chocolate";
     	gr:hasManufacturer halalm:Cv_Ka_Kha_Catering .
 
-    halalf:Pon_Brownies_Kukus_Panggang_Chocolate foodlirmm:certificate halalc:05160019741020 .
+halalf:Pon_Brownies_Kukus_Panggang_Chocolate foodlirmm:certificate halalc:05160019741020 .
 
-    halalf:Pon_Sponge_Cake_Mix_Pan a foodlirmm:FoodProduct;
+halalf:Pon_Sponge_Cake_Mix_Pan a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "112";
     	rdfs:label "pon,sponge cake mix pan,";
     	gr:hasManufacturer halalm:Esthree .
 
-    halalf:Pon_Sponge_Cake_Mix_Pan foodlirmm:certificate halalc:15160029640418 .
+halalf:Pon_Sponge_Cake_Mix_Pan foodlirmm:certificate halalc:15160029640418 .
 
-    halalf:Pon_Sponge_Cake_Mix_Vanilla a foodlirmm:FoodProduct;
+halalf:Pon_Sponge_Cake_Mix_Vanilla a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "228";
     	rdfs:label "pon,sponge cake mix vanilla";
     	gr:hasManufacturer halalm:Pt_Sriboga_Flour_Mill .
 
-    halalf:Pon_Sponge_Cake_Mix_Vanilla foodlirmm:certificate halalc:00210068030214 .
+halalf:Pon_Sponge_Cake_Mix_Vanilla foodlirmm:certificate halalc:00210068030214 .
 
-    halalf:Pororo_Minuman_Berperisa_Blueberry a foodlirmm:FoodProduct;
+halalf:Pororo_Minuman_Berperisa_Blueberry a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1129";
 	rdfs:label "pororo minuman berperisa blueberry";
@@ -13433,9 +13433,9 @@ halalf:Pristine_8_Air_Mineral a foodlirmm:FoodProduct;
     	rdfs:label "pristine 8+ air mineral";
     	gr:hasManufacturer halalm:Sibeste_Cv .
 
-    halalf:Pristine_8_Air_Mineral foodlirmm:certificate halalc:07340061160719 .
+halalf:Pristine_8_Air_Mineral foodlirmm:certificate halalc:07340061160719 .
 
-    halalf:Pronas_Chunky_Corned_Beef a foodlirmm:FoodProduct;
+halalf:Pronas_Chunky_Corned_Beef a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1143";
 	rdfs:label "pronas chunky corned beef";
@@ -13489,9 +13489,9 @@ halalf:Pronas_Corned_Chicken a foodlirmm:FoodProduct;
     	rdfs:label "pronas corned chicken";
     	gr:hasManufacturer halalm:Dioz_Chicken .
 
-    halalf:Pronas_Corned_Chicken foodlirmm:certificate halalc:00160093440119 .
+halalf:Pronas_Corned_Chicken foodlirmm:certificate halalc:00160093440119 .
 
-    halalf:Pronas_Luncheon_Ayam a foodlirmm:FoodProduct;
+halalf:Pronas_Luncheon_Ayam a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "869";
 	rdfs:label "pronas luncheon ayam";
@@ -13533,9 +13533,9 @@ halalf:Pro_Chiz_Keju_Gold_Slice_12_S a foodlirmm:FoodProduct;
     	rdfs:label "pro chiz keju gold slice 12's";
     	gr:hasManufacturer halalm:Cv_Cahya_Nusa_Pratama .
 
-    halalf:Pro_Chiz_Keju_Gold_Slice_12_S foodlirmm:certificate halalc:01211064181011 .
+halalf:Pro_Chiz_Keju_Gold_Slice_12_S foodlirmm:certificate halalc:01211064181011 .
 
-    halalf:Pro_Chiz_Keju_Slice_10_S a foodlirmm:FoodProduct;
+halalf:Pro_Chiz_Keju_Slice_10_S a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1277";
 	rdfs:label "pro chiz keju slice 10's";
@@ -13553,9 +13553,9 @@ halalf:Pro_Chiz_Keju_Slice_5_S a foodlirmm:FoodProduct;
     	rdfs:label "pro chiz keju slice 5's";
     	gr:hasManufacturer halalm:Esthree .
 
-    halalf:Pro_Chiz_Keju_Slice_5_S foodlirmm:certificate halalc:15160029640418 .
+halalf:Pro_Chiz_Keju_Slice_5_S foodlirmm:certificate halalc:15160029640418 .
 
-    halalf:Purnama_Kemplang_Bangka_5_S_Ikan_Tenggiri a foodlirmm:FoodProduct;
+halalf:Purnama_Kemplang_Bangka_5_S_Ikan_Tenggiri a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "908";
 	rdfs:label "purnama kemplang bangka 5's ikan tenggiri";
@@ -13705,9 +13705,9 @@ halalf:Roma_Biscuit_Susu_Selai_Slai_O_Lai_Blueberry a foodlirmm:FoodProduct;
     	rdfs:label "roma biscuit susu + selai slai o'lai blueberry";
     	gr:hasManufacturer halalm:Pt_Mayora_Indah_Tbk .
 
-    halalf:Roma_Biscuit_Susu_Selai_Slai_O_Lai_Blueberry foodlirmm:certificate halalc:00100014301200 .
+halalf:Roma_Biscuit_Susu_Selai_Slai_O_Lai_Blueberry foodlirmm:certificate halalc:00100014301200 .
 
-    halalf:Roma_Biscuit_Susu_Selai_Slai_O_Lai_Strawberry a foodlirmm:FoodProduct;
+halalf:Roma_Biscuit_Susu_Selai_Slai_O_Lai_Strawberry a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1244";
 	rdfs:label "roma biscuit susu+selai slai o'lai strawberry";
@@ -13749,9 +13749,9 @@ halalf:Samyang_Mie_Instant_Goreng_Pedas_Ayam a foodlirmm:FoodProduct;
     	rdfs:label "samyang mie instant goreng pedas ayam";
     	gr:hasManufacturer halalm:Delta_Aerosupport_Pt .
 
-    halalf:Samyang_Mie_Instant_Goreng_Pedas_Ayam foodlirmm:certificate halalc:15160024850517 .
+halalf:Samyang_Mie_Instant_Goreng_Pedas_Ayam foodlirmm:certificate halalc:15160024850517 .
 
-    halalf:Samyang_Mie_Instant_Goreng_Pedas_Ayam_Carbonara a foodlirmm:FoodProduct;
+halalf:Samyang_Mie_Instant_Goreng_Pedas_Ayam_Carbonara a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "523";
 	rdfs:label "samyang mie instant goreng pedas ayam carbonara";
@@ -13877,9 +13877,9 @@ halalf:Sedaap_Mie_Instant_Korean_Spicy_Chicken a foodlirmm:FoodProduct;
     	rdfs:label "sedaap mie instant korean spicy chicken";
     	gr:hasManufacturer halalm:Pt_Flip_Burger_Internasional .
 
-    halalf:Sedaap_Mie_Instant_Korean_Spicy_Chicken foodlirmm:certificate halalc:00160111931220 .
+halalf:Sedaap_Mie_Instant_Korean_Spicy_Chicken foodlirmm:certificate halalc:00160111931220 .
 
-    halalf:Sedaap_Mie_Instant_Soto a foodlirmm:FoodProduct;
+halalf:Sedaap_Mie_Instant_Soto a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "675";
 	rdfs:label "sedaap mie instant soto";
@@ -13897,57 +13897,57 @@ halalf:Selma_Blanched_Almonds_Slice a foodlirmm:FoodProduct;
     	rdfs:label "selma blanched almonds slice";
     	gr:hasManufacturer halalm:Pt_Indowooyang .
 
-    halalf:Selma_Blanched_Almonds_Slice foodlirmm:certificate halalc:01191080621112 .
+halalf:Selma_Blanched_Almonds_Slice foodlirmm:certificate halalc:01191080621112 .
 
-    halalf:Selma_Natural_Almonds_Supreme a foodlirmm:FoodProduct;
+halalf:Selma_Natural_Almonds_Supreme a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1259";
     	rdfs:label "selma natural almonds supreme";
     	gr:hasManufacturer halalm:Anjung_Coffee .
 
-    halalf:Selma_Natural_Almonds_Supreme foodlirmm:certificate halalc:02160015641120 .
+halalf:Selma_Natural_Almonds_Supreme foodlirmm:certificate halalc:02160015641120 .
 
-    halalf:Selma_Pumpkin_Seeds a foodlirmm:FoodProduct;
+halalf:Selma_Pumpkin_Seeds a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1103";
     	rdfs:label "selma pumpkin seeds";
     	gr:hasManufacturer halalm:Pt_Salad_Segar_Lestari .
 
-    halalf:Selma_Pumpkin_Seeds foodlirmm:certificate halalc:00160116550321 .
+halalf:Selma_Pumpkin_Seeds foodlirmm:certificate halalc:00160116550321 .
 
-    halalf:Serena_Biscuit_Short_Cake_Cream_Chocolate a foodlirmm:FoodProduct;
+halalf:Serena_Biscuit_Short_Cake_Cream_Chocolate a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "686";
     	rdfs:label "serena biscuit short cake cream chocolate";
     	gr:hasManufacturer halalm:Pt_Ceres .
 
-    halalf:Serena_Biscuit_Short_Cake_Cream_Chocolate foodlirmm:certificate halalc:00110040600606 .
+halalf:Serena_Biscuit_Short_Cake_Cream_Chocolate foodlirmm:certificate halalc:00110040600606 .
 
-    halalf:Serena_Butter_Waffle a foodlirmm:FoodProduct;
+halalf:Serena_Butter_Waffle a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "289";
     	rdfs:label "serena butter waffle";
     	gr:hasManufacturer halalm:Pt_Serena_Indopangan_Industri .
 
-    halalf:Serena_Butter_Waffle foodlirmm:certificate halalc:00100040660306 .
+halalf:Serena_Butter_Waffle foodlirmm:certificate halalc:00100040660306 .
 
-    halalf:Serena_Caramelised_Biscuit_Troy a foodlirmm:FoodProduct;
+halalf:Serena_Caramelised_Biscuit_Troy a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1112";
     	rdfs:label "serena caramelised biscuit troy";
     	gr:hasManufacturer halalm:Pt_Serena_Indopangan_Industri .
 
-    halalf:Serena_Caramelised_Biscuit_Troy foodlirmm:certificate halalc:00100040660306 .
+halalf:Serena_Caramelised_Biscuit_Troy foodlirmm:certificate halalc:00100040660306 .
 
-    halalf:Serena_Chocolate_Chip_Cookies_Broniz a foodlirmm:FoodProduct;
+halalf:Serena_Chocolate_Chip_Cookies_Broniz a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "651";
     	rdfs:label "serena chocolate chip cookies broniz";
     	gr:hasManufacturer halalm:Jawara_Roti_Amp_Kue .
 
-    halalf:Serena_Chocolate_Chip_Cookies_Broniz foodlirmm:certificate halalc:09160011620919 .
+halalf:Serena_Chocolate_Chip_Cookies_Broniz foodlirmm:certificate halalc:09160011620919 .
 
-    halalf:Sido_Muncul_Jahe_Susu a foodlirmm:FoodProduct;
+halalf:Sido_Muncul_Jahe_Susu a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "735";
 	rdfs:label "sido muncul jahe susu";
@@ -13989,41 +13989,41 @@ halalf:Slim_Fit_Cookies_Dark_Chocolate a foodlirmm:FoodProduct;
     	rdfs:label "slim,fit cookies dark chocolate";
     	gr:hasManufacturer halalm:Nichoa_Chocolatte .
 
-    halalf:Slim_Fit_Cookies_Dark_Chocolate foodlirmm:certificate halalc:15100061900920 .
+halalf:Slim_Fit_Cookies_Dark_Chocolate foodlirmm:certificate halalc:15100061900920 .
 
-    halalf:Slim_Fit_Cookies_Raisin_Cinnamon a foodlirmm:FoodProduct;
+halalf:Slim_Fit_Cookies_Raisin_Cinnamon a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "773";
     	rdfs:label "slim,fit cookies raisin cinnamon";
     	gr:hasManufacturer halalm:Nichoa_Chocolatte .
 
-    halalf:Slim_Fit_Cookies_Raisin_Cinnamon foodlirmm:certificate halalc:15100061900920 .
+halalf:Slim_Fit_Cookies_Raisin_Cinnamon foodlirmm:certificate halalc:15100061900920 .
 
-    halalf:Smax_Snack_Balls_Cheese a foodlirmm:FoodProduct;
+halalf:Smax_Snack_Balls_Cheese a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "910";
     	rdfs:label "smax snack balls cheese";
     	gr:hasManufacturer halalm:Pbpjphsmg_Fadiyaz_Snack .
 
-    halalf:Smax_Snack_Balls_Cheese foodlirmm:certificate halalc:15100062881020 .
+halalf:Smax_Snack_Balls_Cheese foodlirmm:certificate halalc:15100062881020 .
 
-    halalf:Smax_Snack_Onion_Ring_Original a foodlirmm:FoodProduct;
+halalf:Smax_Snack_Onion_Ring_Original a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "912";
     	rdfs:label "smax snack onion ring original";
     	gr:hasManufacturer halalm:Ilmuwan_Snack .
 
-    halalf:Smax_Snack_Onion_Ring_Original foodlirmm:certificate halalc:02100017721220 .
+halalf:Smax_Snack_Onion_Ring_Original foodlirmm:certificate halalc:02100017721220 .
 
-    halalf:Sobisco_Choco_Mania_Cookies_Chip_Rich_Chocolate a foodlirmm:FoodProduct;
+halalf:Sobisco_Choco_Mania_Cookies_Chip_Rich_Chocolate a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "699";
     	rdfs:label "sobisco choco mania cookies chip rich chocolate";
     	gr:hasManufacturer halalm:Julieac_A_A_C_S_Manufacturing_Sdn_Bhd .
 
-    halalf:Sobisco_Choco_Mania_Cookies_Chip_Rich_Chocolate foodlirmm:certificate halalc:00100084210817 .
+halalf:Sobisco_Choco_Mania_Cookies_Chip_Rich_Chocolate foodlirmm:certificate halalc:00100084210817 .
 
-    halalf:Sosro_Teh_Botol a foodlirmm:FoodProduct;
+halalf:Sosro_Teh_Botol a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "287";
 	rdfs:label "sosro teh botol";
@@ -14137,9 +14137,9 @@ halalf:S_26_Procal_Susu_Bubuk_Pertumbuhan_3_Vanilla a foodlirmm:FoodProduct;
     	rdfs:label "s-26 procal susu bubuk pertumbuhan 3 vanilla";
     	gr:hasManufacturer halalm:Pt_Frisian_Flag_Indonesia .
 
-    halalf:S_26_Procal_Susu_Bubuk_Pertumbuhan_3_Vanilla foodlirmm:certificate halalc:00040040520606 .
+halalf:S_26_Procal_Susu_Bubuk_Pertumbuhan_3_Vanilla foodlirmm:certificate halalc:00040040520606 .
 
-    halalf:S_B_Golden_Curry_Mix_Hot a foodlirmm:FoodProduct;
+halalf:S_B_Golden_Curry_Mix_Hot a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1151";
 	rdfs:label "s,b golden curry mix hot";
@@ -14169,49 +14169,49 @@ halalf:S_W_Mandarin_Orange_In_Light_Syrup a foodlirmm:FoodProduct;
     	rdfs:label "s,w mandarin orange in light syrup";
     	gr:hasManufacturer halalm:Pt_Formosa_Ingredient_Factory .
 
-    halalf:S_W_Mandarin_Orange_In_Light_Syrup foodlirmm:certificate halalc:17120043981118 .
+halalf:S_W_Mandarin_Orange_In_Light_Syrup foodlirmm:certificate halalc:17120043981118 .
 
-    halalf:Tango_Drink_Berry_Dremio_Dreamy_Strawberry a foodlirmm:FoodProduct;
+halalf:Tango_Drink_Berry_Dremio_Dreamy_Strawberry a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1041";
     	rdfs:label "tango drink berry dremio dreamy strawberry";
     	gr:hasManufacturer halalm:Aleka_Drink .
 
-    halalf:Tango_Drink_Berry_Dremio_Dreamy_Strawberry foodlirmm:certificate halalc:03120027060819 .
+halalf:Tango_Drink_Berry_Dremio_Dreamy_Strawberry foodlirmm:certificate halalc:03120027060819 .
 
-    halalf:Tango_Drink_Creamio_Banana_Pudding a foodlirmm:FoodProduct;
+halalf:Tango_Drink_Creamio_Banana_Pudding a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1214";
     	rdfs:label "tango drink creamio banana pudding";
     	gr:hasManufacturer halalm:Pt_Premier_Boga_Nusantara .
 
-    halalf:Tango_Drink_Creamio_Banana_Pudding foodlirmm:certificate halalc:00120097520719 .
+halalf:Tango_Drink_Creamio_Banana_Pudding foodlirmm:certificate halalc:00120097520719 .
 
-    halalf:Tango_Drink_Don_Pedro a foodlirmm:FoodProduct;
+halalf:Tango_Drink_Don_Pedro a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1278";
     	rdfs:label "tango drink don pedro";
     	gr:hasManufacturer halalm:Rirora_Dcafe .
 
-    halalf:Tango_Drink_Don_Pedro foodlirmm:certificate halalc:05160022181220 .
+halalf:Tango_Drink_Don_Pedro foodlirmm:certificate halalc:05160022181220 .
 
-    halalf:Tango_Drink_Velluto a foodlirmm:FoodProduct;
+halalf:Tango_Drink_Velluto a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1256";
     	rdfs:label "tango drink velluto";
     	gr:hasManufacturer halalm:Rirora_Dcafe .
 
-    halalf:Tango_Drink_Velluto foodlirmm:certificate halalc:05160022181220 .
+halalf:Tango_Drink_Velluto foodlirmm:certificate halalc:05160022181220 .
 
-    halalf:Tango_Drink_Velluto_Italian_Choco a foodlirmm:FoodProduct;
+halalf:Tango_Drink_Velluto_Italian_Choco a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1052";
     	rdfs:label "tango drink velluto italian choco";
     	gr:hasManufacturer halalm:Bilani .
 
-    halalf:Tango_Drink_Velluto_Italian_Choco foodlirmm:certificate halalc:03120026770719 .
+halalf:Tango_Drink_Velluto_Italian_Choco foodlirmm:certificate halalc:03120026770719 .
 
-    halalf:Tango_Wafer_Strawberry_Jam a foodlirmm:FoodProduct;
+halalf:Tango_Wafer_Strawberry_Jam a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "725";
 	rdfs:label "tango wafer strawberry jam";
@@ -14277,9 +14277,9 @@ halalf:Taro_Snack_Net_Teriyaki_Bbq a foodlirmm:FoodProduct;
     	rdfs:label "taro snack net teriyaki bbq";
     	gr:hasManufacturer halalm:Pt_Aloha_Snack_Unggul .
 
-    halalf:Taro_Snack_Net_Teriyaki_Bbq foodlirmm:certificate halalc:01101075380812 .
+halalf:Taro_Snack_Net_Teriyaki_Bbq foodlirmm:certificate halalc:01101075380812 .
 
-    halalf:Taro_Snack_Potato_Barbeque a foodlirmm:FoodProduct;
+halalf:Taro_Snack_Potato_Barbeque a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1079";
 	rdfs:label "taro snack potato barbeque";
@@ -14321,17 +14321,17 @@ halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang a foodlirmm:FoodProduct;
     	rdfs:label "tic tic snack crunchy stick bawang";
     	gr:hasManufacturer halalm:Pkprinsmg_Aneka_Snack_Mentari .
 
-    halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang foodlirmm:certificate halalc:15100060800820 .
+halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang foodlirmm:certificate halalc:15100060800820 .
 
-    halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang_Saos_Pedas_Mantap a foodlirmm:FoodProduct;
+halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang_Saos_Pedas_Mantap a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "967";
     	rdfs:label "tic tic snack crunchy stick bawang saos pedas mantap";
     	gr:hasManufacturer halalm:Pbpjphsmg_Fadiyaz_Snack .
 
-    halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang_Saos_Pedas_Mantap foodlirmm:certificate halalc:15100062881020 .
+halalf:Tic_Tic_Snack_Crunchy_Stick_Bawang_Saos_Pedas_Mantap foodlirmm:certificate halalc:15100062881020 .
 
-    halalf:Tjhia_Tjhia_Kuaci a foodlirmm:FoodProduct;
+halalf:Tjhia_Tjhia_Kuaci a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "1255";
 	rdfs:label "tjhia tjhia kuaci";
@@ -14385,9 +14385,9 @@ halalf:Tok_Poki_Korean_Street_Food_K_Bunsik a foodlirmm:FoodProduct;
     	rdfs:label "tok-poki korean street food k-bunsik";
     	gr:hasManufacturer halalm:Pt_Rekso_Nasional_Food .
 
-    halalf:Tok_Poki_Korean_Street_Food_K_Bunsik foodlirmm:certificate halalc:00160000630499 .
+halalf:Tok_Poki_Korean_Street_Food_K_Bunsik foodlirmm:certificate halalc:00160000630499 .
 
-    halalf:Top_Coffee_Gula_Aren a foodlirmm:FoodProduct;
+halalf:Top_Coffee_Gula_Aren a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "295";
 	rdfs:label "top coffee gula aren";
@@ -14465,49 +14465,49 @@ halalf:Tropicana_Slim_Korean_Garlic_Cookies a foodlirmm:FoodProduct;
     	rdfs:label "tropicana slim korean garlic cookies";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia .
 
-    halalf:Tropicana_Slim_Korean_Garlic_Cookies foodlirmm:certificate halalc:00100048590808 .
+halalf:Tropicana_Slim_Korean_Garlic_Cookies foodlirmm:certificate halalc:00100048590808 .
 
-    halalf:Tts_Longans_In_Syrup a foodlirmm:FoodProduct;
+halalf:Tts_Longans_In_Syrup a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "704";
     	rdfs:label "tts longans in syrup";
     	gr:hasManufacturer halalm:Delicia_Carica .
 
-    halalf:Tts_Longans_In_Syrup foodlirmm:certificate halalc:15190027641017 .
+halalf:Tts_Longans_In_Syrup foodlirmm:certificate halalc:15190027641017 .
 
-    halalf:Tts_Lychees_In_Syrup a foodlirmm:FoodProduct;
+halalf:Tts_Lychees_In_Syrup a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "698";
     	rdfs:label "tts lychees in syrup";
     	gr:hasManufacturer halalm:Delicia_Carica .
 
-    halalf:Tts_Lychees_In_Syrup foodlirmm:certificate halalc:15190027641017 .
+halalf:Tts_Lychees_In_Syrup foodlirmm:certificate halalc:15190027641017 .
 
-    halalf:Twistko_Snack_Jagung_Bakar a foodlirmm:FoodProduct;
+halalf:Twistko_Snack_Jagung_Bakar a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "445";
     	rdfs:label "twistko snack jagung bakar";
     	gr:hasManufacturer halalm:Intan_Snack .
 
-    halalf:Twistko_Snack_Jagung_Bakar foodlirmm:certificate halalc:01101256731220 .
+halalf:Twistko_Snack_Jagung_Bakar foodlirmm:certificate halalc:01101256731220 .
 
-    halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Cokelat a foodlirmm:FoodProduct;
+halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Cokelat a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "890";
     	rdfs:label "ultra susu cair low fat hi-calcium cokelat";
     	gr:hasManufacturer halalm:Pt_Frisian_Flag_Indonesia .
 
-    halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Cokelat foodlirmm:certificate halalc:00040040520606 .
+halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Cokelat foodlirmm:certificate halalc:00040040520606 .
 
-    halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Plain a foodlirmm:FoodProduct;
+halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Plain a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "995";
     	rdfs:label "ultra susu cair low fat hi-calcium plain";
     	gr:hasManufacturer halalm:Pt_Frisian_Flag_Indonesia .
 
-    halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Plain foodlirmm:certificate halalc:00040040520606 .
+halalf:Ultra_Susu_Cair_Low_Fat_Hi_Calcium_Plain foodlirmm:certificate halalc:00040040520606 .
 
-    halalf:Verlin_Crunchy_Granola_Cranberry_Almon a foodlirmm:FoodProduct;
+halalf:Verlin_Crunchy_Granola_Cranberry_Almon a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "886";
 	rdfs:label "verlin crunchy granola cranberry almon";
@@ -14573,33 +14573,33 @@ halalf:Voortman_Sugar_Free_Cookies_Almonette a foodlirmm:FoodProduct;
     	rdfs:label "voortman sugar free cookies almonette";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia .
 
-    halalf:Voortman_Sugar_Free_Cookies_Almonette foodlirmm:certificate halalc:00100048590808 .
+halalf:Voortman_Sugar_Free_Cookies_Almonette foodlirmm:certificate halalc:00100048590808 .
 
-    halalf:Voortman_Sugar_Free_Cookies_Fudge_Brownie_Chocolate_Chip a foodlirmm:FoodProduct;
+halalf:Voortman_Sugar_Free_Cookies_Fudge_Brownie_Chocolate_Chip a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "746";
     	rdfs:label "voortman sugar free cookies fudge brownie chocolate chip";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia .
 
-    halalf:Voortman_Sugar_Free_Cookies_Fudge_Brownie_Chocolate_Chip foodlirmm:certificate halalc:00100048590808 .
+halalf:Voortman_Sugar_Free_Cookies_Fudge_Brownie_Chocolate_Chip foodlirmm:certificate halalc:00100048590808 .
 
-    halalf:Voortman_Sugar_Free_Cookies_Oatmeal a foodlirmm:FoodProduct;
+halalf:Voortman_Sugar_Free_Cookies_Oatmeal a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "977";
     	rdfs:label "voortman sugar free cookies oatmeal";
     	gr:hasManufacturer halalm:Pt_Nutrifood_Indonesia .
 
-    halalf:Voortman_Sugar_Free_Cookies_Oatmeal foodlirmm:certificate halalc:00100048590808 .
+halalf:Voortman_Sugar_Free_Cookies_Oatmeal foodlirmm:certificate halalc:00100048590808 .
 
-    halalf:Voortman_Sugar_Free_Wafers_Chocolate a foodlirmm:FoodProduct;
+halalf:Voortman_Sugar_Free_Wafers_Chocolate a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "249";
     	rdfs:label "voortman sugar free wafers chocolate";
     	gr:hasManufacturer halalm:Pt_Santino .
 
-    halalf:Voortman_Sugar_Free_Wafers_Chocolate foodlirmm:certificate halalc:17120015111114 .
+halalf:Voortman_Sugar_Free_Wafers_Chocolate foodlirmm:certificate halalc:17120015111114 .
 
-    halalf:Wanted_Snack_Tortilla_Chips_Cheese a foodlirmm:FoodProduct;
+halalf:Wanted_Snack_Tortilla_Chips_Cheese a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "764";
 	rdfs:label "wanted snack tortilla chips cheese";
@@ -14701,9 +14701,9 @@ halalf:X_Tragin_Minuman_Jahe_Merah a foodlirmm:FoodProduct;
     	rdfs:label "x'tragin minuman jahe merah";
     	gr:hasManufacturer halalm:Al_Hatim .
 
-    halalf:X_Tragin_Minuman_Jahe_Merah foodlirmm:certificate halalc:13160025160820 .
+halalf:X_Tragin_Minuman_Jahe_Merah foodlirmm:certificate halalc:13160025160820 .
 
-    halalf:X_Tragin_Minuman_Lemon_Jahe_Madu a foodlirmm:FoodProduct;
+halalf:X_Tragin_Minuman_Lemon_Jahe_Madu a foodlirmm:FoodProduct;
 	a food:Food;
 	foodlirmm:code "720";
 	rdfs:label "x'tragin minuman lemon jahe + madu";
