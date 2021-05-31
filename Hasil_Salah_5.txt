@@ -1365,37 +1365,37 @@ halalc:03100013550116 a halalv:HalalCertificate;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120025420619 a halalv:HalalCertificate;
-			halalv:halalCode "03120025420619			";
+			halalv:halalCode "03120025420619";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120025530619 a halalv:HalalCertificate;
-			halalv:halalCode "03120025530619			";
+			halalv:halalCode "03120025530619";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120026520719 a halalv:HalalCertificate;
-			halalv:halalCode "03120026520719			";
+			halalv:halalCode "03120026520719";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120026770719 a halalv:HalalCertificate;
-			halalv:halalCode "03120026770719			";
+			halalv:halalCode "03120026770719";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120027060819 a halalv:HalalCertificate;
-			halalv:halalCode "03120027060819			";
+			halalv:halalCode "03120027060819";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120027390819 a halalv:HalalCertificate;
-			halalv:halalCode "03120027390819			";
+			halalv:halalCode "03120027390819";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
@@ -1407,7 +1407,7 @@ halalc:03120027410819 a halalv:HalalCertificate;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03120028340919 a halalv:HalalCertificate;
-			halalv:halalCode "03120028340919			";
+			halalv:halalCode "03120028340919";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
@@ -1431,7 +1431,7 @@ halalc:03160034011219 a halalv:HalalCertificate;
 			halalv:halalStatus halalv:Halal .
 
 halalc:03290027770819 a halalv:HalalCertificate;
-			halalv:halalCode "03290027770819			";
+			halalv:halalCode "03290027770819";
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
