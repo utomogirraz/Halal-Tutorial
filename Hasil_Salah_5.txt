@@ -2287,9 +2287,7 @@ halalc:3_SPKP_MUI_JATIM_6 a halalv:HalalCertificate;
 			halalv:halalExp "0000-00-00"^^xsd:date;
 			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
 			halalv:halalStatus halalv:Halal .
-halali: a foodlirmm:Ingredient;
-   rdfs:label "" .
-
+			
 halali:A a foodlirmm:Ingredient;
    rdfs:label "a" .
 
