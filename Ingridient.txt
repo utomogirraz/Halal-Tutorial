@@ -1,0 +1,3994 @@
+halali:A a foodlirmm:Ingredient;
+   rdfs:label "a" .
+
+halali:Acerola a foodlirmm:Ingredient;
+   rdfs:label "acerola" .
+
+halali:Acidity_Regulator a foodlirmm:Ingredient;
+   rdfs:label "acidity regulator" .
+
+halali:Acidity_Regulator_Lactic_Acid a foodlirmm:Ingredient;
+   rdfs:label "acidity regulator lactic acid" .
+
+halali:Adi a foodlirmm:Ingredient;
+   rdfs:label "adi" .
+
+halali:Agar_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "agar bubuk" .
+
+halali:Agen_Penambah a foodlirmm:Ingredient;
+   rdfs:label "agen penambah" .
+
+halali:Air a foodlirmm:Ingredient;
+   rdfs:label "air" .
+
+halali:Air_Berkarbonasi a foodlirmm:Ingredient;
+   rdfs:label "air berkarbonasi" .
+
+halali:Air_Cabai a foodlirmm:Ingredient;
+   rdfs:label "air cabai" .
+
+halali:Air_Demineral a foodlirmm:Ingredient;
+   rdfs:label "air demineral" .
+
+halali:Air_Gula a foodlirmm:Ingredient;
+   rdfs:label "air gula" .
+
+halali:Air_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "air kelapa" .
+
+halali:Air_Mineral a foodlirmm:Ingredient;
+   rdfs:label "air mineral" .
+
+halali:Akg a foodlirmm:Ingredient;
+   rdfs:label "akg" .
+
+halali:Alami a foodlirmm:Ingredient;
+   rdfs:label "alami" .
+
+halali:Alkohol a foodlirmm:Ingredient;
+   rdfs:label "alkohol" .
+
+halali:Almond a foodlirmm:Ingredient;
+   rdfs:label "almond" .
+
+halali:Amonia_Karamel_Kalium_Klorida a foodlirmm:Ingredient;
+   rdfs:label "amonia karamel kalium klorida" .
+
+halali:Amonium a foodlirmm:Ingredient;
+   rdfs:label "amonium" .
+
+halali:Amonium_Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "amonium bikarbonat" .
+
+halali:Amonium_Hidrogen_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "amonium hidrogen karbonat" .
+
+halali:Amonium_Klorida a foodlirmm:Ingredient;
+   rdfs:label "amonium klorida" .
+
+halali:Anato_Ci a foodlirmm:Ingredient;
+   rdfs:label "anato ci" .
+
+halali:Anggur a foodlirmm:Ingredient;
+   rdfs:label "anggur" .
+
+halali:Anggur_Merah a foodlirmm:Ingredient;
+   rdfs:label "anggur merah" .
+
+halali:Annatto_Ci a foodlirmm:Ingredient;
+   rdfs:label "annatto ci" .
+
+halali:Antikempal a foodlirmm:Ingredient;
+   rdfs:label "antikempal" .
+
+halali:Antikempal_Silikon_Dioksida a foodlirmm:Ingredient;
+   rdfs:label "antikempal silikon dioksida" .
+
+halali:Antioksia a foodlirmm:Ingredient;
+   rdfs:label "antioksia" .
+
+halali:Antioksidan a foodlirmm:Ingredient;
+   rdfs:label "antioksidan" .
+
+halali:Antioksidan_Alfa_Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "antioksidan alfa tokoferol" .
+
+halali:Antioksidan_Bha a foodlirmm:Ingredient;
+   rdfs:label "antioksidan bha" .
+
+halali:Antioksidan_Bht a foodlirmm:Ingredient;
+   rdfs:label "antioksidan bht" .
+
+halali:Antioksidan_Butil_Hidrokinon_Tersier a foodlirmm:Ingredient;
+   rdfs:label "antioksidan butil hidrokinon tersier" .
+
+halali:Antioksidan_Kismis a foodlirmm:Ingredient;
+   rdfs:label "antioksidan kismis" .
+
+halali:Antioksidan_Na_Askorbat a foodlirmm:Ingredient;
+   rdfs:label "antioksidan na-askorbat" .
+
+halali:Antioksidan_Pengawet_Natrium_Nitrat a foodlirmm:Ingredient;
+   rdfs:label "antioksidan pengawet natrium nitrat" .
+
+halali:Antioksidan_Tbhq a foodlirmm:Ingredient;
+   rdfs:label "antioksidan tbhq" .
+
+halali:Antioksidan_Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "antioksidan tokoferol" .
+
+halali:Antioksidan_Tokoferol_Nestle a foodlirmm:Ingredient;
+   rdfs:label "antioksidan tokoferol nestle" .
+
+halali:Antioksidan_Tokoferol_Pewarna_Makanan_Alami_Beta_Karoten_Ci_No_Gula_Icing_Ragi a foodlirmm:Ingredient;
+   rdfs:label "antioksidan tokoferol pewarna makanan alami beta karoten ci no  gula icing ragi" .
+
+halali:Antioksidan_Vitamin_C a foodlirmm:Ingredient;
+   rdfs:label "antioksidan vitamin c" .
+
+halali:Antioksidan_Vitamin_E a foodlirmm:Ingredient;
+   rdfs:label "antioksidan vitamin e" .
+
+halali:Anti_A_Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "anti a-tokoferol" .
+
+halali:Anti_Caking_Agent a foodlirmm:Ingredient;
+   rdfs:label "anti caking agent" .
+
+halali:Anti_Kempal a foodlirmm:Ingredient;
+   rdfs:label "anti kempal" .
+
+halali:Anti_Oksidan a foodlirmm:Ingredient;
+   rdfs:label "anti oksidan" .
+
+halali:Apel a foodlirmm:Ingredient;
+   rdfs:label "apel" .
+
+halali:Aronia a foodlirmm:Ingredient;
+   rdfs:label "aronia" .
+
+halali:Artificial a foodlirmm:Ingredient;
+   rdfs:label "artificial" .
+
+halali:Artificial_Chicken_Flavour_Powder a foodlirmm:Ingredient;
+   rdfs:label "artificial chicken flavour powder" .
+
+halali:Asam a foodlirmm:Ingredient;
+   rdfs:label "asam" .
+
+halali:Asam_Asetat a foodlirmm:Ingredient;
+   rdfs:label "asam asetat" .
+
+halali:Asam_Askorbat a foodlirmm:Ingredient;
+   rdfs:label "asam askorbat" .
+
+halali:Asam_Folat a foodlirmm:Ingredient;
+   rdfs:label "asam folat" .
+
+halali:Asam_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "asam fosfat" .
+
+halali:Asam_Jawa a foodlirmm:Ingredient;
+   rdfs:label "asam jawa" .
+
+halali:Asam_Laktat a foodlirmm:Ingredient;
+   rdfs:label "asam laktat" .
+
+halali:Asam_Lemak a foodlirmm:Ingredient;
+   rdfs:label "asam lemak" .
+
+halali:Asam_Malat a foodlirmm:Ingredient;
+   rdfs:label "asam malat" .
+
+halali:Asam_Sialat a foodlirmm:Ingredient;
+   rdfs:label "asam sialat" .
+
+halali:Asam_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "asam sitrat" .
+
+halali:Asam_Sorbat a foodlirmm:Ingredient;
+   rdfs:label "asam sorbat" .
+
+halali:Asam_Tartrat a foodlirmm:Ingredient;
+   rdfs:label "asam tartrat" .
+
+halali:Asem a foodlirmm:Ingredient;
+   rdfs:label "asem" .
+
+halali:Asesulfam a foodlirmm:Ingredient;
+   rdfs:label "asesulfam" .
+
+halali:Asesulfam_K a foodlirmm:Ingredient;
+   rdfs:label "asesulfam k" .
+
+halali:Asesulfam_K_Ppm a foodlirmm:Ingredient;
+   rdfs:label "asesulfam-k ppm" .
+
+halali:Askorbat_Pengawet_Kalsium_Propionat a foodlirmm:Ingredient;
+   rdfs:label "askorbat pengawet kalsium propionat" .
+
+halali:Askorbil_Palamitat a foodlirmm:Ingredient;
+   rdfs:label "askorbil palamitat" .
+
+halali:Aspartam a foodlirmm:Ingredient;
+   rdfs:label "aspartam" .
+
+halali:Ayam_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "ayam bubuk" .
+
+halali:B a foodlirmm:Ingredient;
+   rdfs:label "b" .
+
+halali:Bahan_Anti_Gempal_E a foodlirmm:Ingredient;
+   rdfs:label "bahan anti-gempal e" .
+
+halali:Bahan_Bahan_Lain_Hingga_G a foodlirmm:Ingredient;
+   rdfs:label "bahan-bahan lain hingga g" .
+
+halali:Bahan_Bahan_Lain_Sampai_Ml a foodlirmm:Ingredient;
+   rdfs:label "bahan-bahan lain sampai ml" .
+
+halali:Bahan_Pengembang a foodlirmm:Ingredient;
+   rdfs:label "bahan pengembang" .
+
+halali:Bahan_Pengembang_Amonium a foodlirmm:Ingredient;
+   rdfs:label "bahan pengembang amonium" .
+
+halali:Bahan_Pengemulsi_E a foodlirmm:Ingredient;
+   rdfs:label "bahan pengemulsi e" .
+
+halali:Bahan_Penstabil_E a foodlirmm:Ingredient;
+   rdfs:label "bahan penstabil e" .
+
+halali:Baking_Powder a foodlirmm:Ingredient;
+   rdfs:label "baking powder" .
+
+halali:Barley_Malt_Extract a foodlirmm:Ingredient;
+   rdfs:label "barley malt extract" .
+
+halali:Barli a foodlirmm:Ingredient;
+   rdfs:label "barli" .
+
+halali:Bawang a foodlirmm:Ingredient;
+   rdfs:label "bawang" .
+
+halali:Bawang_Bombay a foodlirmm:Ingredient;
+   rdfs:label "bawang bombay" .
+
+halali:Bawang_Bombay_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "bawang bombay bubuk" .
+
+halali:Bawang_Goreng a foodlirmm:Ingredient;
+   rdfs:label "bawang goreng" .
+
+halali:Bawang_Merah a foodlirmm:Ingredient;
+   rdfs:label "bawang merah" .
+
+halali:Bawang_Merah_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "bawang merah bubuk" .
+
+halali:Bawang_Merah_Goreng a foodlirmm:Ingredient;
+   rdfs:label "bawang merah goreng" .
+
+halali:Bawang_Puitih_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "bawang puitih bubuk" .
+
+halali:Bawang_Putih a foodlirmm:Ingredient;
+   rdfs:label "bawang putih" .
+
+halali:Bawang_Putih_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "bawang putih bubuk" .
+
+halali:Beras a foodlirmm:Ingredient;
+   rdfs:label "beras" .
+
+halali:Beras_Cokelat_Giling a foodlirmm:Ingredient;
+   rdfs:label "beras cokelat giling" .
+
+halali:Beras_Ekstrudat a foodlirmm:Ingredient;
+   rdfs:label "beras ekstrudat" .
+
+halali:Beras_Ketan_Putih a foodlirmm:Ingredient;
+   rdfs:label "beras ketan putih" .
+
+halali:Beras_Merah a foodlirmm:Ingredient;
+   rdfs:label "beras merah" .
+
+halali:Beras_Merah_Giling a foodlirmm:Ingredient;
+   rdfs:label "beras merah giling" .
+
+halali:Beri_Hitam_Kering a foodlirmm:Ingredient;
+   rdfs:label "beri hitam kering" .
+
+halali:Berkarbonasi a foodlirmm:Ingredient;
+   rdfs:label "berkarbonasi" .
+
+halali:Betakaroten_Ci a foodlirmm:Ingredient;
+   rdfs:label "betakaroten ci" .
+
+halali:Beverage_Base_A a foodlirmm:Ingredient;
+   rdfs:label "beverage base a" .
+
+halali:Beverage_Base_Fanta a foodlirmm:Ingredient;
+   rdfs:label "beverage base fanta" .
+
+halali:Beverage_Base_Sprite a foodlirmm:Ingredient;
+   rdfs:label "beverage base sprite" .
+
+halali:Bha a foodlirmm:Ingredient;
+   rdfs:label "bha" .
+
+halali:Bht a foodlirmm:Ingredient;
+   rdfs:label "bht" .
+
+halali:Bicarbonate a foodlirmm:Ingredient;
+   rdfs:label "bicarbonate" .
+
+halali:Bifidobacterium_Longum a foodlirmm:Ingredient;
+   rdfs:label "bifidobacterium longum" .
+
+halali:Biji_Amaranthus a foodlirmm:Ingredient;
+   rdfs:label "biji amaranthus" .
+
+halali:Biji_Bunga_Matahari a foodlirmm:Ingredient;
+   rdfs:label "biji bunga matahari" .
+
+halali:Biji_Chia a foodlirmm:Ingredient;
+   rdfs:label "biji chia" .
+
+halali:Biji_Flax a foodlirmm:Ingredient;
+   rdfs:label "biji flax" .
+
+halali:Biji_Gandum a foodlirmm:Ingredient;
+   rdfs:label "biji gandum" .
+
+halali:Biji_Kopi a foodlirmm:Ingredient;
+   rdfs:label "biji kopi" .
+
+halali:Biji_Labu a foodlirmm:Ingredient;
+   rdfs:label "biji labu" .
+
+halali:Biji_Perila a foodlirmm:Ingredient;
+   rdfs:label "biji perila" .
+
+halali:Biji_Rami a foodlirmm:Ingredient;
+   rdfs:label "biji rami" .
+
+halali:Biji_Wijen a foodlirmm:Ingredient;
+   rdfs:label "biji wijen" .
+
+halali:Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "bikarbonat" .
+
+halali:Bioaxtive_B_Series a foodlirmm:Ingredient;
+   rdfs:label "bioaxtive b-series" .
+
+halali:Biru_Allura_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "biru allura fcf ci" .
+
+halali:Biru_Berlian_Ci a foodlirmm:Ingredient;
+   rdfs:label "biru berlian-ci" .
+
+halali:Biru_Berlian_Fcf_Ci_No_Air a foodlirmm:Ingredient;
+   rdfs:label "biru berlian fcf ci no  air" .
+
+halali:Biru_Berlian_Fcf_Cu_No a foodlirmm:Ingredient;
+   rdfs:label "biru berlian fcf cu no" .
+
+halali:Biru_Ci a foodlirmm:Ingredient;
+   rdfs:label "biru ci" .
+
+halali:Blimbing_Wuluh a foodlirmm:Ingredient;
+   rdfs:label "blimbing wuluh" .
+
+halali:Bluberi_Kering a foodlirmm:Ingredient;
+   rdfs:label "bluberi kering" .
+
+halali:Blueberry a foodlirmm:Ingredient;
+   rdfs:label "blueberry" .
+
+halali:Bourbon_Pure_Coconut_Oil a foodlirmm:Ingredient;
+   rdfs:label "bourbon pure coconut oil" .
+
+halali:Brokoli a foodlirmm:Ingredient;
+   rdfs:label "brokoli" .
+
+halali:Brokoli_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "brokoli bubuk" .
+
+halali:Buah_Apel a foodlirmm:Ingredient;
+   rdfs:label "buah apel" .
+
+halali:Buah_Jambu a foodlirmm:Ingredient;
+   rdfs:label "buah jambu" .
+
+halali:Buah_Kurma a foodlirmm:Ingredient;
+   rdfs:label "buah kurma" .
+
+halali:Buah_Mangga a foodlirmm:Ingredient;
+   rdfs:label "buah mangga" .
+
+halali:Buah_Nanas a foodlirmm:Ingredient;
+   rdfs:label "buah nanas" .
+
+halali:Buah_Salaj_Pondoh a foodlirmm:Ingredient;
+   rdfs:label "buah salaj pondoh" .
+
+halali:Buah_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "buah stroberi" .
+
+halali:Buah_Stroberi_Kering a foodlirmm:Ingredient;
+   rdfs:label "buah stroberi kering" .
+
+halali:Bubuk a foodlirmm:Ingredient;
+   rdfs:label "bubuk" .
+
+halali:Bubuk_Ayam a foodlirmm:Ingredient;
+   rdfs:label "bubuk ayam" .
+
+halali:Bubuk_Bawang_Bombay a foodlirmm:Ingredient;
+   rdfs:label "bubuk bawang bombay" .
+
+halali:Bubuk_Bawang_Merah a foodlirmm:Ingredient;
+   rdfs:label "bubuk bawang merah" .
+
+halali:Bubuk_Bawang_Putih a foodlirmm:Ingredient;
+   rdfs:label "bubuk bawang putih" .
+
+halali:Bubuk_Cabai a foodlirmm:Ingredient;
+   rdfs:label "bubuk cabai" .
+
+halali:Bubuk_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "bubuk cokelat" .
+
+halali:Bubuk_Daging_Ayam a foodlirmm:Ingredient;
+   rdfs:label "bubuk daging ayam" .
+
+halali:Bubuk_Dha a foodlirmm:Ingredient;
+   rdfs:label "bubuk dha" .
+
+halali:Bubuk_Full_Cream a foodlirmm:Ingredient;
+   rdfs:label "bubuk full cream" .
+
+halali:Bubuk_Ikan a foodlirmm:Ingredient;
+   rdfs:label "bubuk ikan" .
+
+halali:Bubuk_Jagung a foodlirmm:Ingredient;
+   rdfs:label "bubuk jagung" .
+
+halali:Bubuk_Jahe a foodlirmm:Ingredient;
+   rdfs:label "bubuk jahe" .
+
+halali:Bubuk_Jamur a foodlirmm:Ingredient;
+   rdfs:label "bubuk jamur" .
+
+halali:Bubuk_Kakao a foodlirmm:Ingredient;
+   rdfs:label "bubuk kakao" .
+
+halali:Bubuk_Kecap a foodlirmm:Ingredient;
+   rdfs:label "bubuk kecap" .
+
+halali:Bubuk_Keju a foodlirmm:Ingredient;
+   rdfs:label "bubuk keju" .
+
+halali:Bubuk_Kuning_Telur a foodlirmm:Ingredient;
+   rdfs:label "bubuk kuning telur" .
+
+halali:Bubuk_Lada a foodlirmm:Ingredient;
+   rdfs:label "bubuk lada" .
+
+halali:Bubuk_Lada_Hitam a foodlirmm:Ingredient;
+   rdfs:label "bubuk lada hitam" .
+
+halali:Bubuk_Lada_Putih a foodlirmm:Ingredient;
+   rdfs:label "bubuk lada putih" .
+
+halali:Bubuk_Madu a foodlirmm:Ingredient;
+   rdfs:label "bubuk madu" .
+
+halali:Bubuk_Merica a foodlirmm:Ingredient;
+   rdfs:label "bubuk merica" .
+
+halali:Bubuk_Miso a foodlirmm:Ingredient;
+   rdfs:label "bubuk miso" .
+
+halali:Bubuk_Pasta_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "bubuk pasta kedelai" .
+
+halali:Bubuk_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "bubuk cokelat" .
+
+halali:Bubuk_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "bubuk stroberi" .
+
+halali:Bubuk_Susu a foodlirmm:Ingredient;
+   rdfs:label "bubuk susu" .
+
+halali:Bubuk_Whey a foodlirmm:Ingredient;
+   rdfs:label "bubuk whey" .
+
+halali:Bubul_Bawang_Merah a foodlirmm:Ingredient;
+   rdfs:label "bubul bawang merah" .
+
+halali:Bulir_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "bulir jeruk" .
+
+halali:Bumbu a foodlirmm:Ingredient;
+   rdfs:label "bumbu" .
+
+halali:Bumbu_Barbekiu_Penguat_Rasa_Mononatrium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "bumbu barbekiu penguat rasa mononatrium glutamat" .
+
+halali:Bumbu_Bumbu a foodlirmm:Ingredient;
+   rdfs:label "bumbu-bumbu" .
+
+halali:Bumbu_Cabai a foodlirmm:Ingredient;
+   rdfs:label "bumbu cabai" .
+
+halali:Bumbu_Daging_Sapi a foodlirmm:Ingredient;
+   rdfs:label "bumbu daging sapi" .
+
+halali:Bumbu_Keju a foodlirmm:Ingredient;
+   rdfs:label "bumbu keju" .
+
+halali:Bumbu_Kimchi a foodlirmm:Ingredient;
+   rdfs:label "bumbu kimchi" .
+
+halali:Bumbu_Lemon a foodlirmm:Ingredient;
+   rdfs:label "bumbu lemon" .
+
+halali:Bumbu_Pedas_Level a foodlirmm:Ingredient;
+   rdfs:label "bumbu pedas level" .
+
+halali:Bumbu_Penyedap a foodlirmm:Ingredient;
+   rdfs:label "bumbu penyedap" .
+
+halali:Bumbu_Rasa_Ayam a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa ayam" .
+
+halali:Bumbu_Rasa_Ayam_Babeque a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa ayam babeque" .
+
+halali:Bumbu_Rasa_Ayam_Bakar a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa ayam bakar" .
+
+halali:Bumbu_Rasa_Ayam_Berempah_Rempah a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa ayam berempah rempah" .
+
+halali:Bumbu_Rasa_Ayam_Lada_Hitam a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa ayam lada hitam" .
+
+halali:Bumbu_Rasa_Balado a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa balado" .
+
+halali:Bumbu_Rasa_Barbeque a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa barbeque" .
+
+halali:Bumbu_Rasa_Bawang a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa bawang" .
+
+halali:Bumbu_Rasa_Bbq a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa bbq" .
+
+halali:Bumbu_Rasa_Jagung_Bakar a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa jagung bakar" .
+
+halali:Bumbu_Rasa_Kari_Ayam a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa kari ayam" .
+
+halali:Bumbu_Rasa_Keju a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa keju" .
+
+halali:Bumbu_Rasa_Keju_Bakar a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa keju bakar" .
+
+halali:Bumbu_Rasa_Keju_Barbekiu a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa keju barbekiu" .
+
+halali:Bumbu_Rasa_Keju_Nacho a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa keju nacho" .
+
+halali:Bumbu_Rasa_Kentang_Barbekyu a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa kentang barbekyu" .
+
+halali:Bumbu_Rasa_Madu_Mentega a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa madu mentega" .
+
+halali:Bumbu_Rasa_Mi_Goreng a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa mi goreng" .
+
+halali:Bumbu_Rasa_Original a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa original" .
+
+halali:Bumbu_Rasa_Paprika a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa paprika" .
+
+halali:Bumbu_Rasa_Pedas a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa pedas" .
+
+halali:Bumbu_Rasa_Pizza a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa pizza" .
+
+halali:Bumbu_Rasa_Pizza_Keju a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa pizza keju" .
+
+halali:Bumbu_Rasa_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa rumput laut" .
+
+halali:Bumbu_Rasa_Salmon_Teriyaki a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa salmon teriyaki" .
+
+halali:Bumbu_Rasa_Sambal_Balado a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa sambal balado" .
+
+halali:Bumbu_Rasa_Sapi_Bumbu_Bakar a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa sapi bumbu bakar" .
+
+halali:Bumbu_Rasa_Sapi_Panggang a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa sapi panggang" .
+
+halali:Bumbu_Rasa_Saus_Krim a foodlirmm:Ingredient;
+   rdfs:label "bumbu rasa saus krim" .
+
+halali:Bumbu_Rempah a foodlirmm:Ingredient;
+   rdfs:label "bumbu rempah" .
+
+halali:Bumbu_Tomat_Pedas a foodlirmm:Ingredient;
+   rdfs:label "bumbu tomat pedas" .
+
+halali:Bungan_Melati a foodlirmm:Ingredient;
+   rdfs:label "bungan melati" .
+
+halali:Butter a foodlirmm:Ingredient;
+   rdfs:label "butter" .
+
+halali:Buttermilk_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "buttermilk bubuk" .
+
+halali:C a foodlirmm:Ingredient;
+   rdfs:label "c" .
+
+halali:Cabai a foodlirmm:Ingredient;
+   rdfs:label "cabai" .
+
+halali:Cabai_Besar a foodlirmm:Ingredient;
+   rdfs:label "cabai besar" .
+
+halali:Cabai_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "cabai bubuk" .
+
+halali:Cabai_Giling_Kasar a foodlirmm:Ingredient;
+   rdfs:label "cabai giling kasar" .
+
+halali:Cabai_Kecil a foodlirmm:Ingredient;
+   rdfs:label "cabai kecil" .
+
+halali:Cabai_Kering a foodlirmm:Ingredient;
+   rdfs:label "cabai kering" .
+
+halali:Cabai_Merah a foodlirmm:Ingredient;
+   rdfs:label "cabai merah" .
+
+halali:Cabai_Merah_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "cabai merah bubuk" .
+
+halali:Cabai_Rawit a foodlirmm:Ingredient;
+   rdfs:label "cabai rawit" .
+
+halali:Cafeine_Mg a foodlirmm:Ingredient;
+   rdfs:label "cafeine mg" .
+
+halali:Caffeine a foodlirmm:Ingredient;
+   rdfs:label "caffeine" .
+
+halali:Calcium a foodlirmm:Ingredient;
+   rdfs:label "calcium" .
+
+halali:Campuran_Bumbu a foodlirmm:Ingredient;
+   rdfs:label "campuran bumbu" .
+
+halali:Campuran_Bumbu_Tradisional a foodlirmm:Ingredient;
+   rdfs:label "campuran bumbu tradisional" .
+
+halali:Campuran_Sari_Buah_Konsentrat a foodlirmm:Ingredient;
+   rdfs:label "campuran sari buah konsentrat" .
+
+halali:Cane_Sugar_G a foodlirmm:Ingredient;
+   rdfs:label "cane sugar g" .
+
+halali:Cheddar_Cheese a foodlirmm:Ingredient;
+   rdfs:label "cheddar cheese" .
+
+halali:Chia_Seed a foodlirmm:Ingredient;
+   rdfs:label "chia seed" .
+
+halali:Chloride a foodlirmm:Ingredient;
+   rdfs:label "chloride" .
+
+halali:Chocolate_Chips a foodlirmm:Ingredient;
+   rdfs:label "chocolate chips" .
+
+halali:Choline a foodlirmm:Ingredient;
+   rdfs:label "choline" .
+
+halali:Choroline_Bitartate_Mg a foodlirmm:Ingredient;
+   rdfs:label "choroline bitartate mg" .
+
+halali:Ci a foodlirmm:Ingredient;
+   rdfs:label "ci-" .
+
+halali:Cincau a foodlirmm:Ingredient;
+   rdfs:label "cincau" .
+
+halali:Citric_Acid a foodlirmm:Ingredient;
+   rdfs:label "citric acid" .
+
+halali:Citrus a foodlirmm:Ingredient;
+   rdfs:label "citrus" .
+
+halali:Co a foodlirmm:Ingredient;
+   rdfs:label "co" .
+
+halali:Cokelat a foodlirmm:Ingredient;
+   rdfs:label "cokelat" .
+
+halali:Cokelat_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "cokelat bubuk" .
+
+halali:Cokelat_Butir a foodlirmm:Ingredient;
+   rdfs:label "cokelat butir" .
+
+halali:Cokelat_Chip a foodlirmm:Ingredient;
+   rdfs:label "cokelat chip" .
+
+halali:Cokelat_Compound a foodlirmm:Ingredient;
+   rdfs:label "cokelat compound" .
+
+halali:Cokelat_Granula a foodlirmm:Ingredient;
+   rdfs:label "cokelat granula" .
+
+halali:Cokelat_Hitam a foodlirmm:Ingredient;
+   rdfs:label "cokelat hitam" .
+
+halali:Cokelat_Hitam_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "cokelat hitam bubuk" .
+
+halali:Cokelat_Hitam_Dalam_Isian_Krim a foodlirmm:Ingredient;
+   rdfs:label "cokelat hitam  dalam isian krim" .
+
+halali:Cokelat_Paduan_Putih a foodlirmm:Ingredient;
+   rdfs:label "cokelat paduan putih" .
+
+halali:Cokelat_Pasta a foodlirmm:Ingredient;
+   rdfs:label "cokelat pasta" .
+
+halali:Cokelat_Putih a foodlirmm:Ingredient;
+   rdfs:label "cokelat putih" .
+
+halali:Cokelat_Rendah_Lemak a foodlirmm:Ingredient;
+   rdfs:label "cokelat rendah lemak" .
+
+halali:Cokelat_Susu_Compound a foodlirmm:Ingredient;
+   rdfs:label "cokelat susu compound" .
+
+halali:Collagen a foodlirmm:Ingredient;
+   rdfs:label "collagen" .
+
+halali:Coloring_Annatto_Cl a foodlirmm:Ingredient;
+   rdfs:label "coloring annatto cl" .
+
+halali:Colour a foodlirmm:Ingredient;
+   rdfs:label "colour" .
+
+halali:Colour_Ea a foodlirmm:Ingredient;
+   rdfs:label "colour ea" .
+
+halali:Corn_Flakes a foodlirmm:Ingredient;
+   rdfs:label "corn flakes" .
+
+halali:Cow a foodlirmm:Ingredient;
+   rdfs:label "cow" .
+
+halali:Cuka a foodlirmm:Ingredient;
+   rdfs:label "cuka" .
+
+halali:Cuka_Gandum a foodlirmm:Ingredient;
+   rdfs:label "cuka gandum" .
+
+halali:Cuka_Spirit a foodlirmm:Ingredient;
+   rdfs:label "cuka spirit" .
+
+halali:Custard a foodlirmm:Ingredient;
+   rdfs:label "custard" .
+
+halali:Cyanocobalamine a foodlirmm:Ingredient;
+   rdfs:label "cyanocobalamine" .
+
+halali:D a foodlirmm:Ingredient;
+   rdfs:label "d" .
+
+halali:Daging_Ayam a foodlirmm:Ingredient;
+   rdfs:label "daging ayam" .
+
+halali:Daging_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "daging bubuk" .
+
+halali:Daging_Sapi a foodlirmm:Ingredient;
+   rdfs:label "daging sapi" .
+
+halali:Daging_Sapi_Pilihan a foodlirmm:Ingredient;
+   rdfs:label "daging sapi pilihan" .
+
+halali:Dark_Cherry a foodlirmm:Ingredient;
+   rdfs:label "dark cherry" .
+
+halali:Dark_Chocolate a foodlirmm:Ingredient;
+   rdfs:label "dark chocolate" .
+
+halali:Daun_Bawamg_Merah a foodlirmm:Ingredient;
+   rdfs:label "daun bawamg merah" .
+
+halali:Daun_Bawang a foodlirmm:Ingredient;
+   rdfs:label "daun bawang" .
+
+halali:Daun_Cincau a foodlirmm:Ingredient;
+   rdfs:label "daun cincau" .
+
+halali:Daun_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "daun jeruk" .
+
+halali:Daun_Jeruk_Purut a foodlirmm:Ingredient;
+   rdfs:label "daun jeruk purut" .
+
+halali:Daun_Pan a foodlirmm:Ingredient;
+   rdfs:label "daun pan" .
+
+halali:Daun_Seledri a foodlirmm:Ingredient;
+   rdfs:label "daun seledri" .
+
+halali:Daun_Teh a foodlirmm:Ingredient;
+   rdfs:label "daun teh" .
+
+halali:Daun_Teh_Dengan_Bunga_Melati a foodlirmm:Ingredient;
+   rdfs:label "daun teh dengan bunga melati" .
+
+halali:Daun_Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "daun teh hijau" .
+
+halali:Daun_Teh_Melati a foodlirmm:Ingredient;
+   rdfs:label "daun teh melati" .
+
+halali:Daun_Teh_Muda a foodlirmm:Ingredient;
+   rdfs:label "daun teh muda" .
+
+halali:Db a foodlirmm:Ingredient;
+   rdfs:label "db" .
+
+halali:Dekstrin a foodlirmm:Ingredient;
+   rdfs:label "dekstrin" .
+
+halali:Dekstrosa a foodlirmm:Ingredient;
+   rdfs:label "dekstrosa" .
+
+halali:Dekstrosa_Monohidrat a foodlirmm:Ingredient;
+   rdfs:label "dekstrosa monohidrat" .
+
+halali:Delicious_Powder a foodlirmm:Ingredient;
+   rdfs:label "delicious powder" .
+
+halali:Dexpanthenol a foodlirmm:Ingredient;
+   rdfs:label "dexpanthenol" .
+
+halali:Dha a foodlirmm:Ingredient;
+   rdfs:label "dha" .
+
+halali:Digliserida a foodlirmm:Ingredient;
+   rdfs:label "digliserida" .
+
+halali:Digliserida_Asam_Lemak a foodlirmm:Ingredient;
+   rdfs:label "digliserida asam lemak" .
+
+halali:Dikalium_Posfat a foodlirmm:Ingredient;
+   rdfs:label "dikalium posfat" .
+
+halali:Dinatrium a foodlirmm:Ingredient;
+   rdfs:label "dinatrium" .
+
+halali:Dinatrium_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "dinatrium fosfat" .
+
+halali:Dinatrium_Guanilat a foodlirmm:Ingredient;
+   rdfs:label "dinatrium '-guanilat" .
+
+halali:Dinatrium_Inosinat a foodlirmm:Ingredient;
+   rdfs:label "dinatrium  -inosinat" .
+
+halali:Dinatrium_Inosinat_Dinatrium_Guanilat a foodlirmm:Ingredient;
+   rdfs:label "dinatrium inosinat dinatrium guanilat" .
+
+halali:Dinatrium_Ribonukleotida a foodlirmm:Ingredient;
+   rdfs:label "dinatrium 'ribonukleotida" .
+
+halali:Dinatrium_Trosinat a foodlirmm:Ingredient;
+   rdfs:label "dinatrium trosinat" .
+
+halali:Disodium_Difosfat a foodlirmm:Ingredient;
+   rdfs:label "disodium difosfat" .
+
+halali:Disodium_Phosphate a foodlirmm:Ingredient;
+   rdfs:label "disodium phosphate" .
+
+halali:Dried_Carrot a foodlirmm:Ingredient;
+   rdfs:label "dried carrot" .
+
+halali:Dried_Leek a foodlirmm:Ingredient;
+   rdfs:label "dried leek" .
+
+halali:D_Antioksidan_Dl_A_Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "d antioksidan dl-a-tokoferol" .
+
+halali:E a foodlirmm:Ingredient;
+   rdfs:label "e" .
+
+halali:Ea a foodlirmm:Ingredient;
+   rdfs:label "ea" .
+
+halali:Ekstak_Cabai a foodlirmm:Ingredient;
+   rdfs:label "ekstak cabai" .
+
+halali:Ekstrak_Air_Kelapa_Muda a foodlirmm:Ingredient;
+   rdfs:label "ekstrak air kelapa muda" .
+
+halali:Ekstrak_Alyxia_Stellata_Ret_Cortex_G a foodlirmm:Ingredient;
+   rdfs:label "ekstrak alyxia stellata ret cortex g" .
+
+halali:Ekstrak_Barley_Malt a foodlirmm:Ingredient;
+   rdfs:label "ekstrak barley malt" .
+
+halali:Ekstrak_Bengkuang a foodlirmm:Ingredient;
+   rdfs:label "ekstrak bengkuang" .
+
+halali:Ekstrak_Blueberry a foodlirmm:Ingredient;
+   rdfs:label "ekstrak blueberry" .
+
+halali:Ekstrak_Buah_Strowberi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak buah strowberi" .
+
+halali:Ekstrak_Cabai a foodlirmm:Ingredient;
+   rdfs:label "ekstrak cabai" .
+
+halali:Ekstrak_Cinamommum_Burnanni_Bi_Cortex_Mg a foodlirmm:Ingredient;
+   rdfs:label "ekstrak cinamommum burnanni bi cortex mg" .
+
+halali:Ekstrak_Citrus_Aurantifolia a foodlirmm:Ingredient;
+   rdfs:label "ekstrak citrus aurantifolia" .
+
+halali:Ekstrak_Daging_Ayam a foodlirmm:Ingredient;
+   rdfs:label "ekstrak daging ayam" .
+
+halali:Ekstrak_Daging_Sapi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak daging sapi" .
+
+halali:Ekstrak_Eldeberi_Produk_Ini_Tidak_Babi_Atau_Bahan_Baku_Babi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak eldeberi produk ini tidak babi atau bahan baku babi" .
+
+halali:Ekstrak_Jahe_Bakar a foodlirmm:Ingredient;
+   rdfs:label "ekstrak jahe bakar" .
+
+halali:Ekstrak_Jahe_Merah a foodlirmm:Ingredient;
+   rdfs:label "ekstrak jahe merah" .
+
+halali:Ekstrak_Jamur a foodlirmm:Ingredient;
+   rdfs:label "ekstrak jamur" .
+
+halali:Ekstrak_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "ekstrak kedelai" .
+
+halali:Ekstrak_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "ekstrak kelapa" .
+
+halali:Ekstrak_Kopi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak kopi" .
+
+halali:Ekstrak_Krisantemum a foodlirmm:Ingredient;
+   rdfs:label "ekstrak krisantemum" .
+
+halali:Ekstrak_Kulit_Manggis a foodlirmm:Ingredient;
+   rdfs:label "ekstrak kulit manggis" .
+
+halali:Ekstrak_Lemon a foodlirmm:Ingredient;
+   rdfs:label "ekstrak lemon" .
+
+halali:Ekstrak_Lemon_Grass a foodlirmm:Ingredient;
+   rdfs:label "ekstrak lemon grass" .
+
+halali:Ekstrak_Madu a foodlirmm:Ingredient;
+   rdfs:label "ekstrak madu" .
+
+halali:Ekstrak_Malt a foodlirmm:Ingredient;
+   rdfs:label "ekstrak malt" .
+
+halali:Ekstrak_Malt_Barley a foodlirmm:Ingredient;
+   rdfs:label "ekstrak malt barley" .
+
+halali:Ekstrak_Melati a foodlirmm:Ingredient;
+   rdfs:label "ekstrak melati" .
+
+halali:Ekstrak_Paprika a foodlirmm:Ingredient;
+   rdfs:label "ekstrak paprika" .
+
+halali:Ekstrak_Ragi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak ragi" .
+
+halali:Ekstrak_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "ekstrak rumput laut" .
+
+halali:Ekstrak_Sereh a foodlirmm:Ingredient;
+   rdfs:label "ekstrak sereh" .
+
+halali:Ekstrak_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "ekstrak stroberi" .
+
+halali:Ekstrak_Teh a foodlirmm:Ingredient;
+   rdfs:label "ekstrak teh" .
+
+halali:Ekstrak_Tehhitam a foodlirmm:Ingredient;
+   rdfs:label "ekstrak tehhitam" .
+
+halali:Ekstrak_Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "ekstrak teh hijau" .
+
+halali:Ekstrak_Teh_Melati a foodlirmm:Ingredient;
+   rdfs:label "ekstrak teh melati" .
+
+halali:Ekstrak_Teh_Putih a foodlirmm:Ingredient;
+   rdfs:label "ekstrak teh putih" .
+
+halali:Ekstrak_Temulawak a foodlirmm:Ingredient;
+   rdfs:label "ekstrak temulawak" .
+
+halali:Ekstra_Bawang_Bombay a foodlirmm:Ingredient;
+   rdfs:label "ekstra bawang bombay" .
+
+halali:Ekstra_Daging_Sapi a foodlirmm:Ingredient;
+   rdfs:label "ekstra daging sapi" .
+
+halali:Ekstra_Malt a foodlirmm:Ingredient;
+   rdfs:label "ekstra malt" .
+
+halali:Ekstra_Ragi_Minyak_Nabati a foodlirmm:Ingredient;
+   rdfs:label "ekstra ragi minyak nabati" .
+
+halali:Ektrak_Ayam_Bubuk_Cabai a foodlirmm:Ingredient;
+   rdfs:label "ektrak ayam bubuk cabai" .
+
+halali:Ektrak_Malt a foodlirmm:Ingredient;
+   rdfs:label "ektrak malt" .
+
+halali:Elderberi a foodlirmm:Ingredient;
+   rdfs:label "elderberi" .
+
+halali:Elstrak_Barley_Malt a foodlirmm:Ingredient;
+   rdfs:label "elstrak barley malt" .
+
+halali:Emulsifiers a foodlirmm:Ingredient;
+   rdfs:label "emulsifiers" .
+
+halali:Emulsifier_E a foodlirmm:Ingredient;
+   rdfs:label "emulsifier e" .
+
+halali:Emulsifier_Soy_Lecithins a foodlirmm:Ingredient;
+   rdfs:label "emulsifier soy lecithins" .
+
+halali:Entrosin_Ci a foodlirmm:Ingredient;
+   rdfs:label "entrosin ci" .
+
+halali:Enzim_Papain a foodlirmm:Ingredient;
+   rdfs:label "enzim papain" .
+
+halali:Enzim_Protease a foodlirmm:Ingredient;
+   rdfs:label "enzim protease" .
+
+halali:Eritrosin_Ci a foodlirmm:Ingredient;
+   rdfs:label "eritrosin ci" .
+
+halali:Eritrosin_Cl a foodlirmm:Ingredient;
+   rdfs:label "eritrosin cl" .
+
+halali:Esterpoligliserol_Asam_Risinoleat_Terinteresterifikasi a foodlirmm:Ingredient;
+   rdfs:label "esterpoligliserol asam risinoleat terinteresterifikasi" .
+
+halali:Ester_Sukrosa a foodlirmm:Ingredient;
+   rdfs:label "ester sukrosa" .
+
+halali:Es_Krim a foodlirmm:Ingredient;
+   rdfs:label "es krim" .
+
+halali:Extraxt_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "extraxt rumput laut" .
+
+halali:Fat_Reduced_Cocoa a foodlirmm:Ingredient;
+   rdfs:label "fat reduced cocoa" .
+
+halali:Fat_Reduced_Cocoa_Powder a foodlirmm:Ingredient;
+   rdfs:label "fat reduced cocoa powder" .
+
+halali:Ferrous_Fumarate a foodlirmm:Ingredient;
+   rdfs:label "ferrous fumarate" .
+
+halali:Fine_Chocolate a foodlirmm:Ingredient;
+   rdfs:label "fine chocolate" .
+
+halali:Fish_Cake a foodlirmm:Ingredient;
+   rdfs:label "fish cake" .
+
+halali:Flavouring a foodlirmm:Ingredient;
+   rdfs:label "flavouring" .
+
+halali:Flavour_Enhancer a foodlirmm:Ingredient;
+   rdfs:label "flavour enhancer" .
+
+halali:Flax_Seed a foodlirmm:Ingredient;
+   rdfs:label "flax seed" .
+
+halali:For_Fortification_Of_Iron a foodlirmm:Ingredient;
+   rdfs:label "for fortification of iron" .
+
+halali:Fos a foodlirmm:Ingredient;
+   rdfs:label "fos" .
+
+halali:Fosfat a foodlirmm:Ingredient;
+   rdfs:label "fosfat" .
+
+halali:Fosfolipida a foodlirmm:Ingredient;
+   rdfs:label "fosfolipida" .
+
+halali:Freeze_Dried_Soluble_Coffe_Powder a foodlirmm:Ingredient;
+   rdfs:label "freeze dried soluble coffe powder" .
+
+halali:Fruktooligosakarida a foodlirmm:Ingredient;
+   rdfs:label "fruktooligosakarida" .
+
+halali:Fruktosa a foodlirmm:Ingredient;
+   rdfs:label "fruktosa" .
+
+halali:Frukto_Oligosakarida a foodlirmm:Ingredient;
+   rdfs:label "frukto-oligosakarida" .
+
+halali:G a foodlirmm:Ingredient;
+   rdfs:label "g" .
+
+halali:Galcarecus_Spar_G a foodlirmm:Ingredient;
+   rdfs:label "galcarecus spar g" .
+
+halali:Galcareous_Spar_Ml a foodlirmm:Ingredient;
+   rdfs:label "galcareous spar ml" .
+
+halali:Gandum a foodlirmm:Ingredient;
+   rdfs:label "gandum" .
+
+halali:Gandum_Serpihan a foodlirmm:Ingredient;
+   rdfs:label "gandum serpihan" .
+
+halali:Gandum_Utuh a foodlirmm:Ingredient;
+   rdfs:label "gandum utuh" .
+
+halali:Gangliosida a foodlirmm:Ingredient;
+   rdfs:label "gangliosida" .
+
+halali:Gara a foodlirmm:Ingredient;
+   rdfs:label "gara" .
+
+halali:Garam a foodlirmm:Ingredient;
+   rdfs:label "garam" .
+
+halali:Garam_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "garam fosfat" .
+
+halali:Garam_Laut a foodlirmm:Ingredient;
+   rdfs:label "garam laut" .
+
+halali:Garam_Laut_Himalaya a foodlirmm:Ingredient;
+   rdfs:label "garam laut himalaya" .
+
+halali:Garam_Mineral a foodlirmm:Ingredient;
+   rdfs:label "garam mineral" .
+
+halali:Garlic a foodlirmm:Ingredient;
+   rdfs:label "garlic" .
+
+halali:Garlic_Powder a foodlirmm:Ingredient;
+   rdfs:label "garlic powder" .
+
+halali:Gelatin_Sapi a foodlirmm:Ingredient;
+   rdfs:label "gelatin sapi" .
+
+halali:Gipsum_Fibrosum_G a foodlirmm:Ingredient;
+   rdfs:label "gipsum fibrosum g" .
+
+halali:Glikosida_Steviol a foodlirmm:Ingredient;
+   rdfs:label "glikosida steviol" .
+
+halali:Gliserin a foodlirmm:Ingredient;
+   rdfs:label "gliserin" .
+
+halali:Gliserol a foodlirmm:Ingredient;
+   rdfs:label "gliserol" .
+
+halali:Glucose_Syrup a foodlirmm:Ingredient;
+   rdfs:label "glucose syrup" .
+
+halali:Glucurolactore_Mg a foodlirmm:Ingredient;
+   rdfs:label "glucurolactore mg" .
+
+halali:Glukosa a foodlirmm:Ingredient;
+   rdfs:label "glukosa" .
+
+halali:Glutamat a foodlirmm:Ingredient;
+   rdfs:label "glutamat" .
+
+halali:Gochujang a foodlirmm:Ingredient;
+   rdfs:label "gochujang" .
+
+halali:Gom_Arab a foodlirmm:Ingredient;
+   rdfs:label "gom arab" .
+
+halali:Gom_Gelan a foodlirmm:Ingredient;
+   rdfs:label "gom gelan" .
+
+halali:Gom_Gellant a foodlirmm:Ingredient;
+   rdfs:label "gom gellant" .
+
+halali:Gom_Kacang_Lokus a foodlirmm:Ingredient;
+   rdfs:label "gom kacang lokus" .
+
+halali:Gom_Xantan a foodlirmm:Ingredient;
+   rdfs:label "gom xantan" .
+
+halali:Gom_Xanthan a foodlirmm:Ingredient;
+   rdfs:label "gom xanthan" .
+
+halali:Green_Tea_Powder a foodlirmm:Ingredient;
+   rdfs:label "green tea powder" .
+
+halali:Guanilat a foodlirmm:Ingredient;
+   rdfs:label "guanilat" .
+
+halali:Guar_Gum a foodlirmm:Ingredient;
+   rdfs:label "guar gum" .
+
+halali:Gula a foodlirmm:Ingredient;
+   rdfs:label "gula" .
+
+halali:Gulam_Cokelat_Pasta a foodlirmm:Ingredient;
+   rdfs:label "gulam cokelat pasta" .
+
+halali:Gula_Alami a foodlirmm:Ingredient;
+   rdfs:label "gula alami" .
+
+halali:Gula_Aren a foodlirmm:Ingredient;
+   rdfs:label "gula aren" .
+
+halali:Gula_Batu a foodlirmm:Ingredient;
+   rdfs:label "gula batu" .
+
+halali:Gula_Garam a foodlirmm:Ingredient;
+   rdfs:label "gula garam" .
+
+halali:Gula_Halus a foodlirmm:Ingredient;
+   rdfs:label "gula halus" .
+
+halali:Gula_Invert a foodlirmm:Ingredient;
+   rdfs:label "gula invert" .
+
+halali:Gula_Jawa a foodlirmm:Ingredient;
+   rdfs:label "gula jawa" .
+
+halali:Gula_Kastor a foodlirmm:Ingredient;
+   rdfs:label "gula kastor" .
+
+halali:Gula_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "gula kelapa" .
+
+halali:Gula_Kristal a foodlirmm:Ingredient;
+   rdfs:label "gula kristal" .
+
+halali:Gula_Merah a foodlirmm:Ingredient;
+   rdfs:label "gula merah" .
+
+halali:Gula_Murni_G a foodlirmm:Ingredient;
+   rdfs:label "gula murni g" .
+
+halali:Gula_Pasir a foodlirmm:Ingredient;
+   rdfs:label "gula pasir" .
+
+halali:Gula_Pasir_Murni a foodlirmm:Ingredient;
+   rdfs:label "gula pasir murni" .
+
+halali:Gula_Pemanis_Buatan a foodlirmm:Ingredient;
+   rdfs:label "gula pemanis buatan" .
+
+halali:Gula_Tebu a foodlirmm:Ingredient;
+   rdfs:label "gula tebu" .
+
+halali:Gum_Base a foodlirmm:Ingredient;
+   rdfs:label "gum base" .
+
+halali:G_Kecepe a foodlirmm:Ingredient;
+   rdfs:label "g kecepe" .
+
+halali:Havermut a foodlirmm:Ingredient;
+   rdfs:label "havermut" .
+
+halali:Havermut_Utuh a foodlirmm:Ingredient;
+   rdfs:label "havermut utuh" .
+
+halali:Hazelnut a foodlirmm:Ingredient;
+   rdfs:label "hazelnut" .
+
+halali:Hazelnuts_In_The_Cream a foodlirmm:Ingredient;
+   rdfs:label "hazelnuts  in the cream" .
+
+halali:Hidroksipropil_Dipati_Fostfat a foodlirmm:Ingredient;
+   rdfs:label "hidroksipropil dipati fostfat" .
+
+halali:Hidrolisa_Protein a foodlirmm:Ingredient;
+   rdfs:label "hidrolisa protein" .
+
+halali:Hidrolisa_Protein_Nabati a foodlirmm:Ingredient;
+   rdfs:label "hidrolisa protein nabati" .
+
+halali:Hidrosilat_Protein_Nabati a foodlirmm:Ingredient;
+   rdfs:label "hidrosilat protein nabati" .
+
+halali:Hop a foodlirmm:Ingredient;
+   rdfs:label "hop" .
+
+halali:Humektan a foodlirmm:Ingredient;
+   rdfs:label "humektan" .
+
+halali:Identik_Alami a foodlirmm:Ingredient;
+   rdfs:label "identik alami" .
+
+halali:Ikan a foodlirmm:Ingredient;
+   rdfs:label "ikan" .
+
+halali:Ikan_Asin a foodlirmm:Ingredient;
+   rdfs:label "ikan asin" .
+
+halali:Ikan_Mackerel a foodlirmm:Ingredient;
+   rdfs:label "ikan mackerel" .
+
+halali:Ikan_Makarel a foodlirmm:Ingredient;
+   rdfs:label "ikan makarel" .
+
+halali:Ikan_Sarden a foodlirmm:Ingredient;
+   rdfs:label "ikan sarden" .
+
+halali:Ikan_Sardens a foodlirmm:Ingredient;
+   rdfs:label "ikan sardens" .
+
+halali:Ikan_Tenggiri a foodlirmm:Ingredient;
+   rdfs:label "ikan tenggiri" .
+
+halali:Inosinat a foodlirmm:Ingredient;
+   rdfs:label "inosinat" .
+
+halali:Inositol a foodlirmm:Ingredient;
+   rdfs:label "inositol" .
+
+halali:Inositol_Mg a foodlirmm:Ingredient;
+   rdfs:label "inositol mg" .
+
+halali:Ins a foodlirmm:Ingredient;
+   rdfs:label "ins" .
+
+halali:Ins_Ii a foodlirmm:Ingredient;
+   rdfs:label "ins ii" .
+
+halali:Inulin a foodlirmm:Ingredient;
+   rdfs:label "inulin" .
+
+halali:Isolat_Protein_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "isolat protein kedelai" .
+
+halali:Isolat_Protein_Susu a foodlirmm:Ingredient;
+   rdfs:label "isolat protein susu" .
+
+halali:Isomalto_Oligosakarida a foodlirmm:Ingredient;
+   rdfs:label "isomalto-oligosakarida" .
+
+halali:Isomaltulosa a foodlirmm:Ingredient;
+   rdfs:label "isomaltulosa" .
+
+halali:Jagung a foodlirmm:Ingredient;
+   rdfs:label "jagung" .
+
+halali:Jagung_Berondong a foodlirmm:Ingredient;
+   rdfs:label "jagung berondong" .
+
+halali:Jagung_Kering_Giling a foodlirmm:Ingredient;
+   rdfs:label "jagung kering giling" .
+
+halali:Jagung_Murni a foodlirmm:Ingredient;
+   rdfs:label "jagung murni" .
+
+halali:Jahe a foodlirmm:Ingredient;
+   rdfs:label "jahe" .
+
+halali:Jahe_Merah a foodlirmm:Ingredient;
+   rdfs:label "jahe merah" .
+
+halali:Jamur a foodlirmm:Ingredient;
+   rdfs:label "jamur" .
+
+halali:Jamur_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "jamur bubuk" .
+
+halali:Jamur_Kering a foodlirmm:Ingredient;
+   rdfs:label "jamur kering" .
+
+halali:Jelatang a foodlirmm:Ingredient;
+   rdfs:label "jelatang" .
+
+halali:Jeruk a foodlirmm:Ingredient;
+   rdfs:label "jeruk" .
+
+halali:Jeruk_Lemon a foodlirmm:Ingredient;
+   rdfs:label "jeruk lemon" .
+
+halali:Jeruk_Nipis a foodlirmm:Ingredient;
+   rdfs:label "jeruk nipis" .
+
+halali:Jeruk_Nipis_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "jeruk nipis bubuk" .
+
+halali:Kaamel a foodlirmm:Ingredient;
+   rdfs:label "kaamel" .
+
+halali:Kacang a foodlirmm:Ingredient;
+   rdfs:label "kacang" .
+
+halali:Kacang_Almond a foodlirmm:Ingredient;
+   rdfs:label "kacang almond" .
+
+halali:Kacang_Hazel a foodlirmm:Ingredient;
+   rdfs:label "kacang hazel" .
+
+halali:Kacang_Hezelnut a foodlirmm:Ingredient;
+   rdfs:label "kacang hezelnut" .
+
+halali:Kacang_Hijau a foodlirmm:Ingredient;
+   rdfs:label "kacang hijau" .
+
+halali:Kacang_Kacangan a foodlirmm:Ingredient;
+   rdfs:label "kacang-kacangan" .
+
+halali:Kacang_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "kacang kedelai" .
+
+halali:Kacang_Koro a foodlirmm:Ingredient;
+   rdfs:label "kacang koro" .
+
+halali:Kacang_Macadamia a foodlirmm:Ingredient;
+   rdfs:label "kacang macadamia" .
+
+halali:Kacang_Mede a foodlirmm:Ingredient;
+   rdfs:label "kacang mede" .
+
+halali:Kacang_Polong a foodlirmm:Ingredient;
+   rdfs:label "kacang polong" .
+
+halali:Kacang_Tanah a foodlirmm:Ingredient;
+   rdfs:label "kacang tanah" .
+
+halali:Kacang_Tanah_Panggang a foodlirmm:Ingredient;
+   rdfs:label "kacang tanah panggang" .
+
+halali:Kacang_Walnut a foodlirmm:Ingredient;
+   rdfs:label "kacang walnut" .
+
+halali:Kafein a foodlirmm:Ingredient;
+   rdfs:label "kafein" .
+
+halali:Kafein_Kafein_Maksimum_Konsumsi_Mg_Hari a foodlirmm:Ingredient;
+   rdfs:label "kafein kafein maksimum konsumsi mg/hari" .
+
+halali:Kaffir_Lime_Leaf a foodlirmm:Ingredient;
+   rdfs:label "kaffir lime leaf" .
+
+halali:Kakao a foodlirmm:Ingredient;
+   rdfs:label "kakao" .
+
+halali:Kakao_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "kakao bubuk" .
+
+halali:Kakao_Massa a foodlirmm:Ingredient;
+   rdfs:label "kakao massa" .
+
+halali:Kakao_Rendah_Lemak a foodlirmm:Ingredient;
+   rdfs:label "kakao rendah lemak" .
+
+halali:Kalium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "kalium karbonat" .
+
+halali:Kalium_Klorida a foodlirmm:Ingredient;
+   rdfs:label "kalium klorida" .
+
+halali:Kalium_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "kalium sitrat" .
+
+halali:Kalium_Sorbat a foodlirmm:Ingredient;
+   rdfs:label "kalium sorbat" .
+
+halali:Kalsium a foodlirmm:Ingredient;
+   rdfs:label "kalsium" .
+
+halali:Kalsium_Dinatrium_Edta_Kadar_Lemak a foodlirmm:Ingredient;
+   rdfs:label "kalsium dinatrium edta kadar lemak" .
+
+halali:Kalsium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "kalsium karbonat" .
+
+halali:Kalsium_Kaseinat a foodlirmm:Ingredient;
+   rdfs:label "kalsium kaseinat" .
+
+halali:Kalsium_Laktat a foodlirmm:Ingredient;
+   rdfs:label "kalsium laktat" .
+
+halali:Kalsium_Propionat a foodlirmm:Ingredient;
+   rdfs:label "kalsium propionat" .
+
+halali:Kalsium_Sorbat a foodlirmm:Ingredient;
+   rdfs:label "kalsium sorbat" .
+
+halali:Karagen a foodlirmm:Ingredient;
+   rdfs:label "karagen" .
+
+halali:Karamel a foodlirmm:Ingredient;
+   rdfs:label "karamel" .
+
+halali:Karamel_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "karamel bubuk" .
+
+halali:Karbohidrat a foodlirmm:Ingredient;
+   rdfs:label "karbohidrat" .
+
+halali:Kari_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "kari bubuk" .
+
+halali:Karmin_Ci a foodlirmm:Ingredient;
+   rdfs:label "karmin ci" .
+
+halali:Karmoisin_Ci a foodlirmm:Ingredient;
+   rdfs:label "karmoisin ci" .
+
+halali:Karnauba a foodlirmm:Ingredient;
+   rdfs:label "karnauba" .
+
+halali:Karnauba_Wax a foodlirmm:Ingredient;
+   rdfs:label "karnauba wax" .
+
+halali:Karomoisin_Ci a foodlirmm:Ingredient;
+   rdfs:label "karomoisin ci" .
+
+halali:Kaseinat a foodlirmm:Ingredient;
+   rdfs:label "kaseinat" .
+
+halali:Kayu_Alang_Alang a foodlirmm:Ingredient;
+   rdfs:label "kayu alang-alang" .
+
+halali:Kayu_Manis a foodlirmm:Ingredient;
+   rdfs:label "kayu manis" .
+
+halali:Kecap a foodlirmm:Ingredient;
+   rdfs:label "kecap" .
+
+halali:Kecap_Asin a foodlirmm:Ingredient;
+   rdfs:label "kecap asin" .
+
+halali:Kecap_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "kecap bubuk" .
+
+halali:Kecap_Gula a foodlirmm:Ingredient;
+   rdfs:label "kecap gula" .
+
+halali:Kecap_Ikan a foodlirmm:Ingredient;
+   rdfs:label "kecap ikan" .
+
+halali:Kecap_Manis a foodlirmm:Ingredient;
+   rdfs:label "kecap manis" .
+
+halali:Kedelai a foodlirmm:Ingredient;
+   rdfs:label "kedelai" .
+
+halali:Keju_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "keju bubuk" .
+
+halali:Keju_Cheddar a foodlirmm:Ingredient;
+   rdfs:label "keju cheddar" .
+
+halali:Keju_Kraft_Cheddar a foodlirmm:Ingredient;
+   rdfs:label "keju kraft cheddar" .
+
+halali:Keju_Padatan a foodlirmm:Ingredient;
+   rdfs:label "keju padatan" .
+
+halali:Kelapa a foodlirmm:Ingredient;
+   rdfs:label "kelapa" .
+
+halali:Kelapa_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "kelapa bubuk" .
+
+halali:Kelapa_Kering a foodlirmm:Ingredient;
+   rdfs:label "kelapa kering" .
+
+halali:Kelapa_Parut a foodlirmm:Ingredient;
+   rdfs:label "kelapa parut" .
+
+halali:Kelas_Iv a foodlirmm:Ingredient;
+   rdfs:label "kelas iv" .
+
+halali:Kentang a foodlirmm:Ingredient;
+   rdfs:label "kentang" .
+
+halali:Kentang_Asli a foodlirmm:Ingredient;
+   rdfs:label "kentang asli" .
+
+halali:Kepiting a foodlirmm:Ingredient;
+   rdfs:label "kepiting" .
+
+halali:Keragenan a foodlirmm:Ingredient;
+   rdfs:label "keragenan" .
+
+halali:Kering a foodlirmm:Ingredient;
+   rdfs:label "kering" .
+
+halali:Keripik_Pisang a foodlirmm:Ingredient;
+   rdfs:label "keripik pisang" .
+
+halali:Keripik_Singkong_Piliihan a foodlirmm:Ingredient;
+   rdfs:label "keripik singkong piliihan" .
+
+halali:Ketumbar a foodlirmm:Ingredient;
+   rdfs:label "ketumbar" .
+
+halali:Kismis a foodlirmm:Ingredient;
+   rdfs:label "kismis" .
+
+halali:Klorida a foodlirmm:Ingredient;
+   rdfs:label "klorida" .
+
+halali:Kolagen_Ikan a foodlirmm:Ingredient;
+   rdfs:label "kolagen ikan" .
+
+halali:Kolin a foodlirmm:Ingredient;
+   rdfs:label "kolin" .
+
+halali:Komposisi_Tepung_Terigu a foodlirmm:Ingredient;
+   rdfs:label "komposisi tepung terigu" .
+
+halali:Konnyaku_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "konnyaku bubuk" .
+
+halali:Konsentrat_Anggur a foodlirmm:Ingredient;
+   rdfs:label "konsentrat anggur" .
+
+halali:Konsentrat_Apel a foodlirmm:Ingredient;
+   rdfs:label "konsentrat apel" .
+
+halali:Konsentrat_Bluberi a foodlirmm:Ingredient;
+   rdfs:label "konsentrat bluberi" .
+
+halali:Konsentrat_Buah a foodlirmm:Ingredient;
+   rdfs:label "konsentrat buah" .
+
+halali:Konsentrat_Buah_Anggurvitamin_D a foodlirmm:Ingredient;
+   rdfs:label "konsentrat buah anggurvitamin d" .
+
+halali:Konsentrat_Buah_Blueberry a foodlirmm:Ingredient;
+   rdfs:label "konsentrat buah blueberry" .
+
+halali:Konsentrat_Coca_Cola_Termasuk_Karamel a foodlirmm:Ingredient;
+   rdfs:label "konsentrat coca cola termasuk karamel" .
+
+halali:Konsentrat_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "konsentrat jeruk" .
+
+halali:Konsentrat_Jus_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "konsentrat jus stroberi" .
+
+halali:Konsentrat_Kola a foodlirmm:Ingredient;
+   rdfs:label "konsentrat kola" .
+
+halali:Konsentrat_Leci a foodlirmm:Ingredient;
+   rdfs:label "konsentrat leci" .
+
+halali:Konsentrat_Safflower a foodlirmm:Ingredient;
+   rdfs:label "konsentrat safflower" .
+
+halali:Konsentrat_Sari_Buah a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah" .
+
+halali:Konsentrat_Sari_Buah_Anggur a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah anggur" .
+
+halali:Konsentrat_Sari_Buah_Lemon a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah lemon" .
+
+halali:Konsentrat_Sari_Buah_Persik a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah persik" .
+
+halali:Konsentrat_Sari_Buah_Pir a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah pir" .
+
+halali:Konsentrat_Sari_Buah_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "konsentrat sari buah stroberi" .
+
+halali:Konsentrat_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "konsentrat stroberi" .
+
+halali:Konsentrat_Teh a foodlirmm:Ingredient;
+   rdfs:label "konsentrat teh" .
+
+halali:Konstrat_Mangga a foodlirmm:Ingredient;
+   rdfs:label "konstrat mangga" .
+
+halali:Kopi a foodlirmm:Ingredient;
+   rdfs:label "kopi" .
+
+halali:Kopi_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "kopi bubuk" .
+
+halali:Kopi_Bubuk_Instan a foodlirmm:Ingredient;
+   rdfs:label "kopi bubuk instan" .
+
+halali:Kopi_Bubuk_Instant a foodlirmm:Ingredient;
+   rdfs:label "kopi bubuk instant" .
+
+halali:Kopi_Instant a foodlirmm:Ingredient;
+   rdfs:label "kopi instant" .
+
+halali:Kopi_Mikro a foodlirmm:Ingredient;
+   rdfs:label "kopi mikro" .
+
+halali:Kopi_Rendah_Asam a foodlirmm:Ingredient;
+   rdfs:label "kopi rendah asam" .
+
+halali:Krim a foodlirmm:Ingredient;
+   rdfs:label "krim" .
+
+halali:Krimer a foodlirmm:Ingredient;
+   rdfs:label "krimer" .
+
+halali:Krimer_Minuman a foodlirmm:Ingredient;
+   rdfs:label "krimer minuman" .
+
+halali:Krimer_Nabati a foodlirmm:Ingredient;
+   rdfs:label "krimer nabati" .
+
+halali:Krimmer_Nabati a foodlirmm:Ingredient;
+   rdfs:label "krimmer nabati" .
+
+halali:Krim_Nabati a foodlirmm:Ingredient;
+   rdfs:label "krim nabati" .
+
+halali:Krim_Rasa_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "krim rasa cokelat" .
+
+halali:Krim_Stoberi a foodlirmm:Ingredient;
+   rdfs:label "krim stoberi" .
+
+halali:Krispi a foodlirmm:Ingredient;
+   rdfs:label "krispi" .
+
+halali:Kriuk_Bawang a foodlirmm:Ingredient;
+   rdfs:label "kriuk bawang" .
+
+halali:Kubis_Kering a foodlirmm:Ingredient;
+   rdfs:label "kubis kering" .
+
+halali:Kucai_Kering a foodlirmm:Ingredient;
+   rdfs:label "kucai kering" .
+
+halali:Kue_Beras a foodlirmm:Ingredient;
+   rdfs:label "kue beras" .
+
+halali:Kulit_Gandum a foodlirmm:Ingredient;
+   rdfs:label "kulit gandum" .
+
+halali:Kulit_Gandum_Beras_Merah_Giling a foodlirmm:Ingredient;
+   rdfs:label "kulit gandum beras merah giling" .
+
+halali:Kulit_Gandum_Beras_Merah_Organik a foodlirmm:Ingredient;
+   rdfs:label "kulit gandum beras merah organik" .
+
+halali:Kulit_Tahu a foodlirmm:Ingredient;
+   rdfs:label "kulit tahu" .
+
+halali:Kultur_Streptococcus_Thermophilus a foodlirmm:Ingredient;
+   rdfs:label "kultur streptococcus thermophilus" .
+
+halali:Kuning_Fcf a foodlirmm:Ingredient;
+   rdfs:label "kuning fcf" .
+
+halali:Kuning_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "kuning fcf ci" .
+
+halali:Kuning_Fvf_Ci a foodlirmm:Ingredient;
+   rdfs:label "kuning fvf ci" .
+
+halali:Kuning_Telur a foodlirmm:Ingredient;
+   rdfs:label "kuning telur" .
+
+halali:Kunyit a foodlirmm:Ingredient;
+   rdfs:label "kunyit" .
+
+halali:Kurkumin_Ci a foodlirmm:Ingredient;
+   rdfs:label "kurkumin ci" .
+
+halali:Kurkumin_Ci_No a foodlirmm:Ingredient;
+   rdfs:label "kurkumin ci no" .
+
+halali:Kurma a foodlirmm:Ingredient;
+   rdfs:label "kurma" .
+
+halali:Lactobacillus_Delbrueckii_Subsp_Bulgaricus a foodlirmm:Ingredient;
+   rdfs:label "lactobacillus delbrueckii subsp bulgaricus" .
+
+halali:Lada a foodlirmm:Ingredient;
+   rdfs:label "lada" .
+
+halali:Lada_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "lada bubuk" .
+
+halali:Lada_Hitam a foodlirmm:Ingredient;
+   rdfs:label "lada hitam" .
+
+halali:Lada_Hitam_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "lada hitam bubuk" .
+
+halali:Lada_Merah a foodlirmm:Ingredient;
+   rdfs:label "lada merah" .
+
+halali:Lada_Merah_Ekstrak_Ragi a foodlirmm:Ingredient;
+   rdfs:label "lada merah ekstrak ragi" .
+
+halali:Lada_Pewarna_Karamel a foodlirmm:Ingredient;
+   rdfs:label "lada pewarna karamel" .
+
+halali:Laktat_Ferments a foodlirmm:Ingredient;
+   rdfs:label "laktat ferments" .
+
+halali:Laktoferin a foodlirmm:Ingredient;
+   rdfs:label "laktoferin" .
+
+halali:Laktosa a foodlirmm:Ingredient;
+   rdfs:label "laktosa" .
+
+halali:Leci a foodlirmm:Ingredient;
+   rdfs:label "leci" .
+
+halali:Lecithins_Soy a foodlirmm:Ingredient;
+   rdfs:label "lecithins soy" .
+
+halali:Lemak a foodlirmm:Ingredient;
+   rdfs:label "lemak" .
+
+halali:Lemak_Kakao a foodlirmm:Ingredient;
+   rdfs:label "lemak kakao" .
+
+halali:Lemak_Nabati a foodlirmm:Ingredient;
+   rdfs:label "lemak nabati" .
+
+halali:Lemak_Nabati_Reroti a foodlirmm:Ingredient;
+   rdfs:label "lemak nabati reroti" .
+
+halali:Lemak_Reroti a foodlirmm:Ingredient;
+   rdfs:label "lemak reroti" .
+
+halali:Lemak_Reroti_Nabati a foodlirmm:Ingredient;
+   rdfs:label "lemak reroti nabati" .
+
+halali:Lemak_Sapi a foodlirmm:Ingredient;
+   rdfs:label "lemak sapi" .
+
+halali:Lemak_Susu a foodlirmm:Ingredient;
+   rdfs:label "lemak susu" .
+
+halali:Lemak_Susu_Anhidrat a foodlirmm:Ingredient;
+   rdfs:label "lemak susu anhidrat" .
+
+halali:Lemak_Tumbuh_Tumbuhan a foodlirmm:Ingredient;
+   rdfs:label "lemak tumbuh-tumbuhan" .
+
+halali:Lemon a foodlirmm:Ingredient;
+   rdfs:label "lemon" .
+
+halali:Lemongrass a foodlirmm:Ingredient;
+   rdfs:label "lemongrass" .
+
+halali:Lemon_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "lemon bubuk" .
+
+halali:Lesitin_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "lesitin kedelai" .
+
+halali:Lesitin_Kedelai_Pengemulsi a foodlirmm:Ingredient;
+   rdfs:label "lesitin kedelai pengemulsi" .
+
+halali:Licorice a foodlirmm:Ingredient;
+   rdfs:label "licorice" .
+
+halali:Lilin_Malam a foodlirmm:Ingredient;
+   rdfs:label "lilin malam" .
+
+halali:Lo_Han_Kuo a foodlirmm:Ingredient;
+   rdfs:label "lo han kuo" .
+
+halali:Lysine a foodlirmm:Ingredient;
+   rdfs:label "lysine" .
+
+halali:Lysine_Mg a foodlirmm:Ingredient;
+   rdfs:label "lysine mg" .
+
+halali:L_Acidophilus a foodlirmm:Ingredient;
+   rdfs:label "l acidophilus" .
+
+halali:Madu a foodlirmm:Ingredient;
+   rdfs:label "madu" .
+
+halali:Madu_Dari_Bunga_Beech_Forest a foodlirmm:Ingredient;
+   rdfs:label "madu dari bunga beech forest" .
+
+halali:Madu_Dari_Bunga_Clover a foodlirmm:Ingredient;
+   rdfs:label "madu dari bunga clover" .
+
+halali:Madu_Murni a foodlirmm:Ingredient;
+   rdfs:label "madu murni" .
+
+halali:Madu_Murni_Dari_Bunga_Clover a foodlirmm:Ingredient;
+   rdfs:label "madu murni dari bunga clover" .
+
+halali:Madu_Murni_Dari_Bunga_Manuka a foodlirmm:Ingredient;
+   rdfs:label "madu murni dari bunga manuka" .
+
+halali:Magnesium a foodlirmm:Ingredient;
+   rdfs:label "magnesium" .
+
+halali:Magnesium_Laktat a foodlirmm:Ingredient;
+   rdfs:label "magnesium laktat" .
+
+halali:Maizena a foodlirmm:Ingredient;
+   rdfs:label "maizena" .
+
+halali:Makanan_Ragi a foodlirmm:Ingredient;
+   rdfs:label "makanan ragi" .
+
+halali:Makaroni a foodlirmm:Ingredient;
+   rdfs:label "makaroni" .
+
+halali:Malt a foodlirmm:Ingredient;
+   rdfs:label "malt" .
+
+halali:Malted_Barley_Ekstrak_Hops a foodlirmm:Ingredient;
+   rdfs:label "malted barley ekstrak hops" .
+
+halali:Maltodekstrin a foodlirmm:Ingredient;
+   rdfs:label "maltodekstrin" .
+
+halali:Maltodesktrin a foodlirmm:Ingredient;
+   rdfs:label "maltodesktrin" .
+
+halali:Malt_Ekstra a foodlirmm:Ingredient;
+   rdfs:label "malt ekstra" .
+
+halali:Malt_Extract a foodlirmm:Ingredient;
+   rdfs:label "malt extract" .
+
+halali:Mangga a foodlirmm:Ingredient;
+   rdfs:label "mangga" .
+
+halali:Manisan_Cranberry a foodlirmm:Ingredient;
+   rdfs:label "manisan cranberry" .
+
+halali:Manisan_Nanas a foodlirmm:Ingredient;
+   rdfs:label "manisan nanas" .
+
+halali:Manisan_Pepaya a foodlirmm:Ingredient;
+   rdfs:label "manisan pepaya" .
+
+halali:Margarin a foodlirmm:Ingredient;
+   rdfs:label "margarin" .
+
+halali:Margarine a foodlirmm:Ingredient;
+   rdfs:label "margarine" .
+
+halali:Marjerin a foodlirmm:Ingredient;
+   rdfs:label "marjerin" .
+
+halali:Markisa a foodlirmm:Ingredient;
+   rdfs:label "markisa" .
+
+halali:Massa_Kakao a foodlirmm:Ingredient;
+   rdfs:label "massa kakao" .
+
+halali:Mede a foodlirmm:Ingredient;
+   rdfs:label "mede" .
+
+halali:Megandung_Ekstrak_Sapi a foodlirmm:Ingredient;
+   rdfs:label "megandung ekstrak sapi" .
+
+halali:Megandung_Lesitin_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "megandung lesitin kedelai" .
+
+halali:Melati a foodlirmm:Ingredient;
+   rdfs:label "melati" .
+
+halali:Mente a foodlirmm:Ingredient;
+   rdfs:label "mente" .
+
+halali:Mentega a foodlirmm:Ingredient;
+   rdfs:label "mentega" .
+
+halali:Mentega_Asli a foodlirmm:Ingredient;
+   rdfs:label "mentega asli" .
+
+halali:Mentega_Tawar a foodlirmm:Ingredient;
+   rdfs:label "mentega tawar" .
+
+halali:Merah a foodlirmm:Ingredient;
+   rdfs:label "merah" .
+
+halali:Merah_Allura a foodlirmm:Ingredient;
+   rdfs:label "merah allura" .
+
+halali:Merah_Allura_Ci a foodlirmm:Ingredient;
+   rdfs:label "merah allura ci" .
+
+halali:Merica a foodlirmm:Ingredient;
+   rdfs:label "merica" .
+
+halali:Mg_Per_Saji a foodlirmm:Ingredient;
+   rdfs:label "mg per saji" .
+
+halali:Min a foodlirmm:Ingredient;
+   rdfs:label "min" .
+
+halali:Mineral a foodlirmm:Ingredient;
+   rdfs:label "mineral" .
+
+halali:Mineral_Premiks a foodlirmm:Ingredient;
+   rdfs:label "mineral premiks" .
+
+halali:Mint a foodlirmm:Ingredient;
+   rdfs:label "mint" .
+
+halali:Minyak a foodlirmm:Ingredient;
+   rdfs:label "minyak" .
+
+halali:Minyak_Atsiri_Paprika a foodlirmm:Ingredient;
+   rdfs:label "minyak atsiri paprika" .
+
+halali:Minyak_Bawang a foodlirmm:Ingredient;
+   rdfs:label "minyak bawang" .
+
+halali:Minyak_Bawang_Putih a foodlirmm:Ingredient;
+   rdfs:label "minyak bawang putih" .
+
+halali:Minyak_Beras a foodlirmm:Ingredient;
+   rdfs:label "minyak beras" .
+
+halali:Minyak_Biji_Bunga_Matahari a foodlirmm:Ingredient;
+   rdfs:label "minyak biji bunga matahari" .
+
+halali:Minyak_Bunga_Matahari a foodlirmm:Ingredient;
+   rdfs:label "minyak bunga matahari" .
+
+halali:Minyak_Bunga_Matahari_Bumbu_Rasa_Keju a foodlirmm:Ingredient;
+   rdfs:label "minyak bunga matahari bumbu rasa keju" .
+
+halali:Minyak_Bunga_Matahari_Tinggi_Oleat a foodlirmm:Ingredient;
+   rdfs:label "minyak bunga matahari tinggi oleat" .
+
+halali:Minyak_Cabai a foodlirmm:Ingredient;
+   rdfs:label "minyak cabai" .
+
+halali:Minyak_Goreng a foodlirmm:Ingredient;
+   rdfs:label "minyak goreng" .
+
+halali:Minyak_Goreng_Kelapa_Sawit a foodlirmm:Ingredient;
+   rdfs:label "minyak goreng kelapa sawit" .
+
+halali:Minyak_Ikan a foodlirmm:Ingredient;
+   rdfs:label "minyak ikan" .
+
+halali:Minyak_Inti_Kelapa_Sawit_Terhidrogen a foodlirmm:Ingredient;
+   rdfs:label "minyak inti kelapa sawit terhidrogen" .
+
+halali:Minyak_Inti_Kelapa_Sawit_Terhidrogenasi a foodlirmm:Ingredient;
+   rdfs:label "minyak inti kelapa sawit terhidrogenasi" .
+
+halali:Minyak_Kacang a foodlirmm:Ingredient;
+   rdfs:label "minyak kacang" .
+
+halali:Minyak_Kacang_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "minyak kacang kedelai" .
+
+halali:Minyak_Kacang_Tanah a foodlirmm:Ingredient;
+   rdfs:label "minyak kacang tanah" .
+
+halali:Minyak_Kanola a foodlirmm:Ingredient;
+   rdfs:label "minyak kanola" .
+
+halali:Minyak_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "minyak kedelai" .
+
+halali:Minyak_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "minyak kelapa" .
+
+halali:Minyak_Kelapa_Sawit a foodlirmm:Ingredient;
+   rdfs:label "minyak kelapa sawit" .
+
+halali:Minyak_Kelapa_Sawit_Antioksidan_Tbhq a foodlirmm:Ingredient;
+   rdfs:label "minyak kelapa sawit antioksidan tbhq" .
+
+halali:Minyak_Kelapa_Terhidrogenasi a foodlirmm:Ingredient;
+   rdfs:label "minyak kelapa terhidrogenasi" .
+
+halali:Minyak_Nabati a foodlirmm:Ingredient;
+   rdfs:label "minyak nabati" .
+
+halali:Minyak_Nabati_Pelapis a foodlirmm:Ingredient;
+   rdfs:label "minyak nabati pelapis" .
+
+halali:Minyak_Olein_Kelapa_Sawit a foodlirmm:Ingredient;
+   rdfs:label "minyak olein kelapa sawit" .
+
+halali:Minyak_Sawit a foodlirmm:Ingredient;
+   rdfs:label "minyak sawit" .
+
+halali:Minyak_Sayur a foodlirmm:Ingredient;
+   rdfs:label "minyak sayur" .
+
+halali:Minyak_Trgiguserida_Rantai_Se a foodlirmm:Ingredient;
+   rdfs:label "minyak trgiguserida rantai se" .
+
+halali:Minyak_Tumbuh_Tumbuhan a foodlirmm:Ingredient;
+   rdfs:label "minyak tumbuh-tumbuhan" .
+
+halali:Minyak_Zaitun a foodlirmm:Ingredient;
+   rdfs:label "minyak zaitun" .
+
+halali:Minyak_Zaitun_Ratinasi a foodlirmm:Ingredient;
+   rdfs:label "minyak zaitun ratinasi" .
+
+halali:Mo a foodlirmm:Ingredient;
+   rdfs:label "mo" .
+
+halali:Modified_Starch a foodlirmm:Ingredient;
+   rdfs:label "modified starch" .
+
+halali:Molasses a foodlirmm:Ingredient;
+   rdfs:label "molasses" .
+
+halali:Momordicae_Grosvenori_Fructus_G a foodlirmm:Ingredient;
+   rdfs:label "momordicae grosvenori fructus g" .
+
+halali:Monohidrat a foodlirmm:Ingredient;
+   rdfs:label "monohidrat" .
+
+halali:Monokalsium_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "monokalsium fosfat" .
+
+halali:Mononatrium_Fosfat_Tri_Kalsium_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "mononatrium fosfat tri kalsium fosfat" .
+
+halali:Mononatrium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "mononatrium glutamat" .
+
+halali:Mononatrium_L_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "mononatrium l-glutamat" .
+
+halali:Monosodium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "monosodium glutamat" .
+
+halali:Msg a foodlirmm:Ingredient;
+   rdfs:label "msg" .
+
+halali:Multidestrin a foodlirmm:Ingredient;
+   rdfs:label "multidestrin" .
+
+halali:Mustard a foodlirmm:Ingredient;
+   rdfs:label "mustard" .
+
+halali:Nabati a foodlirmm:Ingredient;
+   rdfs:label "nabati" .
+
+halali:Nanas a foodlirmm:Ingredient;
+   rdfs:label "nanas" .
+
+halali:Nangka a foodlirmm:Ingredient;
+   rdfs:label "nangka" .
+
+halali:Nata_De_Coco a foodlirmm:Ingredient;
+   rdfs:label "nata de coco" .
+
+halali:Natrium a foodlirmm:Ingredient;
+   rdfs:label "natrium" .
+
+halali:Natrium_Asam_Pirofosfat a foodlirmm:Ingredient;
+   rdfs:label "natrium asam pirofosfat" .
+
+halali:Natrium_Asetat a foodlirmm:Ingredient;
+   rdfs:label "natrium asetat" .
+
+halali:Natrium_Askorbat a foodlirmm:Ingredient;
+   rdfs:label "natrium askorbat" .
+
+halali:Natrium_Benzoat a foodlirmm:Ingredient;
+   rdfs:label "natrium benzoat" .
+
+halali:Natrium_Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "natrium bikarbonat" .
+
+halali:Natrium_Dihidrogen_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "natrium dihidrogen sitrat" .
+
+halali:Natrium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "natrium glutamat" .
+
+halali:Natrium_Heksametafosfaat a foodlirmm:Ingredient;
+   rdfs:label "natrium heksametafosfaat" .
+
+halali:Natrium_Hidrogen_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "natrium hidrogen karbonat" .
+
+halali:Natrium_Karboksimetil_Selulosa a foodlirmm:Ingredient;
+   rdfs:label "natrium karboksimetil selulosa" .
+
+halali:Natrium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "natrium karbonat" .
+
+halali:Natrium_Karbonat_Asam_Askorbat a foodlirmm:Ingredient;
+   rdfs:label "natrium karbonat asam askorbat" .
+
+halali:Natrium_Kaseinat a foodlirmm:Ingredient;
+   rdfs:label "natrium kaseinat" .
+
+halali:Natrium_Kaselnat a foodlirmm:Ingredient;
+   rdfs:label "natrium kaselnat" .
+
+halali:Natrium_Klorida a foodlirmm:Ingredient;
+   rdfs:label "natrium klorida" .
+
+halali:Natrium_Metabisulfit a foodlirmm:Ingredient;
+   rdfs:label "natrium metabisulfit" .
+
+halali:Natrium_Polifosfat a foodlirmm:Ingredient;
+   rdfs:label "natrium polifosfat" .
+
+halali:Natrium_Posfat a foodlirmm:Ingredient;
+   rdfs:label "natrium posfat" .
+
+halali:Natrium_Propionat a foodlirmm:Ingredient;
+   rdfs:label "natrium propionat" .
+
+halali:Natrium_Sakasin a foodlirmm:Ingredient;
+   rdfs:label "natrium sakasin" .
+
+halali:Natrium_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "natrium sitrat" .
+
+halali:Natrium_Tripolifosfat a foodlirmm:Ingredient;
+   rdfs:label "natrium tripolifosfat" .
+
+halali:Natural_Cheese_Flavour a foodlirmm:Ingredient;
+   rdfs:label "natural cheese flavour" .
+
+halali:Na_Askorbat a foodlirmm:Ingredient;
+   rdfs:label "na-askorbat" .
+
+halali:Na_Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "na-bikarbonat" .
+
+halali:Niacicinamide a foodlirmm:Ingredient;
+   rdfs:label "niacicinamide" .
+
+halali:Niasin a foodlirmm:Ingredient;
+   rdfs:label "niasin" .
+
+halali:Nisin a foodlirmm:Ingredient;
+   rdfs:label "nisin" .
+
+halali:Nissin a foodlirmm:Ingredient;
+   rdfs:label "nissin" .
+
+halali:Nitrate a foodlirmm:Ingredient;
+   rdfs:label "nitrate" .
+
+halali:Nitrit a foodlirmm:Ingredient;
+   rdfs:label "nitrit" .
+
+halali:No_Gula_Icing a foodlirmm:Ingredient;
+   rdfs:label "no  gula icing" .
+
+halali:Nutrneg_Essential_Oil a foodlirmm:Ingredient;
+   rdfs:label "nutrneg essential oil" .
+
+halali:Oat a foodlirmm:Ingredient;
+   rdfs:label "oat" .
+
+halali:Oat_Fiber a foodlirmm:Ingredient;
+   rdfs:label "oat fiber" .
+
+halali:Oat_Serpihan a foodlirmm:Ingredient;
+   rdfs:label "oat serpihan" .
+
+halali:Okra a foodlirmm:Ingredient;
+   rdfs:label "okra" .
+
+halali:Oksidan a foodlirmm:Ingredient;
+   rdfs:label "oksidan" .
+
+halali:Onion a foodlirmm:Ingredient;
+   rdfs:label "onion" .
+
+halali:Padatan_Kasein_Susu a foodlirmm:Ingredient;
+   rdfs:label "padatan kasein susu" .
+
+halali:Padatan_Keju a foodlirmm:Ingredient;
+   rdfs:label "padatan keju" .
+
+halali:Padatan_Susu a foodlirmm:Ingredient;
+   rdfs:label "padatan susu" .
+
+halali:Palm a foodlirmm:Ingredient;
+   rdfs:label "palm" .
+
+halali:Pangatur_Keasaman a foodlirmm:Ingredient;
+   rdfs:label "pangatur keasaman" .
+
+halali:Pantotenat a foodlirmm:Ingredient;
+   rdfs:label "pantotenat" .
+
+halali:Paprika a foodlirmm:Ingredient;
+   rdfs:label "paprika" .
+
+halali:Parsley a foodlirmm:Ingredient;
+   rdfs:label "parsley" .
+
+halali:Pasta_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "pasta cokelat" .
+
+halali:Pasta_Kacang_Hazel a foodlirmm:Ingredient;
+   rdfs:label "pasta kacang hazel" .
+
+halali:Pasta_Kedelai_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "pasta kedelai bubuk" .
+
+halali:Pasta_Kedelai_Hitam a foodlirmm:Ingredient;
+   rdfs:label "pasta kedelai hitam" .
+
+halali:Pasta_Keju a foodlirmm:Ingredient;
+   rdfs:label "pasta keju" .
+
+halali:Pasta_Tomat a foodlirmm:Ingredient;
+   rdfs:label "pasta tomat" .
+
+halali:Pati a foodlirmm:Ingredient;
+   rdfs:label "pati" .
+
+halali:Pati_Jagung a foodlirmm:Ingredient;
+   rdfs:label "pati jagung" .
+
+halali:Pati_Jagung_Terhidrolisa a foodlirmm:Ingredient;
+   rdfs:label "pati jagung terhidrolisa" .
+
+halali:Pati_Kentang a foodlirmm:Ingredient;
+   rdfs:label "pati kentang" .
+
+halali:Pati_Kentang_Termodifikasi a foodlirmm:Ingredient;
+   rdfs:label "pati kentang termodifikasi" .
+
+halali:Pati_Modifikasi a foodlirmm:Ingredient;
+   rdfs:label "pati modifikasi" .
+
+halali:Pati_Nabati a foodlirmm:Ingredient;
+   rdfs:label "pati nabati" .
+
+halali:Pati_Tapioka a foodlirmm:Ingredient;
+   rdfs:label "pati tapioka" .
+
+halali:Pati_Tapioka_Termodifikasi a foodlirmm:Ingredient;
+   rdfs:label "pati tapioka termodifikasi" .
+
+halali:Pati_Termodifikasi a foodlirmm:Ingredient;
+   rdfs:label "pati termodifikasi" .
+
+halali:Pati_Termodifikasi_Penstabil a foodlirmm:Ingredient;
+   rdfs:label "pati termodifikasi penstabil" .
+
+halali:Pecahan_Jagung a foodlirmm:Ingredient;
+   rdfs:label "pecahan jagung" .
+
+halali:Pektin a foodlirmm:Ingredient;
+   rdfs:label "pektin" .
+
+halali:Pelapis a foodlirmm:Ingredient;
+   rdfs:label "pelapis" .
+
+halali:Pemanis_Alami a foodlirmm:Ingredient;
+   rdfs:label "pemanis alami" .
+
+halali:Pemanis_Alami_Glikosida_Steviol a foodlirmm:Ingredient;
+   rdfs:label "pemanis alami glikosida steviol" .
+
+halali:Pemanis_Alami_Sorbitol a foodlirmm:Ingredient;
+   rdfs:label "pemanis alami sorbitol" .
+
+halali:Pemanis_Alami_Sorbitol_Pewarna_Makanan_Sintetik_Kuning a foodlirmm:Ingredient;
+   rdfs:label "pemanis alami sorbitol pewarna makanan sintetik kuning" .
+
+halali:Pemanis_Alami_Steviol_Glikosida a foodlirmm:Ingredient;
+   rdfs:label "pemanis alami steviol glikosida" .
+
+halali:Pemanis_Buatan a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan" .
+
+halali:Pemanis_Buatan_Asessulfam_K a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan asessulfam-k" .
+
+halali:Pemanis_Buatan_Asesulfame a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan asesulfame" .
+
+halali:Pemanis_Buatan_Asesulfame_K a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan asesulfame-k" .
+
+halali:Pemanis_Buatan_Aspartam a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan aspartam" .
+
+halali:Pemanis_Buatan_Assusulfam_K a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan assusulfam-k" .
+
+halali:Pemanis_Buatan_Ins a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan ins" .
+
+halali:Pemanis_Buatan_Natrium_Siklamat_Minuman_Siap_Saji a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan natrium siklamat minuman siap saji" .
+
+halali:Pemanis_Buatan_Sukralosa a foodlirmm:Ingredient;
+   rdfs:label "pemanis buatan sukralosa" .
+
+halali:Pemanis_Sukralosa a foodlirmm:Ingredient;
+   rdfs:label "pemanis sukralosa" .
+
+halali:Pemantap a foodlirmm:Ingredient;
+   rdfs:label "pemantap" .
+
+halali:Pemantap_Gum_Guar a foodlirmm:Ingredient;
+   rdfs:label "pemantap gum guar" .
+
+halali:Pemantap_Nabati a foodlirmm:Ingredient;
+   rdfs:label "pemantap nabati" .
+
+halali:Pemantap_Nabati_Mineral a foodlirmm:Ingredient;
+   rdfs:label "pemantap nabati  mineral" .
+
+halali:Pemarna_Makanan_Sodium_Benzoat a foodlirmm:Ingredient;
+   rdfs:label "pemarna makanan sodium benzoat" .
+
+halali:Pencita_Rasa_Apel a foodlirmm:Ingredient;
+   rdfs:label "pencita rasa apel" .
+
+halali:Pencita_Rasa_Bawang_Putih a foodlirmm:Ingredient;
+   rdfs:label "pencita rasa bawang putih" .
+
+halali:Pengaturan_Keasaman_Asam_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "pengaturan keasaman asam sitrat" .
+
+halali:Pengatur_Asam_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "pengatur asam sitrat" .
+
+halali:Pengatur_Kalium_Sorbat a foodlirmm:Ingredient;
+   rdfs:label "pengatur kalium sorbat" .
+
+halali:Pengatur_Keasaman a foodlirmm:Ingredient;
+   rdfs:label "pengatur keasaman" .
+
+halali:Pengatur_Keasaman_Minyak a foodlirmm:Ingredient;
+   rdfs:label "pengatur keasaman minyak" .
+
+halali:Pengatur_Keassaman a foodlirmm:Ingredient;
+   rdfs:label "pengatur keassaman" .
+
+halali:Pengawet a foodlirmm:Ingredient;
+   rdfs:label "pengawet" .
+
+halali:Pengawet_Kalium_Sorbat a foodlirmm:Ingredient;
+   rdfs:label "pengawet kalium sorbat" .
+
+halali:Pengawet_Kalsium_Propionat a foodlirmm:Ingredient;
+   rdfs:label "pengawet kalsium propionat" .
+
+halali:Pengawet_Natrium_Benzoat a foodlirmm:Ingredient;
+   rdfs:label "pengawet natrium benzoat" .
+
+halali:Pengawet_Natrium_Nitrit a foodlirmm:Ingredient;
+   rdfs:label "pengawet natrium nitrit" .
+
+halali:Pengawet_Sulfit a foodlirmm:Ingredient;
+   rdfs:label "pengawet sulfit" .
+
+halali:Pengawet_Sulfit_Garam a foodlirmm:Ingredient;
+   rdfs:label "pengawet sulfit garam" .
+
+halali:Pengembang a foodlirmm:Ingredient;
+   rdfs:label "pengembang" .
+
+halali:Pengembang_Amonium_Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "pengembang amonium bikarbonat" .
+
+halali:Pengembang_Kalsium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "pengembang kalsium karbonat" .
+
+halali:Pengembang_Natrium_Bikarbonat a foodlirmm:Ingredient;
+   rdfs:label "pengembang natrium bikarbonat" .
+
+halali:Pengembang_Natrium_Bikarbonat_Perisa_Artifisial_Vanili a foodlirmm:Ingredient;
+   rdfs:label "pengembang natrium bikarbonat perisa artifisial vanili" .
+
+halali:Pengembang_Natrium_Hidrogen_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "pengembang natrium hidrogen karbonat" .
+
+halali:Pengembang_Natrium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "pengembang natrium karbonat" .
+
+halali:Pengemulsi a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi" .
+
+halali:Pengemulsi_Kalsium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi kalsium karbonat" .
+
+halali:Pengemulsi_Lesitin a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi lesitin" .
+
+halali:Pengemulsi_Lesitin_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi lesitin kedelai" .
+
+halali:Pengemulsi_Lesitin_Kedelai_Monosodium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi lesitin kedelai monosodium glutamat" .
+
+halali:Pengemulsi_Lesitin_Kedelai_Perisa a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi lesitin kedelai perisa" .
+
+halali:Pengemulsi_Lesitin_Nabati a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi lesitin nabati" .
+
+halali:Pengemulsi_Nabati a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi nabati" .
+
+halali:Pengemulsi_Nabati_Ester_Sukrosa_Asam_Lemak a foodlirmm:Ingredient;
+   rdfs:label "pengemulsi nabati ester sukrosa asam lemak" .
+
+halali:Pengental a foodlirmm:Ingredient;
+   rdfs:label "pengental" .
+
+halali:Pengental_Gum_Arab a foodlirmm:Ingredient;
+   rdfs:label "pengental gum arab" .
+
+halali:Pengental_Gum_Selulosa a foodlirmm:Ingredient;
+   rdfs:label "pengental gum selulosa" .
+
+halali:Pengental_Nabati a foodlirmm:Ingredient;
+   rdfs:label "pengental nabati" .
+
+halali:Pengental_Pati a foodlirmm:Ingredient;
+   rdfs:label "pengental pati" .
+
+halali:Pengental_Pati_Modifikasi_Asam a foodlirmm:Ingredient;
+   rdfs:label "pengental pati modifikasi asam" .
+
+halali:Pengental_Pektin a foodlirmm:Ingredient;
+   rdfs:label "pengental pektin" .
+
+halali:Pengmulsi_Lesitin_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "pengmulsi lesitin kedelai" .
+
+halali:Penguat_Rasa a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa" .
+
+halali:Penguat_Rasadinatrium_Guanilat a foodlirmm:Ingredient;
+   rdfs:label "penguat rasadinatrium guanilat" .
+
+halali:Penguat_Rasa_Dinatrium_Inosinat a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa dinatrium inosinat" .
+
+halali:Penguat_Rasa_Dinatrium_Ribonukleotida a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa dinatrium 'ribonukleotida" .
+
+halali:Penguat_Rasa a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa" .
+
+halali:Penguat_Rasa_Mononatrium a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa mononatrium" .
+
+halali:Penguat_Rasa_Mononatrium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa mononatrium glutamat" .
+
+halali:Penguat_Rasa_Mononatrium_Glutamat_E a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa mononatrium glutamat e" .
+
+halali:Penguat_Rasa_Mononatrium_L_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa mononatrium l-glutamat" .
+
+halali:Penguat_Rasa_Msg a foodlirmm:Ingredient;
+   rdfs:label "penguat rasa msg" .
+
+halali:Penstabil a foodlirmm:Ingredient;
+   rdfs:label "penstabil" .
+
+halali:Penstabil_Dikalium_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "penstabil dikalium fosfat" .
+
+halali:Penstabil_Dinatrium_Difosfat a foodlirmm:Ingredient;
+   rdfs:label "penstabil dinatrium difosfat" .
+
+halali:Penstabil_Dipati_Fosfat_Terasetilasi a foodlirmm:Ingredient;
+   rdfs:label "penstabil dipati fosfat terasetilasi" .
+
+halali:Penstabil_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "penstabil fosfat" .
+
+halali:Penstabil_Gliserin a foodlirmm:Ingredient;
+   rdfs:label "penstabil gliserin" .
+
+halali:Penstabil_Gom_Guar a foodlirmm:Ingredient;
+   rdfs:label "penstabil gom guar" .
+
+halali:Penstabil_Gom_Kacang_Lokus a foodlirmm:Ingredient;
+   rdfs:label "penstabil gom kacang lokus" .
+
+halali:Penstabil_Kalsium_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "penstabil kalsium karbonat" .
+
+halali:Penstabil_Kalsium_Laktat a foodlirmm:Ingredient;
+   rdfs:label "penstabil kalsium laktat" .
+
+halali:Penstabil_Nabati a foodlirmm:Ingredient;
+   rdfs:label "penstabil nabati" .
+
+halali:Penstabil_Nabati_Natrium_Hidrogen_Karbonat a foodlirmm:Ingredient;
+   rdfs:label "penstabil nabati natrium hidrogen karbonat" .
+
+halali:Penstabil_Natrium_Tripolifosfat a foodlirmm:Ingredient;
+   rdfs:label "penstabil natrium tripolifosfat" .
+
+halali:Penstabil_Pektin a foodlirmm:Ingredient;
+   rdfs:label "penstabil pektin" .
+
+halali:Penyedap a foodlirmm:Ingredient;
+   rdfs:label "penyedap" .
+
+halali:Penyedap_Rasa a foodlirmm:Ingredient;
+   rdfs:label "penyedap rasa" .
+
+halali:Penyedap_Rasa_Ikan a foodlirmm:Ingredient;
+   rdfs:label "penyedap rasa ikan" .
+
+halali:Penyedap_Rasa_Monosodium_Glutamat a foodlirmm:Ingredient;
+   rdfs:label "penyedap rasa monosodium glutamat" .
+
+halali:Pepper_Powder a foodlirmm:Ingredient;
+   rdfs:label "pepper powder" .
+
+halali:Perasa_Mocca a foodlirmm:Ingredient;
+   rdfs:label "perasa mocca" .
+
+halali:Perisa a foodlirmm:Ingredient;
+   rdfs:label "perisa" .
+
+halali:Perisai_Sintetik a foodlirmm:Ingredient;
+   rdfs:label "perisai sintetik" .
+
+halali:Perisa_Air_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "perisa air kelapa" .
+
+halali:Perisa_Alami a foodlirmm:Ingredient;
+   rdfs:label "perisa alami" .
+
+halali:Perisa_Alami_Jamur a foodlirmm:Ingredient;
+   rdfs:label "perisa alami jamur" .
+
+halali:Perisa_Alami_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "perisa alami jeruk" .
+
+halali:Perisa_Alami_Kakao_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "perisa alami kakao bubuk" .
+
+halali:Perisa_Alami_Keju a foodlirmm:Ingredient;
+   rdfs:label "perisa alami keju" .
+
+halali:Perisa_Alami_Leci a foodlirmm:Ingredient;
+   rdfs:label "perisa alami leci" .
+
+halali:Perisa_Alami_Lemon a foodlirmm:Ingredient;
+   rdfs:label "perisa alami lemon" .
+
+halali:Perisa_Alami_Limau a foodlirmm:Ingredient;
+   rdfs:label "perisa alami limau" .
+
+halali:Perisa_Alami_Mangga a foodlirmm:Ingredient;
+   rdfs:label "perisa alami mangga" .
+
+halali:Perisa_Alami_Persik a foodlirmm:Ingredient;
+   rdfs:label "perisa alami persik" .
+
+halali:Perisa_Alami_Riboflavin a foodlirmm:Ingredient;
+   rdfs:label "perisa alami riboflavin" .
+
+halali:Perisa_Alami_Sirsak a foodlirmm:Ingredient;
+   rdfs:label "perisa alami sirsak" .
+
+halali:Perisa_Alami_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa alami susu" .
+
+halali:Perisa_Alami_Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "perisa alami teh hijau" .
+
+halali:Perisa_Alami_Vanili a foodlirmm:Ingredient;
+   rdfs:label "perisa alami vanili" .
+
+halali:Perisa_Anggur a foodlirmm:Ingredient;
+   rdfs:label "perisa anggur" .
+
+halali:Perisa_Apel a foodlirmm:Ingredient;
+   rdfs:label "perisa apel" .
+
+halali:Perisa_Artifisial a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial" .
+
+halali:Perisa_Artifisial_Almon a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial almon" .
+
+halali:Perisa_Artifisial_Ayam a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial ayam" .
+
+halali:Perisa_Artifisial_Cassava_Bbq a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial cassava bbq" .
+
+halali:Perisa_Artifisial_Cocopan a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial cocopan" .
+
+halali:Perisa_Artifisial_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial cokelat" .
+
+halali:Perisa_Artifisial_Jagung_Bakar a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial jagung bakar" .
+
+halali:Perisa_Artifisial_Kacang_Hijau a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial kacang hijau" .
+
+halali:Perisa_Artifisial_Karamel a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial karamel" .
+
+halali:Perisa_Artifisial_Kelapa_Muda a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial kelapa muda" .
+
+halali:Perisa_Artifisial_Mentega a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial mentega" .
+
+halali:Perisa_Artifisial_Rempah_Rempah_Rempah a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial rempah - rempah rempah" .
+
+halali:Perisa_Artifisial_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial stroberi" .
+
+halali:Perisa_Artifisial_Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial teh hijau" .
+
+halali:Perisa_Artifisial_Vanili a foodlirmm:Ingredient;
+   rdfs:label "perisa artifisial vanili" .
+
+halali:Perisa_Ayam a foodlirmm:Ingredient;
+   rdfs:label "perisa ayam" .
+
+halali:Perisa_Bawang_Bombay a foodlirmm:Ingredient;
+   rdfs:label "perisa bawang bombay" .
+
+halali:Perisa_Bawang_Putih a foodlirmm:Ingredient;
+   rdfs:label "perisa bawang putih" .
+
+halali:Perisa_Bbq a foodlirmm:Ingredient;
+   rdfs:label "perisa bbq" .
+
+halali:Perisa_Blueberry a foodlirmm:Ingredient;
+   rdfs:label "perisa blueberry" .
+
+halali:Perisa_Cocopan a foodlirmm:Ingredient;
+   rdfs:label "perisa cocopan" .
+
+halali:Perisa_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "perisa cokelat" .
+
+halali:Perisa_Daging_Sapi a foodlirmm:Ingredient;
+   rdfs:label "perisa daging sapi" .
+
+halali:Perisa_Gluten a foodlirmm:Ingredient;
+   rdfs:label "perisa gluten" .
+
+halali:Perisa_Hazelnut a foodlirmm:Ingredient;
+   rdfs:label "perisa hazelnut" .
+
+halali:Perisa_Identik_Alam a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alam" .
+
+halali:Perisa_Identik_Alami a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami" .
+
+halali:Perisa_Identik_Alami_Almond_Antioksidan_Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami almond antioksidan tokoferol" .
+
+halali:Perisa_Identik_Alami_Apel a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami apel" .
+
+halali:Perisa_Identik_Alami_Ayam a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami ayam" .
+
+halali:Perisa_Identik_Alami_Cokelat_Italia a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami cokelat italia" .
+
+halali:Perisa_Identik_Alami_Grape_Fruit a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami grape fruit" .
+
+halali:Perisa_Identik_Alami_Keju a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami keju" .
+
+halali:Perisa_Identik_Alami_Leci a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami leci" .
+
+halali:Perisa_Identik_Alami_Madu a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami madu" .
+
+halali:Perisa_Identik_Alami_Melati a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami melati" .
+
+halali:Perisa_Identik_Alami_Melon a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami melon" .
+
+halali:Perisa_Identik_Alami_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami rumput laut" .
+
+halali:Perisa_Identik_Alami_Sapi_Panggang a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami sapi panggang" .
+
+halali:Perisa_Identik_Alami_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami stroberi" .
+
+halali:Perisa_Identik_Alami_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami susu" .
+
+halali:Perisa_Identik_Alami_Teh a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami teh" .
+
+halali:Perisa_Identik_Alami_Teh_Melati a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami teh melati" .
+
+halali:Perisa_Identik_Alami_Vanili a foodlirmm:Ingredient;
+   rdfs:label "perisa identik alami vanili" .
+
+halali:Perisa_Jagung a foodlirmm:Ingredient;
+   rdfs:label "perisa jagung" .
+
+halali:Perisa_Jambu a foodlirmm:Ingredient;
+   rdfs:label "perisa jambu" .
+
+halali:Perisa_Jamur a foodlirmm:Ingredient;
+   rdfs:label "perisa jamur" .
+
+halali:Perisa_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "perisa jeruk" .
+
+halali:Perisa_Keju_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "perisa keju bubuk" .
+
+halali:Perisa_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "perisa kelapa" .
+
+halali:Perisa_Kentang a foodlirmm:Ingredient;
+   rdfs:label "perisa kentang" .
+
+halali:Perisa_Leci a foodlirmm:Ingredient;
+   rdfs:label "perisa leci" .
+
+halali:Perisa_Lemon a foodlirmm:Ingredient;
+   rdfs:label "perisa lemon" .
+
+halali:Perisa_Makanan_Artifisial a foodlirmm:Ingredient;
+   rdfs:label "perisa makanan artifisial" .
+
+halali:Perisa_Mangga a foodlirmm:Ingredient;
+   rdfs:label "perisa mangga" .
+
+halali:Perisa_Melati a foodlirmm:Ingredient;
+   rdfs:label "perisa melati" .
+
+halali:Perisa_Melon a foodlirmm:Ingredient;
+   rdfs:label "perisa melon" .
+
+halali:Perisa_Moka a foodlirmm:Ingredient;
+   rdfs:label "perisa moka" .
+
+halali:Perisa_Nanas a foodlirmm:Ingredient;
+   rdfs:label "perisa nanas" .
+
+halali:Perisa_Sapi a foodlirmm:Ingredient;
+   rdfs:label "perisa sapi" .
+
+halali:Perisa_Sapi_Panggang a foodlirmm:Ingredient;
+   rdfs:label "perisa sapi panggang" .
+
+halali:Perisa_Sari_Buah_Apel a foodlirmm:Ingredient;
+   rdfs:label "perisa sari buah apel" .
+
+halali:Perisa_Seafood a foodlirmm:Ingredient;
+   rdfs:label "perisa seafood" .
+
+halali:Perisa_Siantetik_Keju a foodlirmm:Ingredient;
+   rdfs:label "perisa siantetik keju" .
+
+halali:Perisa_Sintentik_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa sintentik susu" .
+
+halali:Perisa_Sintetik a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik" .
+
+halali:Perisa_Sintetik_Ayam a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik ayam" .
+
+halali:Perisa_Sintetik_Bluberi a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik bluberi" .
+
+halali:Perisa_Sintetik_Blueberry a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik blueberry" .
+
+halali:Perisa_Sintetik_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik cokelat" .
+
+halali:Perisa_Sintetik_Cokelat_Hitam a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik cokelat hitam" .
+
+halali:Perisa_Sintetik_Jagung a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik jagung" .
+
+halali:Perisa_Sintetik_Jambu a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik jambu" .
+
+halali:Perisa_Sintetik_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik jeruk" .
+
+halali:Perisa_Sintetik_Karamel a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik karamel" .
+
+halali:Perisa_Sintetik_Kopi a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik kopi" .
+
+halali:Perisa_Sintetik_Krim_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik krim susu" .
+
+halali:Perisa_Sintetik_Kubis a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik kubis" .
+
+halali:Perisa_Sintetik_Lemon a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik lemon" .
+
+halali:Perisa_Sintetik_Mangga a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik mangga" .
+
+halali:Perisa_Sintetik_Mentega_Susu_Pengemulsi_Nabati a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik mentega susu pengemulsi nabati" .
+
+halali:Perisa_Sintetik_Nanas a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik nanas" .
+
+halali:Perisa_Sintetik_Pasta_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik pasta cokelat" .
+
+halali:Perisa_Sintetik_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik rumput laut" .
+
+halali:Perisa_Sintetik_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik stroberi" .
+
+halali:Perisa_Sintetik_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik susu" .
+
+halali:Perisa_Sintetik_Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik teh hijau" .
+
+halali:Perisa_Sintetik_Tomat a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik tomat" .
+
+halali:Perisa_Sintetik_Tutti_Frutti a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik tutti frutti" .
+
+halali:Perisa_Sintetik_Vanili a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetik vanili" .
+
+halali:Perisa_Sintetil_Cappucino a foodlirmm:Ingredient;
+   rdfs:label "perisa sintetil cappucino" .
+
+halali:Perisa_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "perisa stroberi" .
+
+halali:Perisa_Susu a foodlirmm:Ingredient;
+   rdfs:label "perisa susu" .
+
+halali:Perisa_Vanili a foodlirmm:Ingredient;
+   rdfs:label "perisa vanili" .
+
+halali:Perlakuan_Tepung a foodlirmm:Ingredient;
+   rdfs:label "perlakuan tepung" .
+
+halali:Pewarna a foodlirmm:Ingredient;
+   rdfs:label "pewarna" .
+
+halali:Pewarna_Alaanato_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna alaanato ci" .
+
+halali:Pewarna_Alami a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami" .
+
+halali:Pewarna_Alami_Anato a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami anato" .
+
+halali:Pewarna_Alami_Anato_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami anato ci" .
+
+halali:Pewarna_Alami_Beta_Karoten a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami beta karoten" .
+
+halali:Pewarna_Alami_Ea a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami ea" .
+
+halali:Pewarna_Alami_Karamel a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel" .
+
+halali:Pewarna_Alami_Karamel_E_C a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel e c" .
+
+halali:Pewarna_Alami_Karamel_I a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel i" .
+
+halali:Pewarna_Alami_Karamel_Iii_Amonia_Proses a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel iii amonia proses" .
+
+halali:Pewarna_Alami_Karamel_I_Plain a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel i plain" .
+
+halali:Pewarna_Alami_Karamel_Kelas_Iv a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karamel kelas iv" .
+
+halali:Pewarna_Alami_Karmin a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karmin" .
+
+halali:Pewarna_Alami_Karmin_Clno a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karmin clno" .
+
+halali:Pewarna_Alami_Karoten_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami karoten ci" .
+
+halali:Pewarna_Alami_Klorofilin_Tembaga_Kompleks_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami klorofilin tembaga kompleks ci" .
+
+halali:Pewarna_Alami_Kurkumin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami kurkumin ci" .
+
+halali:Pewarna_Alami_Merah_Bit a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami merah bit" .
+
+halali:Pewarna_Alami_Riboflavin a foodlirmm:Ingredient;
+   rdfs:label "pewarna alami riboflavin" .
+
+halali:Pewarna_Anato_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna anato ci" .
+
+halali:Pewarna_Annatto a foodlirmm:Ingredient;
+   rdfs:label "pewarna annatto" .
+
+halali:Pewarna_Beta_Karoten a foodlirmm:Ingredient;
+   rdfs:label "pewarna beta karoten" .
+
+halali:Pewarna_Beta_Karoten_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna beta karoten ci" .
+
+halali:Pewarna_Beta_Karoten_Ci_Anato_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna beta karoten ci  anato ci" .
+
+halali:Pewarna_Beta_Karoten_Ci_Beta_Karoten a foodlirmm:Ingredient;
+   rdfs:label "pewarna beta karoten ci beta-karoten" .
+
+halali:Pewarna_Biru_Berlian_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna biru berlian ci" .
+
+halali:Pewarna_Caramel a foodlirmm:Ingredient;
+   rdfs:label "pewarna caramel" .
+
+halali:Pewarna_Cokelat a foodlirmm:Ingredient;
+   rdfs:label "pewarna cokelat" .
+
+halali:Pewarna_Eritrosin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna eritrosin ci" .
+
+halali:Pewarna_Karamel a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel" .
+
+halali:Pewarna_Karamel_E a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel e" .
+
+halali:Pewarna_Karamel_E_D a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel e d" .
+
+halali:Pewarna_Karamel_Iii_Amonia_Proses a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel iii amonia proses" .
+
+halali:Pewarna_Karamel_Kelas_Ie_A a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel kelas ie a" .
+
+halali:Pewarna_Karamel_Kelas_Iv a foodlirmm:Ingredient;
+   rdfs:label "pewarna karamel kelas iv" .
+
+halali:Pewarna_Karmoisin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna karmoisin ci" .
+
+halali:Pewarna_Karmoisin_Cl a foodlirmm:Ingredient;
+   rdfs:label "pewarna karmoisin cl" .
+
+halali:Pewarna_Kelas_Iv a foodlirmm:Ingredient;
+   rdfs:label "pewarna kelas iv" .
+
+halali:Pewarna_Kuning_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna kuning fcf ci" .
+
+halali:Pewarna_Makanan a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan" .
+
+halali:Pewarna_Makanan_Alami_Beta_Karoten_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan alami beta karoten ci" .
+
+halali:Pewarna_Makanan_Alami_Karamel a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan alami karamel" .
+
+halali:Pewarna_Makanan_Anato_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan anato ci" .
+
+halali:Pewarna_Makanan_Cokelat_Ht_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan cokelat ht ci" .
+
+halali:Pewarna_Makanan_Eritrosin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan eritrosin ci" .
+
+halali:Pewarna_Makanan_Karamel a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan karamel" .
+
+halali:Pewarna_Makanan_Karmoisin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan karmoisin ci" .
+
+halali:Pewarna_Makanan_Kuning_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan kuning fcf ci" .
+
+halali:Pewarna_Makanan_Ponceau_R_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan ponceau r ci" .
+
+halali:Pewarna_Makanan_Sintetik_Juning_Fcf_Ci_Bha_Pati_Jagung a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan sintetik juning fcf ci bha pati jagung" .
+
+halali:Pewarna_Makanan_Sintetik_Merah_Allura_C a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan sintetik merah allura c" .
+
+halali:Pewarna_Makanan_Sodium_Benzoat a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan sodium benzoat" .
+
+halali:Pewarna_Makanan_Sunset_Yellow_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan sunset yellow ci" .
+
+halali:Pewarna_Makanan_Tartrazine_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan tartrazine ci" .
+
+halali:Pewarna_Makanan_Tartrazin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makanan tartrazin ci" .
+
+halali:Pewarna_Makana_Kuning_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna makana kuning fcf ci" .
+
+halali:Pewarna_Merah_Allura_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna merah allura ci" .
+
+halali:Pewarna_Natural a foodlirmm:Ingredient;
+   rdfs:label "pewarna natural" .
+
+halali:Pewarna_Penguat_Rasa_Ribotida a foodlirmm:Ingredient;
+   rdfs:label "pewarna penguat rasa ribotida" .
+
+halali:Pewarna_Ribofalvin a foodlirmm:Ingredient;
+   rdfs:label "pewarna ribofalvin" .
+
+halali:Pewarna_Riboflavin a foodlirmm:Ingredient;
+   rdfs:label "pewarna riboflavin" .
+
+halali:Pewarna_Sintetik a foodlirmm:Ingredient;
+   rdfs:label "pewarna sintetik" .
+
+halali:Pewarna_Sintetik_Eritrosin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna sintetik eritrosin ci" .
+
+halali:Pewarna_Tartrazin a foodlirmm:Ingredient;
+   rdfs:label "pewarna tartrazin" .
+
+halali:Pewarna_Tartrazin_Ci a foodlirmm:Ingredient;
+   rdfs:label "pewarna tartrazin ci" .
+
+halali:Pewarta a foodlirmm:Ingredient;
+   rdfs:label "pewarta" .
+
+halali:Pgpr a foodlirmm:Ingredient;
+   rdfs:label "pgpr" .
+
+halali:Pir a foodlirmm:Ingredient;
+   rdfs:label "pir" .
+
+halali:Pisang a foodlirmm:Ingredient;
+   rdfs:label "pisang" .
+
+halali:Poceau_R_Ci a foodlirmm:Ingredient;
+   rdfs:label "poceau r ci" .
+
+halali:Polifosfat a foodlirmm:Ingredient;
+   rdfs:label "polifosfat" .
+
+halali:Polong_Vanili_Bourbon a foodlirmm:Ingredient;
+   rdfs:label "polong vanili bourbon" .
+
+halali:Ponceau_Rc_Ci_Kuning_Fcf_Ci a foodlirmm:Ingredient;
+   rdfs:label "ponceau rc ci- kuning fcf ci" .
+
+halali:Ponceau_R_Ci a foodlirmm:Ingredient;
+   rdfs:label "ponceau r ci" .
+
+halali:Postbiotics_Lactobacillus a foodlirmm:Ingredient;
+   rdfs:label "postbiotics lactobacillus" .
+
+halali:Postbiotics_Lactobacillus_L_Acidophilus a foodlirmm:Ingredient;
+   rdfs:label "postbiotics lactobacillus: l acidophilus" .
+
+halali:Potassium a foodlirmm:Ingredient;
+   rdfs:label "potassium" .
+
+halali:Potassium_Sorbate a foodlirmm:Ingredient;
+   rdfs:label "potassium sorbate" .
+
+halali:Prebiotik_Laktulosa a foodlirmm:Ingredient;
+   rdfs:label "prebiotik laktulosa" .
+
+halali:Premiks_Mineral a foodlirmm:Ingredient;
+   rdfs:label "premiks mineral" .
+
+halali:Premiks_Vitamin a foodlirmm:Ingredient;
+   rdfs:label "premiks vitamin" .
+
+halali:Preservatives a foodlirmm:Ingredient;
+   rdfs:label "preservatives" .
+
+halali:Procoaeu_R_Ci a foodlirmm:Ingredient;
+   rdfs:label "procoaeu r ci" .
+
+halali:Protein a foodlirmm:Ingredient;
+   rdfs:label "protein" .
+
+halali:Protein_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "protein kedelai" .
+
+halali:Protein_Nabati a foodlirmm:Ingredient;
+   rdfs:label "protein nabati" .
+
+halali:Protein_Nabati_Terhidrolisis a foodlirmm:Ingredient;
+   rdfs:label "protein nabati terhidrolisis" .
+
+halali:Protein_Susu a foodlirmm:Ingredient;
+   rdfs:label "protein susu" .
+
+halali:Protein_Susu_Terhidrolisa a foodlirmm:Ingredient;
+   rdfs:label "protein susu terhidrolisa" .
+
+halali:Protein_Whey a foodlirmm:Ingredient;
+   rdfs:label "protein whey" .
+
+halali:Provitamin_B a foodlirmm:Ingredient;
+   rdfs:label "provitamin b" .
+
+halali:Provitamin_B_Mg a foodlirmm:Ingredient;
+   rdfs:label "provitamin b mg" .
+
+halali:Puree_Apel a foodlirmm:Ingredient;
+   rdfs:label "puree apel" .
+
+halali:Puree_Jambu a foodlirmm:Ingredient;
+   rdfs:label "puree jambu" .
+
+halali:Puree_Mangga a foodlirmm:Ingredient;
+   rdfs:label "puree mangga" .
+
+halali:Puree_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "puree stroberi" .
+
+halali:Pure_Sirsak a foodlirmm:Ingredient;
+   rdfs:label "pure sirsak" .
+
+halali:Pyrodoxine a foodlirmm:Ingredient;
+   rdfs:label "pyrodoxine" .
+
+halali:Quinoa a foodlirmm:Ingredient;
+   rdfs:label "quinoa" .
+
+halali:Ragi a foodlirmm:Ingredient;
+   rdfs:label "ragi" .
+
+halali:Raising_Agents a foodlirmm:Ingredient;
+   rdfs:label "raising agents" .
+
+halali:Ramuan_Soto a foodlirmm:Ingredient;
+   rdfs:label "ramuan soto" .
+
+halali:Raspberry a foodlirmm:Ingredient;
+   rdfs:label "raspberry" .
+
+halali:Raspberry_Kering a foodlirmm:Ingredient;
+   rdfs:label "raspberry kering" .
+
+halali:Red_Current_Kering a foodlirmm:Ingredient;
+   rdfs:label "red current kering" .
+
+halali:Refined_Palm_Oil a foodlirmm:Ingredient;
+   rdfs:label "refined palm oil" .
+
+halali:Rempah_Rempah a foodlirmm:Ingredient;
+   rdfs:label "rempah-rempah" .
+
+halali:Rempah_Rempah_Alami a foodlirmm:Ingredient;
+   rdfs:label "rempah-rempah alami" .
+
+halali:Rempah_Rempah_Rempah a foodlirmm:Ingredient;
+   rdfs:label "rempah rempah rempah" .
+
+halali:Ribonukleotida a foodlirmm:Ingredient;
+   rdfs:label "'-ribonukleotida" .
+
+halali:Rice_Crispy a foodlirmm:Ingredient;
+   rdfs:label "rice crispy" .
+
+halali:Rice_Flour a foodlirmm:Ingredient;
+   rdfs:label "rice flour" .
+
+halali:Rolled_Oats a foodlirmm:Ingredient;
+   rdfs:label "rolled oats" .
+
+halali:Rosella a foodlirmm:Ingredient;
+   rdfs:label "rosella" .
+
+halali:Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "rumput laut" .
+
+halali:Rumput_Laut_Kering a foodlirmm:Ingredient;
+   rdfs:label "rumput laut kering" .
+
+halali:Sambal_Balado a foodlirmm:Ingredient;
+   rdfs:label "sambal balado" .
+
+halali:Santan a foodlirmm:Ingredient;
+   rdfs:label "santan" .
+
+halali:Santan_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "santan kelapa" .
+
+halali:Saos_Sambal a foodlirmm:Ingredient;
+   rdfs:label "saos sambal" .
+
+halali:Saos_Tomat a foodlirmm:Ingredient;
+   rdfs:label "saos tomat" .
+
+halali:Sardens a foodlirmm:Ingredient;
+   rdfs:label "sardens" .
+
+halali:Sari_Buah a foodlirmm:Ingredient;
+   rdfs:label "sari buah" .
+
+halali:Sari_Buah_Apel a foodlirmm:Ingredient;
+   rdfs:label "sari buah apel" .
+
+halali:Sari_Buah_Jambu a foodlirmm:Ingredient;
+   rdfs:label "sari buah jambu" .
+
+halali:Sari_Buah_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "sari buah jeruk" .
+
+halali:Sari_Buah_Jeruk_Dengan_Bulir_Jeruk a foodlirmm:Ingredient;
+   rdfs:label "sari buah jeruk dengan bulir jeruk" .
+
+halali:Sari_Buah_Leci a foodlirmm:Ingredient;
+   rdfs:label "sari buah leci" .
+
+halali:Sari_Buah_Mangga a foodlirmm:Ingredient;
+   rdfs:label "sari buah mangga" .
+
+halali:Sari_Buah_Melon a foodlirmm:Ingredient;
+   rdfs:label "sari buah melon" .
+
+halali:Sari_Buah_Pir a foodlirmm:Ingredient;
+   rdfs:label "sari buah pir" .
+
+halali:Sari_Buah_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "sari buah stroberi" .
+
+halali:Sari_Jahe_Merah_Segar a foodlirmm:Ingredient;
+   rdfs:label "sari jahe merah segar" .
+
+halali:Sari_Jahe_Segar a foodlirmm:Ingredient;
+   rdfs:label "sari jahe segar" .
+
+halali:Sari_Kacang_Hijau a foodlirmm:Ingredient;
+   rdfs:label "sari kacang hijau" .
+
+halali:Sari_Malt a foodlirmm:Ingredient;
+   rdfs:label "sari malt" .
+
+halali:Sari_Pan a foodlirmm:Ingredient;
+   rdfs:label "sari pan" .
+
+halali:Saus_Berperisa_Sayuran a foodlirmm:Ingredient;
+   rdfs:label "saus berperisa sayuran" .
+
+halali:Saus_Cabai a foodlirmm:Ingredient;
+   rdfs:label "saus cabai" .
+
+halali:Saus_Kacang_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "saus kacang kedelai" .
+
+halali:Saus_Tomat a foodlirmm:Ingredient;
+   rdfs:label "saus tomat" .
+
+halali:Sawi a foodlirmm:Ingredient;
+   rdfs:label "sawi" .
+
+halali:Sayur a foodlirmm:Ingredient;
+   rdfs:label "sayur" .
+
+halali:Sekuestran a foodlirmm:Ingredient;
+   rdfs:label "sekuestran" .
+
+halali:Sekuestran_Natrium_Polifosfat a foodlirmm:Ingredient;
+   rdfs:label "sekuestran natrium polifosfat" .
+
+halali:Selai_Buah_Beri a foodlirmm:Ingredient;
+   rdfs:label "selai buah beri" .
+
+halali:Selai_Kacang a foodlirmm:Ingredient;
+   rdfs:label "selai kacang" .
+
+halali:Selai_Rasa_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "selai rasa stroberi" .
+
+halali:Seledri a foodlirmm:Ingredient;
+   rdfs:label "seledri" .
+
+halali:Serai a foodlirmm:Ingredient;
+   rdfs:label "serai" .
+
+halali:Serat a foodlirmm:Ingredient;
+   rdfs:label "serat" .
+
+halali:Serat_Inulin a foodlirmm:Ingredient;
+   rdfs:label "serat inulin" .
+
+halali:Serat_Pangan a foodlirmm:Ingredient;
+   rdfs:label "serat pangan" .
+
+halali:Serat_Pangan_Frukto_Oligasakarida a foodlirmm:Ingredient;
+   rdfs:label "serat pangan frukto oligasakarida" .
+
+halali:Serat_Pangan_Inulin a foodlirmm:Ingredient;
+   rdfs:label "serat pangan inulin" .
+
+halali:Serbuk_Gurih a foodlirmm:Ingredient;
+   rdfs:label "serbuk gurih" .
+
+halali:Sereal a foodlirmm:Ingredient;
+   rdfs:label "sereal" .
+
+halali:Serealia a foodlirmm:Ingredient;
+   rdfs:label "serealia" .
+
+halali:Sereal_Jagung a foodlirmm:Ingredient;
+   rdfs:label "sereal jagung" .
+
+halali:Serpihan_Daun_Peterseli a foodlirmm:Ingredient;
+   rdfs:label "serpihan daun peterseli" .
+
+halali:Serpihan_Gandum a foodlirmm:Ingredient;
+   rdfs:label "serpihan gandum" .
+
+halali:Serpihan_Kentang a foodlirmm:Ingredient;
+   rdfs:label "serpihan kentang" .
+
+halali:Serpihan_Oat a foodlirmm:Ingredient;
+   rdfs:label "serpihan oat" .
+
+halali:Serpihan_Rumput_Laut a foodlirmm:Ingredient;
+   rdfs:label "serpihan rumput laut" .
+
+halali:Singkong a foodlirmm:Ingredient;
+   rdfs:label "singkong" .
+
+halali:Sirup_Fruktosa a foodlirmm:Ingredient;
+   rdfs:label "sirup fruktosa" .
+
+halali:Sirup_Glukosa a foodlirmm:Ingredient;
+   rdfs:label "sirup glukosa" .
+
+halali:Sirup_Glukosa_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "sirup glukosa bubuk" .
+
+halali:Sirup_Gula_Invert a foodlirmm:Ingredient;
+   rdfs:label "sirup gula invert" .
+
+halali:Sirup_Isomalto_Oligosakarida a foodlirmm:Ingredient;
+   rdfs:label "sirup isomalto oligosakarida" .
+
+halali:Sirup_Jagung a foodlirmm:Ingredient;
+   rdfs:label "sirup jagung" .
+
+halali:Sirup_Jagung_Tinggi_Fruktosa a foodlirmm:Ingredient;
+   rdfs:label "sirup jagung tinggi fruktosa" .
+
+halali:Sirup_Jagung_Tinggi_Fruktosa_Pengemulsi_Nabati a foodlirmm:Ingredient;
+   rdfs:label "sirup jagung tinggi fruktosa pengemulsi nabati" .
+
+halali:Sirup_Karamel a foodlirmm:Ingredient;
+   rdfs:label "sirup karamel" .
+
+halali:Sirup_Malt a foodlirmm:Ingredient;
+   rdfs:label "sirup malt" .
+
+halali:Sirup_Maltosa a foodlirmm:Ingredient;
+   rdfs:label "sirup maltosa" .
+
+halali:Sirup_Singkong a foodlirmm:Ingredient;
+   rdfs:label "sirup singkong" .
+
+halali:Sitrat a foodlirmm:Ingredient;
+   rdfs:label "sitrat" .
+
+halali:Skimmed_Milk_Powder a foodlirmm:Ingredient;
+   rdfs:label "skimmed milk powder" .
+
+halali:Smoothie_Mangga a foodlirmm:Ingredient;
+   rdfs:label "smoothie mangga" .
+
+halali:Smoothie_Stroberi a foodlirmm:Ingredient;
+   rdfs:label "smoothie stroberi" .
+
+halali:Soda_Kue a foodlirmm:Ingredient;
+   rdfs:label "soda kue" .
+
+halali:Sodium a foodlirmm:Ingredient;
+   rdfs:label "sodium" .
+
+halali:Sodium_Benzoate a foodlirmm:Ingredient;
+   rdfs:label "sodium benzoate" .
+
+halali:Sodium_Bicarbonate a foodlirmm:Ingredient;
+   rdfs:label "sodium bicarbonate" .
+
+halali:Sodium_Caseinate a foodlirmm:Ingredient;
+   rdfs:label "sodium caseinate" .
+
+halali:Sodium_Citrate a foodlirmm:Ingredient;
+   rdfs:label "sodium citrate" .
+
+halali:Sodium_Heksamethaphosphate a foodlirmm:Ingredient;
+   rdfs:label "sodium heksamethaphosphate" .
+
+halali:Sodium_Hydrogen_Carbonate a foodlirmm:Ingredient;
+   rdfs:label "sodium hydrogen carbonate" .
+
+halali:Sodium_Nitrit a foodlirmm:Ingredient;
+   rdfs:label "sodium nitrit" .
+
+halali:Sorbitol a foodlirmm:Ingredient;
+   rdfs:label "sorbitol" .
+
+halali:Soto_Ingredients a foodlirmm:Ingredient;
+   rdfs:label "soto ingredients" .
+
+halali:Soy_Flour a foodlirmm:Ingredient;
+   rdfs:label "soy flour" .
+
+halali:Specially_Selected_Hazelnuts_From_Naples_And_Authentic_Vanili_Pods a foodlirmm:Ingredient;
+   rdfs:label "specially selected hazelnuts from naples and authentic vanili pods" .
+
+halali:Stabilizer_E a foodlirmm:Ingredient;
+   rdfs:label "stabilizer e" .
+
+halali:Starch a foodlirmm:Ingredient;
+   rdfs:label "starch" .
+
+halali:Stroberi a foodlirmm:Ingredient;
+   rdfs:label "stroberi" .
+
+halali:Stroberi_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "stroberi bubuk" .
+
+halali:Sugar a foodlirmm:Ingredient;
+   rdfs:label "sugar" .
+
+halali:Sukralosa a foodlirmm:Ingredient;
+   rdfs:label "sukralosa" .
+
+halali:Sukrosa a foodlirmm:Ingredient;
+   rdfs:label "sukrosa" .
+
+halali:Sulfate a foodlirmm:Ingredient;
+   rdfs:label "sulfate" .
+
+halali:Sulfit a foodlirmm:Ingredient;
+   rdfs:label "sulfit" .
+
+halali:Sultana a foodlirmm:Ingredient;
+   rdfs:label "sultana" .
+
+halali:Sunflower a foodlirmm:Ingredient;
+   rdfs:label "sunflower" .
+
+halali:Susu a foodlirmm:Ingredient;
+   rdfs:label "susu" .
+
+halali:Susu_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk" .
+
+halali:Susu_Bubuk_Full_Cream a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk full cream" .
+
+halali:Susu_Bubuk_Full_Krim a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk full krim" .
+
+halali:Susu_Bubuk_Lemak_Nabati a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk lemak nabati" .
+
+halali:Susu_Bubuk_Lesitin a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk lesitin" .
+
+halali:Susu_Bubuk_Sirup_Jagung_Tinggi_Fruktosa a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk sirup jagung tinggi fruktosa" .
+
+halali:Susu_Bubuk_Skim a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk skim" .
+
+halali:Susu_Bubuk_Tanpa_Lemak a foodlirmm:Ingredient;
+   rdfs:label "susu bubuk tanpa lemak" .
+
+halali:Susu_Evaporasi a foodlirmm:Ingredient;
+   rdfs:label "susu evaporasi" .
+
+halali:Susu_Kental_Manis a foodlirmm:Ingredient;
+   rdfs:label "susu kental manis" .
+
+halali:Susu_Sapi a foodlirmm:Ingredient;
+   rdfs:label "susu sapi" .
+
+halali:Susu_Skim a foodlirmm:Ingredient;
+   rdfs:label "susu skim" .
+
+halali:Susu_Skim_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "susu skim bubuk" .
+
+halali:Sweet_Whey_Powder a foodlirmm:Ingredient;
+   rdfs:label "sweet whey powder" .
+
+halali:Tahu_Kering a foodlirmm:Ingredient;
+   rdfs:label "tahu kering" .
+
+halali:Tapioca_Flour a foodlirmm:Ingredient;
+   rdfs:label "tapioca flour" .
+
+halali:Tapioca_Starch a foodlirmm:Ingredient;
+   rdfs:label "tapioca starch" .
+
+halali:Tapioka a foodlirmm:Ingredient;
+   rdfs:label "tapioka" .
+
+halali:Tartrasin_Ci a foodlirmm:Ingredient;
+   rdfs:label "tartrasin ci" .
+
+halali:Tartrazin a foodlirmm:Ingredient;
+   rdfs:label "tartrazin" .
+
+halali:Tartrazine_Ci a foodlirmm:Ingredient;
+   rdfs:label "tartrazine ci" .
+
+halali:Tartrazin_Ci a foodlirmm:Ingredient;
+   rdfs:label "tartrazin ci" .
+
+halali:Tartrazin_Ci_Merah_Allura_Ci a foodlirmm:Ingredient;
+   rdfs:label "tartrazin ci  merah allura ci" .
+
+halali:Tartrazin_Ci_No a foodlirmm:Ingredient;
+   rdfs:label "tartrazin ci no" .
+
+halali:Tartrazin_Cl a foodlirmm:Ingredient;
+   rdfs:label "tartrazin cl" .
+
+halali:Taurine a foodlirmm:Ingredient;
+   rdfs:label "taurine" .
+
+halali:Taurine_Mg a foodlirmm:Ingredient;
+   rdfs:label "taurine mg" .
+
+halali:Tbhq a foodlirmm:Ingredient;
+   rdfs:label "tbhq" .
+
+halali:Teh a foodlirmm:Ingredient;
+   rdfs:label "teh" .
+
+halali:Tehhijau a foodlirmm:Ingredient;
+   rdfs:label "tehhijau" .
+
+halali:Teh_Hijau a foodlirmm:Ingredient;
+   rdfs:label "teh hijau" .
+
+halali:Teh_Hijau_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "teh hijau bubuk" .
+
+halali:Teh_Hitam a foodlirmm:Ingredient;
+   rdfs:label "teh hitam" .
+
+halali:Teh_Instan a foodlirmm:Ingredient;
+   rdfs:label "teh instan" .
+
+halali:Teh_Melati a foodlirmm:Ingredient;
+   rdfs:label "teh melati" .
+
+halali:Teh_Oolong a foodlirmm:Ingredient;
+   rdfs:label "teh oolong" .
+
+halali:Teh_Perisa_Sintetik a foodlirmm:Ingredient;
+   rdfs:label "teh perisa sintetik" .
+
+halali:Telur a foodlirmm:Ingredient;
+   rdfs:label "telur" .
+
+halali:Telur_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "telur bubuk" .
+
+halali:Tempe a foodlirmm:Ingredient;
+   rdfs:label "tempe" .
+
+halali:Temulawak a foodlirmm:Ingredient;
+   rdfs:label "temulawak" .
+
+halali:Tepugn_Terigu a foodlirmm:Ingredient;
+   rdfs:label "tepugn terigu" .
+
+halali:Tepung a foodlirmm:Ingredient;
+   rdfs:label "tepung" .
+
+halali:Tepung_Beras a foodlirmm:Ingredient;
+   rdfs:label "tepung beras" .
+
+halali:Tepung_Gandum a foodlirmm:Ingredient;
+   rdfs:label "tepung gandum" .
+
+halali:Tepung_Gandum_Utuh a foodlirmm:Ingredient;
+   rdfs:label "tepung gandum utuh" .
+
+halali:Tepung_Gluten a foodlirmm:Ingredient;
+   rdfs:label "tepung gluten" .
+
+halali:Tepung_Jagung a foodlirmm:Ingredient;
+   rdfs:label "tepung jagung" .
+
+halali:Tepung_Jagung_Termodifikasi a foodlirmm:Ingredient;
+   rdfs:label "tepung jagung termodifikasi" .
+
+halali:Tepung_Kedelai a foodlirmm:Ingredient;
+   rdfs:label "tepung kedelai" .
+
+halali:Tepung_Keju a foodlirmm:Ingredient;
+   rdfs:label "tepung keju" .
+
+halali:Tepung_Kelapa a foodlirmm:Ingredient;
+   rdfs:label "tepung kelapa" .
+
+halali:Tepung_Kentang a foodlirmm:Ingredient;
+   rdfs:label "tepung kentang" .
+
+halali:Tepung_Ketan a foodlirmm:Ingredient;
+   rdfs:label "tepung ketan" .
+
+halali:Tepung_Malt a foodlirmm:Ingredient;
+   rdfs:label "tepung malt" .
+
+halali:Tepung_Oat a foodlirmm:Ingredient;
+   rdfs:label "tepung oat" .
+
+halali:Tepung_Penguat_Rasa a foodlirmm:Ingredient;
+   rdfs:label "tepung penguat rasa" .
+
+halali:Tepung_Sagu a foodlirmm:Ingredient;
+   rdfs:label "tepung sagu" .
+
+halali:Tepung_Singkong a foodlirmm:Ingredient;
+   rdfs:label "tepung singkong" .
+
+halali:Tepung_Susu a foodlirmm:Ingredient;
+   rdfs:label "tepung susu" .
+
+halali:Tepung_Tapioka a foodlirmm:Ingredient;
+   rdfs:label "tepung tapioka" .
+
+halali:Tepung_Telur a foodlirmm:Ingredient;
+   rdfs:label "tepung telur" .
+
+halali:Tepung_Terigu a foodlirmm:Ingredient;
+   rdfs:label "tepung terigu" .
+
+halali:Tepung_Ubi_Jalar a foodlirmm:Ingredient;
+   rdfs:label "tepung ubi jalar" .
+
+halali:Tepun_Terigu a foodlirmm:Ingredient;
+   rdfs:label "tepun terigu" .
+
+halali:Terbuat_Dari_Oat a foodlirmm:Ingredient;
+   rdfs:label "terbuat dari oat" .
+
+halali:Terigu a foodlirmm:Ingredient;
+   rdfs:label "terigu" .
+
+halali:Thickener a foodlirmm:Ingredient;
+   rdfs:label "thickener" .
+
+halali:Thickener_Acid_Treated_Starch a foodlirmm:Ingredient;
+   rdfs:label "thickener acid treated starch" .
+
+halali:Toasted_Wheat_Germ a foodlirmm:Ingredient;
+   rdfs:label "toasted wheat germ" .
+
+halali:Tokoferol a foodlirmm:Ingredient;
+   rdfs:label "tokoferol" .
+
+halali:Tomat a foodlirmm:Ingredient;
+   rdfs:label "tomat" .
+
+halali:Tomato_Pasta a foodlirmm:Ingredient;
+   rdfs:label "tomato pasta" .
+
+halali:Tomat_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "tomat bubuk" .
+
+halali:Triaseyin a foodlirmm:Ingredient;
+   rdfs:label "triaseyin" .
+
+halali:Trigliserida_Rantai_Se a foodlirmm:Ingredient;
+   rdfs:label "trigliserida rantai se" .
+
+halali:Trikalsium_Fosfat a foodlirmm:Ingredient;
+   rdfs:label "trikalsium fosfat" .
+
+halali:Trinatrium_Sitrat a foodlirmm:Ingredient;
+   rdfs:label "trinatrium sitrat" .
+
+halali:Tuna a foodlirmm:Ingredient;
+   rdfs:label "tuna" .
+
+halali:U a foodlirmm:Ingredient;
+   rdfs:label "u" .
+
+halali:Ubi a foodlirmm:Ingredient;
+   rdfs:label "ubi" .
+
+halali:Ubi_Kayu a foodlirmm:Ingredient;
+   rdfs:label "ubi kayu" .
+
+halali:Vanili a foodlirmm:Ingredient;
+   rdfs:label "vanili" .
+
+halali:Vanili_Pods a foodlirmm:Ingredient;
+   rdfs:label "vanili pods" .
+
+halali:Vegetable_Fats a foodlirmm:Ingredient;
+   rdfs:label "vegetable fats" .
+
+halali:Vegetable_Oil a foodlirmm:Ingredient;
+   rdfs:label "vegetable oil" .
+
+halali:Vitamin a foodlirmm:Ingredient;
+   rdfs:label "vitamin" .
+
+halali:Vitamin_A a foodlirmm:Ingredient;
+   rdfs:label "vitamin a" .
+
+halali:Vitamin_B a foodlirmm:Ingredient;
+   rdfs:label "vitamin b" .
+
+halali:Vitamin_B_Mcg a foodlirmm:Ingredient;
+   rdfs:label "vitamin b mcg" .
+
+halali:Vitamin_B_Mg a foodlirmm:Ingredient;
+   rdfs:label "vitamin b mg" .
+
+halali:Vitamin_C a foodlirmm:Ingredient;
+   rdfs:label "vitamin c" .
+
+halali:Vitamin_C_Mg a foodlirmm:Ingredient;
+   rdfs:label "vitamin c mg" .
+
+halali:Vitamin_D a foodlirmm:Ingredient;
+   rdfs:label "vitamin d" .
+
+halali:Vitamin_E a foodlirmm:Ingredient;
+   rdfs:label "vitamin e" .
+
+halali:Water a foodlirmm:Ingredient;
+   rdfs:label "water" .
+
+halali:Wheat_Flour a foodlirmm:Ingredient;
+   rdfs:label "wheat flour" .
+
+halali:Wheat_Starch a foodlirmm:Ingredient;
+   rdfs:label "wheat starch" .
+
+halali:Whey a foodlirmm:Ingredient;
+   rdfs:label "whey" .
+
+halali:Whey_Bubuk a foodlirmm:Ingredient;
+   rdfs:label "whey bubuk" .
+
+halali:Whey_Proteins a foodlirmm:Ingredient;
+   rdfs:label "whey proteins" .
+
+halali:White_Pepper_Powder a foodlirmm:Ingredient;
+   rdfs:label "white pepper powder" .
+
+halali:Wijen a foodlirmm:Ingredient;
+   rdfs:label "wijen" .
+
+halali:Wortel a foodlirmm:Ingredient;
+   rdfs:label "wortel" .
+
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix  rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix  owl: <http://www.w3.org/2002/07/owl#>.
+@prefix  xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix  foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix  halalv: <http://halal.addi.is.its.ac.id/halalv.ttl#>.
+@prefix  halalf: <http://halal.addi.is.its.ac.id/foodproducts/>.
+@prefix  halali: <http://halal.addi.is.its.ac.id/ingredients/>.
+@prefix  halalc: <http://halal.addi.is.its.ac.id/certificates/>.
+@prefix  halals: <http://halal.addi.is.its.ac.id/sources/>.
+@prefix  halalm: <http://halal.addi.is.its.ac.id/manufactures/>.
+@prefix  food: <http://purl.org/foodontology#> .
+@prefix  foodlirmm: <http://data.lirmm.fr/ontologies/food#> .
+@prefix  gr: <http://purl.org/goodrelations/v1#> . 
+@prefix  dbr: <http://dbpedia.org/resource/> .
+
+halali:Wortel_Kering a foodlirmm:Ingredient;
+   rdfs:label "wortel kering" .
+
+halali:W_Termasuk_Karamel a foodlirmm:Ingredient;
+   rdfs:label "w termasuk karamel" .
+
+halali:Yoghurt a foodlirmm:Ingredient;
+   rdfs:label "yoghurt" .
+
+halali:Zat_Besi a foodlirmm:Ingredient;
+   rdfs:label "zat besi" .halalm:22_Drinks a foaf:Organization;
+		rdfs:label "22 drinks" .

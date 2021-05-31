@@ -1,0 +1,1129 @@
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix  rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix  owl: <http://www.w3.org/2002/07/owl#>.
+@prefix  xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix  foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix  halalv: <http://halal.addi.is.its.ac.id/halalv.ttl#>.
+@prefix  halalf: <http://halal.addi.is.its.ac.id/foodproducts/>.
+@prefix  halali: <http://halal.addi.is.its.ac.id/ingredients/>.
+@prefix  halalc: <http://halal.addi.is.its.ac.id/certificates/>.
+@prefix  halals: <http://halal.addi.is.its.ac.id/sources/>.
+@prefix  halalm: <http://halal.addi.is.its.ac.id/manufactures/>.
+@prefix  food: <http://purl.org/foodontology#> .
+@prefix  foodlirmm: <http://data.lirmm.fr/ontologies/food#> .
+@prefix  gr: <http://purl.org/goodrelations/v1#> . 
+@prefix  dbr: <http://dbpedia.org/resource/> .
+
+halalm:Abon_Rajati a foaf:Organization;
+		rdfs:label "abon rajati" .
+
+halalm:Adabi_Consumer_Industries_Sdn_Bhd a foaf:Organization;
+		rdfs:label "adabi consumer industries sdn bhd" .
+
+halalm:Adelia a foaf:Organization;
+		rdfs:label "adelia" .
+
+halalm:Afis_Prima_Per_A_Pt a foaf:Organization;
+		rdfs:label "afis prima per,a,pt." .
+
+halalm:Aiti a foaf:Organization;
+		rdfs:label "aiti" .
+
+halalm:Akasia_Trijaya_Cv a foaf:Organization;
+		rdfs:label "akasia trijaya,cv" .
+
+halalm:Aleka_Drink a foaf:Organization;
+		rdfs:label "aleka drink" .
+
+halalm:Alghifari a foaf:Organization;
+		rdfs:label "alghifari" .
+
+halalm:Al_Hatim a foaf:Organization;
+		rdfs:label "al hatim" .
+
+halalm:Amazing a foaf:Organization;
+		rdfs:label "amazing" .
+
+halalm:Ananda_Snack a foaf:Organization;
+		rdfs:label "ananda snack" .
+
+halalm:Anjung_Coffee a foaf:Organization;
+		rdfs:label "anjung coffee" .
+
+halalm:Annoor a foaf:Organization;
+		rdfs:label "annoor" .
+
+halalm:Arayaindo a foaf:Organization;
+		rdfs:label "arayaindo" .
+
+halalm:Ardo_Santan a foaf:Organization;
+		rdfs:label "ardo santan" .
+
+halalm:Asia_Cv a foaf:Organization;
+		rdfs:label "asia,cv." .
+
+halalm:Asia_Food_Co_Korea a foaf:Organization;
+		rdfs:label "asia food co.-korea" .
+
+halalm:Askha_Jaya a foaf:Organization;
+		rdfs:label "askha jaya" .
+
+halalm:Aulia_Milano_Snack_Amp_Katering a foaf:Organization;
+		rdfs:label "aulia milano snack,amp,katering" .
+
+halalm:Baim_Production a foaf:Organization;
+		rdfs:label "baim production" .
+
+halalm:Bakoel_Tjoklat a foaf:Organization;
+		rdfs:label "bakoel tjoklat" .
+
+halalm:Bakso_Jwr a foaf:Organization;
+		rdfs:label "bakso jwr" .
+
+halalm:Banana_Pop_Bima a foaf:Organization;
+		rdfs:label "banana pop bima" .
+
+halalm:Bangun_Anugerah_Persada_Pt a foaf:Organization;
+		rdfs:label "bangun anugerah persada,pt." .
+
+halalm:Bellarosa_Abadi a foaf:Organization;
+		rdfs:label "bellarosa abadi" .
+
+halalm:Berkah_Snack a foaf:Organization;
+		rdfs:label "berkah snack" .
+
+halalm:Bersama_Cipta_Mandiri_Pt a foaf:Organization;
+		rdfs:label "bersama cipta mandiri pt" .
+
+halalm:Bilani a foaf:Organization;
+		rdfs:label "bilani" .
+
+halalm:Blims a foaf:Organization;
+		rdfs:label "blims" .
+
+halalm:Brandis_Natural_Drink a foaf:Organization;
+		rdfs:label "brandis natural drink" .
+
+halalm:Bumbu_Serbaguna a foaf:Organization;
+		rdfs:label "bumbu serbaguna" .
+
+halalm:Cemara_Kembar a foaf:Organization;
+		rdfs:label "cemara kembar" .
+
+halalm:Cendol_Babe a foaf:Organization;
+		rdfs:label "cendol babe" .
+
+halalm:Chokato a foaf:Organization;
+		rdfs:label "chokato" .
+
+halalm:Chui_Hiang_Pte_Ltd a foaf:Organization;
+		rdfs:label "chui hiang pte ltd" .
+
+halalm:Cv_Aneka_Bakery a foaf:Organization;
+		rdfs:label "cv. aneka bakery" .
+
+halalm:Cv_Augusta a foaf:Organization;
+		rdfs:label "cv. augusta" .
+
+halalm:Cv_Bahagia a foaf:Organization;
+		rdfs:label "cv. bahagia" .
+
+halalm:Cv_Berkah a foaf:Organization;
+		rdfs:label "cv berkah" .
+
+halalm:Cv_Cahya_Nusa_Pratama a foaf:Organization;
+		rdfs:label "cv. cahya nusa pratama" .
+
+halalm:Cv_Deris a foaf:Organization;
+		rdfs:label "cv. deris" .
+
+halalm:Cv_Indo_Pangan a foaf:Organization;
+		rdfs:label "cv. indo pangan" .
+
+halalm:Cv_Jasarama a foaf:Organization;
+		rdfs:label "cv.jasarama" .
+
+halalm:Cv_Kalandara a foaf:Organization;
+		rdfs:label "cv. kalandara" .
+
+halalm:Cv_Karagen_Indonesia a foaf:Organization;
+		rdfs:label "cv. karagen indonesia" .
+
+halalm:Cv_Ka_Kha_Catering a foaf:Organization;
+		rdfs:label "cv.ka+kha catering" .
+
+halalm:Cv_Kenanga a foaf:Organization;
+		rdfs:label "cv. kenanga" .
+
+halalm:Cv_Khariza_Inti_Boga a foaf:Organization;
+		rdfs:label "cv. khariza inti boga" .
+
+halalm:Cv_Kota_Makmur a foaf:Organization;
+		rdfs:label "cv.kota makmur" .
+
+halalm:Cv_Lautan_Boga_Pratama a foaf:Organization;
+		rdfs:label "cv. lautan boga pratama" .
+
+halalm:Cv_La_G_Gandum a foaf:Organization;
+		rdfs:label "cv. la,g gandum" .
+
+halalm:Cv_Maida_Inovasi a foaf:Organization;
+		rdfs:label "cv. maida inovasi" .
+
+halalm:Cv_Maju_Sari_Teh a foaf:Organization;
+		rdfs:label "cv.maju sari teh" .
+
+halalm:Cv_Mam a foaf:Organization;
+		rdfs:label "cv. mam" .
+
+halalm:Cv_Medina_Boga_Persada a foaf:Organization;
+		rdfs:label "cv. medina boga persada" .
+
+halalm:Cv_Munira_Setia a foaf:Organization;
+		rdfs:label "cv. munira setia" .
+
+halalm:Cv_Oto_Boga_Jaya a foaf:Organization;
+		rdfs:label "cv. oto boga jaya" .
+
+halalm:Cv_Panen_Lestari a foaf:Organization;
+		rdfs:label "cv. panen lestari" .
+
+halalm:Cv_Pasific_Harvest a foaf:Organization;
+		rdfs:label "cv. pasific harvest" .
+
+halalm:Cv_Primasari a foaf:Organization;
+		rdfs:label "cv. primasari" .
+
+halalm:Cv_Sinarfood_Healthindo a foaf:Organization;
+		rdfs:label "cv. sinarfood healthindo" .
+
+halalm:Cv_Sumodatama a foaf:Organization;
+		rdfs:label "cv sumodatama" .
+
+halalm:Cv_Toga_Nusantara a foaf:Organization;
+		rdfs:label "cv. toga nusantara" .
+
+halalm:Cv_Weimar_Mitra_Makmur a foaf:Organization;
+		rdfs:label "cv weimar mitra makmur" .
+
+halalm:Cv_Zahra_Putri a foaf:Organization;
+		rdfs:label "cv. zahra putri" .
+
+halalm:C_V_Inti_Soekensan_Pangan a foaf:Organization;
+		rdfs:label "c.v. inti soekensan pangan" .
+
+halalm:Daily_Catering a foaf:Organization;
+		rdfs:label "daily catering" .
+
+halalm:Dalton_Makassar a foaf:Organization;
+		rdfs:label "dalton makassar" .
+
+halalm:Dapoer_Bunda_Ochie a foaf:Organization;
+		rdfs:label "dapoer bunda ochie" .
+
+halalm:Darsa a foaf:Organization;
+		rdfs:label "darsa" .
+
+halalm:Delapan_Saudara a foaf:Organization;
+		rdfs:label "delapan saudara" .
+
+halalm:Delicia_Carica a foaf:Organization;
+		rdfs:label "delicia carica" .
+
+halalm:Delta_Aerosupport_Pt a foaf:Organization;
+		rdfs:label "delta aerosupport,pt" .
+
+halalm:Dioz_Chicken a foaf:Organization;
+		rdfs:label "dioz chicken" .
+
+halalm:Dlala a foaf:Organization;
+		rdfs:label "dlala" .
+
+halalm:Dr_Chicken a foaf:Organization;
+		rdfs:label "dr chicken" .
+
+halalm:Dwi_Jaya_Cv a foaf:Organization;
+		rdfs:label "dwi jaya,cv" .
+
+halalm:Emmh_Snack_Indonesia a foaf:Organization;
+		rdfs:label "emmh snack indonesia" .
+
+halalm:Espe_Foods a foaf:Organization;
+		rdfs:label "espe foods" .
+
+halalm:Esthree a foaf:Organization;
+		rdfs:label "esthree" .
+
+halalm:Fans_Food a foaf:Organization;
+		rdfs:label "fans food" .
+
+halalm:Fujian_Yonghua_Food_Co_Ltd a foaf:Organization;
+		rdfs:label "fujian yonghua food co,ltd" .
+
+halalm:Gambino_Coffee a foaf:Organization;
+		rdfs:label "gambino coffee" .
+
+halalm:Gangsar_Ud a foaf:Organization;
+		rdfs:label "gangsar,ud" .
+
+halalm:Gifta_Cullinare a foaf:Organization;
+		rdfs:label "gifta cullinare" .
+
+halalm:Golite a foaf:Organization;
+		rdfs:label "golite" .
+
+halalm:Go_Chick a foaf:Organization;
+		rdfs:label "go chick" .
+
+halalm:Granova a foaf:Organization;
+		rdfs:label "granova" .
+
+halalm:Gurih_Ya a foaf:Organization;
+		rdfs:label "gurih-ya" .
+
+halalm:Hakata_Genko a foaf:Organization;
+		rdfs:label "hakata genko" .
+
+halalm:Hankook_Tea_Company_Korea a foaf:Organization;
+		rdfs:label "hankook tea company-korea" .
+
+halalm:Happy_Alliance_M_Sdn_Bhd a foaf:Organization;
+		rdfs:label "happy alliance,m sdn. bhd." .
+
+halalm:Herbal_Desa_Nikkel a foaf:Organization;
+		rdfs:label "herbal desa nikkel" .
+
+halalm:Huisong_Pharmaceuticals a foaf:Organization;
+		rdfs:label "huisong pharmaceuticals" .
+
+halalm:Hwa_Tai_Industries_Berhad a foaf:Organization;
+		rdfs:label "hwa tai industries berhad" .
+
+halalm:Ibuku_Bakery a foaf:Organization;
+		rdfs:label "ibuku bakery" .
+
+halalm:Ilmuwan_Snack a foaf:Organization;
+		rdfs:label "ilmuwan snack" .
+
+halalm:Indosari a foaf:Organization;
+		rdfs:label "indosari" .
+
+halalm:Intan_Snack a foaf:Organization;
+		rdfs:label "intan snack" .
+
+halalm:Jangkar a foaf:Organization;
+		rdfs:label "jangkar" .
+
+halalm:Java_Bakery a foaf:Organization;
+		rdfs:label "java bakery" .
+
+halalm:Jawara_Roti_Amp_Kue a foaf:Organization;
+		rdfs:label "jawara roti,amp,kue" .
+
+halalm:Julieac_A_A_C_S_Manufacturing_Sdn_Bhd a foaf:Organization;
+		rdfs:label "julieã¢â‚¬â„¢s manufacturing sdn. bhd." .
+
+halalm:Kadedika a foaf:Organization;
+		rdfs:label "kadedika" .
+
+halalm:Kampung_Kecil a foaf:Organization;
+		rdfs:label "kampung kecil" .
+
+halalm:Kantin_Mamih_Kampus_Uhamka a foaf:Organization;
+		rdfs:label "kantin mamih,kampus uhamka" .
+
+halalm:Kasim a foaf:Organization;
+		rdfs:label "kasim" .
+
+halalm:Kdcmpul a foaf:Organization;
+		rdfs:label "kdcmpul" .
+
+halalm:Kecap_Segitiga a foaf:Organization;
+		rdfs:label "kecap segitiga" .
+
+halalm:Kecap_Zebra a foaf:Organization;
+		rdfs:label "kecap zebra" .
+
+halalm:Kedai_Kopi_Oh a foaf:Organization;
+		rdfs:label "kedai kopi oh" .
+
+halalm:Kedai_Suka_Suka a foaf:Organization;
+		rdfs:label "kedai suka-suka" .
+
+halalm:Keripik_Ante a foaf:Organization;
+		rdfs:label "keripik ante" .
+
+halalm:Keripik_Berkah a foaf:Organization;
+		rdfs:label "keripik berkah" .
+
+halalm:Keripik_Bunda a foaf:Organization;
+		rdfs:label "keripik bunda" .
+
+halalm:Keripik_Kentang_Zacky a foaf:Organization;
+		rdfs:label "keripik kentang zacky" .
+
+halalm:Keripik_Tempe_Aisyah a foaf:Organization;
+		rdfs:label "keripik tempe aisyah" .
+
+halalm:Keripik_Tempe_Tempelan a foaf:Organization;
+		rdfs:label "keripik tempe tempelan" .
+
+halalm:Kita_Kita a foaf:Organization;
+		rdfs:label "kita-kita" .
+
+halalm:Kopita_Jaya a foaf:Organization;
+		rdfs:label "kopita jaya" .
+
+halalm:Kopi_Abah a foaf:Organization;
+		rdfs:label "kopi abah" .
+
+halalm:Kue_Kering_Aini_Bpjph2020 a foaf:Organization;
+		rdfs:label "kue kering aini- bpjph2020" .
+
+halalm:Laasania a foaf:Organization;
+		rdfs:label "laasania" .
+
+halalm:Lada_Alam a foaf:Organization;
+		rdfs:label "lada alam" .
+
+halalm:Legens_Cafe_And_Resto a foaf:Organization;
+		rdfs:label "legens cafe and resto" .
+
+halalm:Le_Qurma a foaf:Organization;
+		rdfs:label "le qurma" .
+
+halalm:Lubby_Almond a foaf:Organization;
+		rdfs:label "lubby almond" .
+
+halalm:Madu_Lebah_Rayyan a foaf:Organization;
+		rdfs:label "madu lebah rayyan" .
+
+halalm:Makmur_Pangan_Lestari a foaf:Organization;
+		rdfs:label "makmur pangan lestari" .
+
+halalm:Makuka_Honey a foaf:Organization;
+		rdfs:label "makuka honey" .
+
+halalm:Manisan_15 a foaf:Organization;
+		rdfs:label "manisan 15" .
+
+halalm:Megahputra_Selahtera_Pt a foaf:Organization;
+		rdfs:label "megahputra selahtera,pt" .
+
+halalm:Melessi a foaf:Organization;
+		rdfs:label "melessi" .
+
+halalm:Melte_Vanana a foaf:Organization;
+		rdfs:label "melte vanana" .
+
+halalm:Menil a foaf:Organization;
+		rdfs:label "menil" .
+
+halalm:Mitra_Gizi_Sejahtera a foaf:Organization;
+		rdfs:label "mitra gizi sejahtera" .
+
+halalm:Mondelez_Indonesia_Manufacturing a foaf:Organization;
+		rdfs:label "mondelez indonesia manufacturing" .
+
+halalm:Monza_Snack a foaf:Organization;
+		rdfs:label "monza snack" .
+
+halalm:Muesly a foaf:Organization;
+		rdfs:label "muesly" .
+
+halalm:Nestle_Products_Malaysia_Sdn_Bhd a foaf:Organization;
+		rdfs:label "nestle products,malaysia sdn. bhd." .
+
+halalm:Nestle_Thai_Ltd a foaf:Organization;
+		rdfs:label "nestle,thai ltd" .
+
+halalm:Niasa a foaf:Organization;
+		rdfs:label "niasa" .
+
+halalm:Nice_Jelly a foaf:Organization;
+		rdfs:label "nice jelly" .
+
+halalm:Nichoa_Chocolatte a foaf:Organization;
+		rdfs:label "nichoa chocolatte	" .
+
+halalm:Ninuk_Catering a foaf:Organization;
+		rdfs:label "ninuk catering" .
+
+halalm:Nomnom a foaf:Organization;
+		rdfs:label "nomnom" .
+
+halalm:Noodle_King a foaf:Organization;
+		rdfs:label "noodle king" .
+
+halalm:Nutify_Indonesia a foaf:Organization;
+		rdfs:label "nutify indonesia" .
+
+halalm:Oza_Premium_Tea a foaf:Organization;
+		rdfs:label "oza premium tea" .
+
+halalm:Paberik_Mie_1938 a foaf:Organization;
+		rdfs:label "paberik mie 1938" .
+
+halalm:Panji_Galon a foaf:Organization;
+		rdfs:label "panji galon" .
+
+halalm:Paramartha_Dharmaguna_Pt a foaf:Organization;
+		rdfs:label "paramartha dharmaguna,pt" .
+
+halalm:Paten a foaf:Organization;
+		rdfs:label "paten" .
+
+halalm:Pbpjphkbm_Nazifa a foaf:Organization;
+		rdfs:label "pbpjphkbm nazifa" .
+
+halalm:Pbpjphsmg_Fadiyaz_Snack a foaf:Organization;
+		rdfs:label "pbpjphsmg fadiyaz snack" .
+
+halalm:Pb_Obor a foaf:Organization;
+		rdfs:label "pb. obor" .
+
+halalm:Pd_Surabraja_Putra a foaf:Organization;
+		rdfs:label "pd. surabraja putra" .
+
+halalm:Permen_Kopyos_Bpjph2020 a foaf:Organization;
+		rdfs:label "permen kopyos-bpjph2020" .
+
+halalm:Perusahaan_Harum_Sari a foaf:Organization;
+		rdfs:label "perusahaan harum sari" .
+
+halalm:Pkkoppwr_Zie_Zie_Snack a foaf:Organization;
+		rdfs:label "pkkoppwr zie zie snack" .
+
+halalm:Pkopjpa_Arum a foaf:Organization;
+		rdfs:label "pkopjpa arum" .
+
+halalm:Pkprinpml_Nahiki a foaf:Organization;
+		rdfs:label "pkprinpml nahiki" .
+
+halalm:Pkprinsmg_Aneka_Snack_Mentari a foaf:Organization;
+		rdfs:label "pkprinsmg aneka snack mentari" .
+
+halalm:Plppompti_Kopi_Murni a foaf:Organization;
+		rdfs:label "plppompti kopi murni" .
+
+halalm:Po_Blueberry a foaf:Organization;
+		rdfs:label "po. blueberry" .
+
+halalm:Ppkopbnr_Ud_Cahaya a foaf:Organization;
+		rdfs:label "ppkopbnr ud. cahaya" .
+
+halalm:Ppkopclp_Hijrah a foaf:Organization;
+		rdfs:label "ppkopclp  hijrah" .
+
+halalm:Ppkopkdl_Kopi_Donomerto a foaf:Organization;
+		rdfs:label "ppkopkdl kopi donomerto" .
+
+halalm:Ppkopkdl_Nh a foaf:Organization;
+		rdfs:label "ppkopkdl nh" .
+
+halalm:Ppkopkrg_Teh_Gambyong a foaf:Organization;
+		rdfs:label "ppkopkrg teh gambyong" .
+
+halalm:Ppkoppti_Torenggo a foaf:Organization;
+		rdfs:label "ppkoppti torenggo" .
+
+halalm:Ppkoppwr_Ayam_Goreng_Kremes_Bu_Narmi_Agil_2 a foaf:Organization;
+		rdfs:label "ppkoppwr ayam goreng kremes bu narmi agil 2" .
+
+halalm:Ppkoppwt_Gula_Asam_Jawa a foaf:Organization;
+		rdfs:label "ppkoppwt gula asam jawa" .
+
+halalm:Ppkoppwt_Ninong_Snack a foaf:Organization;
+		rdfs:label "ppkoppwt ninong snack" .
+
+halalm:Ppkopsgn_Dua_Jagung a foaf:Organization;
+		rdfs:label "ppkopsgn  dua jagung" .
+
+halalm:Ppkopsmg_Sriwon_Food a foaf:Organization;
+		rdfs:label "ppkopsmg sriwon food" .
+
+halalm:Pprinslt_Merak_Snack a foaf:Organization;
+		rdfs:label "pprinslt merak snack" .
+
+halalm:Pprinsmg_Kripon a foaf:Organization;
+		rdfs:label "pprinsmg kripon" .
+
+halalm:Prinmkd_Umay a foaf:Organization;
+		rdfs:label "prinmkd umay" .
+
+halalm:Prinpkl_Lingi_Cookies a foaf:Organization;
+		rdfs:label "prinpkl lingi cookies" .
+
+halalm:Pt_Abc_President_Indonesia a foaf:Organization;
+		rdfs:label "pt. abc president indonesia" .
+
+halalm:Pt_Aetra_Air_Tangerang a foaf:Organization;
+		rdfs:label "pt. aetra air tangerang" .
+
+halalm:Pt_Agel_Langgeng a foaf:Organization;
+		rdfs:label "pt. agel langgeng" .
+
+halalm:Pt_Agung_Food_Industrindo a foaf:Organization;
+		rdfs:label "pt. agung food industrindo" .
+
+halalm:Pt_Air_Mancur a foaf:Organization;
+		rdfs:label "pt. air mancur" .
+
+halalm:Pt_Ajinomoto_Bakery_Indonesia a foaf:Organization;
+		rdfs:label "pt. ajinomoto bakery indonesia" .
+
+halalm:Pt_Ajinomoto_Indonesia a foaf:Organization;
+		rdfs:label "pt. ajinomoto indonesia" .
+
+halalm:Pt_Aloha_Snack_Unggul a foaf:Organization;
+		rdfs:label "pt. aloha snack unggul" .
+
+halalm:Pt_Aneka_Boga_Nusantara a foaf:Organization;
+		rdfs:label "pt. aneka boga nusantara" .
+
+halalm:Pt_Aneka_Tuna_Indonesia a foaf:Organization;
+		rdfs:label "pt. aneka tuna indonesia" .
+
+halalm:Pt_Animo_Resto_Primera_Mujigae a foaf:Organization;
+		rdfs:label "pt. animo resto primera,mujigae" .
+
+halalm:Pt_Bali_Alam_Rayya a foaf:Organization;
+		rdfs:label "pt bali alam rayya" .
+
+halalm:Pt_Bali_Fruit a foaf:Organization;
+		rdfs:label "pt. bali fruit" .
+
+halalm:Pt_Bamboe_Indonesia a foaf:Organization;
+		rdfs:label "pt. bamboe indonesia" .
+
+halalm:Pt_Belfoods_Indonesia a foaf:Organization;
+		rdfs:label "pt. belfoods indonesia" .
+
+halalm:Pt_Bintang_Timur_Indoboga a foaf:Organization;
+		rdfs:label "pt bintang timur indoboga" .
+
+halalm:Pt_Bintang_Toedjoe a foaf:Organization;
+		rdfs:label "pt. bintang toedjoe" .
+
+halalm:Pt_Cahaya_Tirta_Aromma a foaf:Organization;
+		rdfs:label "pt. cahaya tirta aromma" .
+
+halalm:Pt_Ceres a foaf:Organization;
+		rdfs:label "pt. ceres" .
+
+halalm:Pt_Cipta_Selera_Murni a foaf:Organization;
+		rdfs:label "pt. cipta selera murni" .
+
+halalm:Pt_Cj_Foodville_Bakery_And_Cafe_Indonesia a foaf:Organization;
+		rdfs:label "pt. cj foodville bakery and cafe indonesia" .
+
+halalm:Pt_Coca_Cola_Bottling_Indonesia a foaf:Organization;
+		rdfs:label "pt. coca-cola bottling indonesia" .
+
+halalm:Pt_Daily_Fresh_Indonesia a foaf:Organization;
+		rdfs:label "pt. daily fresh indonesia" .
+
+halalm:Pt_David_Roy_Indonesia a foaf:Organization;
+		rdfs:label "pt. david roy indonesia" .
+
+halalm:Pt_Dayatama_Polanusa a foaf:Organization;
+		rdfs:label "pt. dayatama polanusa" .
+
+halalm:Pt_Delta_Atsiri_Prima a foaf:Organization;
+		rdfs:label "pt delta atsiri prima" .
+
+halalm:Pt_Diamond_Cold_Storage a foaf:Organization;
+		rdfs:label "pt. diamond cold storage" .
+
+halalm:Pt_Dua_Kelinci a foaf:Organization;
+		rdfs:label "pt. dua kelinci" .
+
+halalm:Pt_Dyriana a foaf:Organization;
+		rdfs:label "pt. dyriana" .
+
+halalm:Pt_Eka_Bogainti a foaf:Organization;
+		rdfs:label "pt. eka bogainti" .
+
+halalm:Pt_Flip_Burger_Internasional a foaf:Organization;
+		rdfs:label "pt. flip burger internasional" .
+
+halalm:Pt_Forisa_Nusapersada a foaf:Organization;
+		rdfs:label "pt. forisa nusapersada" .
+
+halalm:Pt_Formosa_Ingredient_Factory a foaf:Organization;
+		rdfs:label "pt formosa ingredient factory" .
+
+halalm:Pt_Frisian_Flag_Indonesia a foaf:Organization;
+		rdfs:label "pt. frisian flag indonesia" .
+
+halalm:Pt_Gema_Ista_Raya a foaf:Organization;
+		rdfs:label "pt. gema ista raya" .
+
+halalm:Pt_Gita a foaf:Organization;
+		rdfs:label "pt. gita" .
+
+halalm:Pt_Gluten_Free_Indonesia a foaf:Organization;
+		rdfs:label "pt. gluten free indonesia" .
+
+halalm:Pt_Golden_Palm_Suryatama a foaf:Organization;
+		rdfs:label "pt. golden palm suryatama" .
+
+halalm:Pt_Goodfood_Indonesia a foaf:Organization;
+		rdfs:label "pt. goodfood indonesia" .
+
+halalm:Pt_Greshindo_Aroma a foaf:Organization;
+		rdfs:label "pt. greshindo aroma" .
+
+halalm:Pt_Hakiki_Donarta a foaf:Organization;
+		rdfs:label "pt. hakiki donarta" .
+
+halalm:Pt_Heinz_Abc_Indonesia a foaf:Organization;
+		rdfs:label "pt. heinz abc indonesia" .
+
+halalm:Pt_Hoki_Sukses_Mandiri a foaf:Organization;
+		rdfs:label "pt. hoki sukses mandiri" .
+
+halalm:Pt_Immortal_Cosmedika_Indonesia a foaf:Organization;
+		rdfs:label "pt. immortal cosmedika indonesia" .
+
+halalm:Pt_Indolakto a foaf:Organization;
+		rdfs:label "pt. indolakto" .
+
+halalm:Pt_Indonesia_Miki_Industries a foaf:Organization;
+		rdfs:label "pt. indonesia miki industries" .
+
+halalm:Pt_Indowooyang a foaf:Organization;
+		rdfs:label "pt. indowooyang" .
+
+halalm:Pt_Indo_Fermex a foaf:Organization;
+		rdfs:label "pt. indo fermex" .
+
+halalm:Pt_Indo_Seafood a foaf:Organization;
+		rdfs:label "pt. indo seafood" .
+
+halalm:Pt_Inkenas_Agung a foaf:Organization;
+		rdfs:label "pt. inkenas agung" .
+
+halalm:Pt_Inkubisc a foaf:Organization;
+		rdfs:label "pt. inkubisc" .
+
+halalm:Pt_Jadi_Abadi_Corak_Biscuit_Factory_Indonesia a foaf:Organization;
+		rdfs:label "pt. jadi abadi corak biscuit factory indonesia" .
+
+halalm:Pt_Jakarana_Tama a foaf:Organization;
+		rdfs:label "pt. jakarana tama" .
+
+halalm:Pt_Jaya_Putra_Dewata a foaf:Organization;
+		rdfs:label "pt. jaya putra dewata" .
+
+halalm:Pt_Jaya_Wira_Jerindo a foaf:Organization;
+		rdfs:label "pt. jaya wira jerindo" .
+
+halalm:Pt_Jinyoung a foaf:Organization;
+		rdfs:label "pt. jinyoung" .
+
+halalm:Pt_Kaldu_Sari_Nabati_Indonesia a foaf:Organization;
+		rdfs:label "pt. kaldu sari nabati indonesia" .
+
+halalm:Pt_Katering_Makanan_Indonesia a foaf:Organization;
+		rdfs:label "pt. katering makanan indonesia" .
+
+halalm:Pt_Khong_Guan_Biscuit_Factory_Indonesia_Ltd a foaf:Organization;
+		rdfs:label "pt. khong guan biscuit factory indonesia ltd" .
+
+halalm:Pt_Kikkoman_Akufood_Indonesia a foaf:Organization;
+		rdfs:label "pt. kikkoman akufood indonesia" .
+
+halalm:Pt_Kino_Indonesia_Tbk a foaf:Organization;
+		rdfs:label "pt. kino indonesia tbk" .
+
+halalm:Pt_Kobe_Boga_Utama a foaf:Organization;
+		rdfs:label "pt. kobe boga utama" .
+
+halalm:Pt_Konimex a foaf:Organization;
+		rdfs:label "pt. konimex" .
+
+halalm:Pt_Kosena_Lestari_Makmur a foaf:Organization;
+		rdfs:label "pt.kosena lestari makmur" .
+
+halalm:Pt_Kraft_Ultra_Jaya_Indonesia a foaf:Organization;
+		rdfs:label "pt. kraft ultra jaya indonesia" .
+
+halalm:Pt_Kuliner_Sukses_Inovatif a foaf:Organization;
+		rdfs:label "pt. kuliner sukses inovatif" .
+
+halalm:Pt_Lautan_Natural_Krimerindo a foaf:Organization;
+		rdfs:label "pt. lautan natural krimerindo" .
+
+halalm:Pt_Lottemart_Indonesia a foaf:Organization;
+		rdfs:label "pt. lottemart indonesia" .
+
+halalm:Pt_Lucas_Djaja a foaf:Organization;
+		rdfs:label "pt. lucas djaja" .
+
+halalm:Pt_Magfood_Inovasi_Pangan a foaf:Organization;
+		rdfs:label "pt. magfood inovasi pangan" .
+
+halalm:Pt_Maquis_Indonesia a foaf:Organization;
+		rdfs:label "pt. maquis indonesia" .
+
+halalm:Pt_Marizarasa_Sarimurni a foaf:Organization;
+		rdfs:label "pt. marizarasa sarimurni" .
+
+halalm:Pt_Marvel_Food_Industry a foaf:Organization;
+		rdfs:label "pt. marvel food industry" .
+
+halalm:Pt_Matahari_Putra_Prima_Tbk a foaf:Organization;
+		rdfs:label "pt. matahari putra prima,tbk" .
+
+halalm:Pt_Matcha_Muda_Manggala a foaf:Organization;
+		rdfs:label "pt. matcha muda manggala" .
+
+halalm:Pt_Mawar_Jaya a foaf:Organization;
+		rdfs:label "pt. mawar jaya" .
+
+halalm:Pt_Maxx_Coffee_Prima a foaf:Organization;
+		rdfs:label "pt. maxx coffee prima" .
+
+halalm:Pt_Mayora_Indah a foaf:Organization;
+		rdfs:label "pt. mayora indah" .
+
+halalm:Pt_Mayora_Indah_Tbk a foaf:Organization;
+		rdfs:label "pt. mayora indah tbk" .
+
+halalm:Pt_Mercolade_Indonesia a foaf:Organization;
+		rdfs:label "pt. mercolade indonesia" .
+
+halalm:Pt_Merek_Indah_Lestari a foaf:Organization;
+		rdfs:label "pt. merek indah lestari" .
+
+halalm:Pt_Milko_Beverage_Industry a foaf:Organization;
+		rdfs:label "pt. milko beverage industry" .
+
+halalm:Pt_Mitraboga_Kreasi_Prima a foaf:Organization;
+		rdfs:label "pt. mitraboga kreasi prima" .
+
+halalm:Pt_Monde_Mahkota_Biskuit a foaf:Organization;
+		rdfs:label "pt. monde mahkota biskuit" .
+
+halalm:Pt_Mondo_Gelato_Asia a foaf:Organization;
+		rdfs:label "pt. mondo gelato asia" .
+
+halalm:Pt_Multirasa_Nusantara_Yoshinoya_Restaurant a foaf:Organization;
+		rdfs:label "pt. multirasa nusantara,yoshinoya restaurant" .
+
+halalm:Pt_Nestle_Indonesia a foaf:Organization;
+		rdfs:label "pt. nestle indonesia" .
+
+halalm:Pt_Niramas_Utama a foaf:Organization;
+		rdfs:label "pt. niramas utama" .
+
+halalm:Pt_Nissin_Biscuits_Indonesia a foaf:Organization;
+		rdfs:label "pt. nissin biscuits indonesia" .
+
+halalm:Pt_Nissin_Foods_Indonesia a foaf:Organization;
+		rdfs:label "pt. nissin foods indonesia" .
+
+halalm:Pt_Nutrifood_Indonesia a foaf:Organization;
+		rdfs:label "pt. nutrifood indonesia" .
+
+halalm:Pt_Nutrifood_Indonesia_Sovena a foaf:Organization;
+		rdfs:label "pt. nutrifood indonesia,sovena" .
+
+halalm:Pt_Opal_Coffee_Indonesia a foaf:Organization;
+		rdfs:label "pt. opal coffee indonesia" .
+
+halalm:Pt_Pancamitra_Kreasi_Kulina a foaf:Organization;
+		rdfs:label "pt. pancamitra kreasi kulina" .
+
+halalm:Pt_Pioneerindo_Gourmet_International_Tbk a foaf:Organization;
+		rdfs:label "pt. pioneerindo gourmet international,tbk" .
+
+halalm:Pt_Premier_Boga_Nusantara a foaf:Organization;
+		rdfs:label "pt. premier boga nusantara" .
+
+halalm:Pt_Premier_Doughnut_Indonesia_Krispy_Kreme a foaf:Organization;
+		rdfs:label "pt. premier doughnut indonesia,krispy kreme" .
+
+halalm:Pt_Prima_Lakto_Sehat a foaf:Organization;
+		rdfs:label "pt. prima lakto sehat" .
+
+halalm:Pt_Puratos_Indonesia a foaf:Organization;
+		rdfs:label "pt. puratos indonesia" .
+
+halalm:Pt_Pureeland_Nutritama_Prima a foaf:Organization;
+		rdfs:label "pt. pureeland nutritama prima" .
+
+halalm:Pt_Raos a foaf:Organization;
+		rdfs:label "pt. raos" .
+
+halalm:Pt_Rekso_Nasional_Food a foaf:Organization;
+		rdfs:label "pt. rekso nasional food" .
+
+halalm:Pt_Richeese_Kuliner_Indonesia a foaf:Organization;
+		rdfs:label "pt. richeese kuliner indonesia" .
+
+halalm:Pt_Sahira_Penuh_Berkah a foaf:Organization;
+		rdfs:label "pt. sahira penuh berkah" .
+
+halalm:Pt_Salad_Segar_Lestari a foaf:Organization;
+		rdfs:label "pt salad segar lestari" .
+
+halalm:Pt_Sanghiang_Perkasa a foaf:Organization;
+		rdfs:label "pt. sanghiang perkasa" .
+
+halalm:Pt_Santino a foaf:Organization;
+		rdfs:label "pt. santino" .
+
+halalm:Pt_Sariguna_Primatirta_Tbk a foaf:Organization;
+		rdfs:label "pt. sariguna primatirta,tbk." .
+
+halalm:Pt_Sarimelati_Kencana_Tbk a foaf:Organization;
+		rdfs:label "pt. sarimelati kencana,tbk" .
+
+halalm:Pt_Sari_Incofood_Corporation a foaf:Organization;
+		rdfs:label "pt. sari incofood corporation" .
+
+halalm:Pt_Sari_Melati_Sejahtera a foaf:Organization;
+		rdfs:label "pt. sari melati sejahtera" .
+
+halalm:Pt_Sari_Pati_Abadi a foaf:Organization;
+		rdfs:label "pt. sari pati abadi" .
+
+halalm:Pt_Satou_Lab a foaf:Organization;
+		rdfs:label "pt. satou lab" .
+
+halalm:Pt_Savoria_Kreasi_Rasa a foaf:Organization;
+		rdfs:label "pt. savoria kreasi rasa" .
+
+halalm:Pt_Scuro_Lavino a foaf:Organization;
+		rdfs:label "pt. scuro lavino" .
+
+halalm:Pt_Seasonal_Supplies_Indonesia a foaf:Organization;
+		rdfs:label "pt. seasonal supplies indonesia" .
+
+halalm:Pt_Sekar_Laut_Tbk_Sidoarjo a foaf:Organization;
+		rdfs:label "pt. sekar laut,tbk,sidoarjo" .
+
+halalm:Pt_Senang_Abadi a foaf:Organization;
+		rdfs:label "pt. senang abadi" .
+
+halalm:Pt_Serena_Indopangan_Industri a foaf:Organization;
+		rdfs:label "pt. serena indopangan industri" .
+
+halalm:Pt_Simba_Indosnack_Makmur a foaf:Organization;
+		rdfs:label "pt. simba indosnack makmur" .
+
+halalm:Pt_Sriboga_Flour_Mill a foaf:Organization;
+		rdfs:label "pt. sriboga flour mill" .
+
+halalm:Pt_Sumber_Mitra_Restotama a foaf:Organization;
+		rdfs:label "pt. sumber mitra restotama" .
+
+halalm:Pt_Suparma_Tbk a foaf:Organization;
+		rdfs:label "pt. suparma tbk" .
+
+halalm:Pt_Surya_Pratista_Hutama a foaf:Organization;
+		rdfs:label "pt. surya pratista hutama" .
+
+halalm:Pt_Torabika_Eka_Semesta a foaf:Organization;
+		rdfs:label "pt. torabika eka semesta" .
+
+halalm:Pt_Trans_Burger a foaf:Organization;
+		rdfs:label "pt. trans burger" .
+
+halalm:Pt_Trans_Retail_Indonesia a foaf:Organization;
+		rdfs:label "pt. trans retail indonesia" .
+
+halalm:Pt_Ultra_Aroma a foaf:Organization;
+		rdfs:label "pt. ultra aroma" .
+
+halalm:Pt_Unimos a foaf:Organization;
+		rdfs:label "pt. unimos" .
+
+halalm:Pt_United_Waru_Biscuit_Manufactory a foaf:Organization;
+		rdfs:label "pt. united waru biscuit manufactory" .
+
+halalm:Pt_Universal_Cipta_Pangan a foaf:Organization;
+		rdfs:label "pt. universal cipta pangan" .
+
+halalm:Pt_Universal_Indofood_Product a foaf:Organization;
+		rdfs:label "pt. universal indofood product" .
+
+halalm:Pt_Urc_Indonesia a foaf:Organization;
+		rdfs:label "pt. urc indonesia" .
+
+halalm:Pt_Wijaya_Putra_Samudra a foaf:Organization;
+		rdfs:label "pt. wijaya putra samudra" .
+
+halalm:Pt_Yhs_Indonesia a foaf:Organization;
+		rdfs:label "pt. yhs indonesia" .
+
+halalm:Pt_Yummy_Food_Utama a foaf:Organization;
+		rdfs:label "pt. yummy food utama" .
+
+halalm:Pt_Yupi_Indo_Jelly_Gum a foaf:Organization;
+		rdfs:label "pt. yupi indo jelly gum" .
+
+halalm:Puji_Surya_Indah_Pt a foaf:Organization;
+		rdfs:label "puji surya indah,pt" .
+
+halalm:Ratu_Luwak a foaf:Organization;
+		rdfs:label "ratu luwak" .
+
+halalm:Rdmk_Hana_Snack a foaf:Organization;
+		rdfs:label "rdmk hana snack" .
+
+halalm:Renny a foaf:Organization;
+		rdfs:label "renny" .
+
+halalm:Resto_Halal_Kendedes_Syaifudin a foaf:Organization;
+		rdfs:label "resto halal kendedes syaifudin" .
+
+halalm:Rirora_Dcafe a foaf:Organization;
+		rdfs:label "rirora dcafe" .
+
+halalm:Riung_Tenda a foaf:Organization;
+		rdfs:label "riung tenda" .
+
+halalm:Riyadussa_Adah a foaf:Organization;
+		rdfs:label "riyadussa'adah" .
+
+halalm:Rmkd_Java_Telor a foaf:Organization;
+		rdfs:label "rmkd java telor" .
+
+halalm:Roso a foaf:Organization;
+		rdfs:label "roso" .
+
+halalm:Royyan a foaf:Organization;
+		rdfs:label "royyan" .
+
+halalm:Rsi_Sultan_Agung a foaf:Organization;
+		rdfs:label "rsi sultan agung" .
+
+halalm:Rumah_Lemon_Pku a foaf:Organization;
+		rdfs:label "rumah lemon pku" .
+
+halalm:Rumah_Pizza a foaf:Organization;
+		rdfs:label "rumah pizza" .
+
+halalm:Sari_Bahari_Resto a foaf:Organization;
+		rdfs:label "sari bahari,resto." .
+
+halalm:Selera_Bogatama_Cv a foaf:Organization;
+		rdfs:label "selera bogatama,cv" .
+
+halalm:Sibeste_Cv a foaf:Organization;
+		rdfs:label "sibeste,cv" .
+
+halalm:Sinar_Terang a foaf:Organization;
+		rdfs:label "sinar terang" .
+
+halalm:Sophie_Souffle_Bakery a foaf:Organization;
+		rdfs:label "sophie souffle bakery" .
+
+halalm:Sopi_Jaya a foaf:Organization;
+		rdfs:label "sopi jaya" .
+
+halalm:Soya_Green a foaf:Organization;
+		rdfs:label "soya green" .
+
+halalm:Sukses_Mandiri a foaf:Organization;
+		rdfs:label "sukses mandiri" .
+
+halalm:Sumber_Bawang a foaf:Organization;
+		rdfs:label "sumber bawang" .
+
+halalm:Tazakka a foaf:Organization;
+		rdfs:label "tazakka" .
+
+halalm:Teh_Tarik_Az_Zikra a foaf:Organization;
+		rdfs:label "teh tarik az-zikra" .
+
+halalm:Tema_Tea a foaf:Organization;
+		rdfs:label "tema tea" .
+
+halalm:Thai_Glico_Co_Ltd a foaf:Organization;
+		rdfs:label "thai glico co,ltd." .
+
+halalm:Timtim a foaf:Organization;
+		rdfs:label "timtim" .
+
+halalm:Tros a foaf:Organization;
+		rdfs:label "tros" .
+
+halalm:Tsabita_Halal_Boga a foaf:Organization;
+		rdfs:label "tsabita halal boga" .
+
+halalm:Ud_Aldy a foaf:Organization;
+		rdfs:label "ud. aldy" .
+
+halalm:Ud_Bali_Asli a foaf:Organization;
+		rdfs:label "ud.bali asli" .
+
+halalm:Ud_Denpasar a foaf:Organization;
+		rdfs:label "ud denpasar" .
+
+halalm:Ud_Jasmine a foaf:Organization;
+		rdfs:label "ud. jasmine" .
+
+halalm:Ud_Madu_Mandiri a foaf:Organization;
+		rdfs:label "ud.madu mandiri" .
+
+halalm:Ud_Mahkota_Mas a foaf:Organization;
+		rdfs:label "ud mahkota mas" .
+
+halalm:Ud_Marroan a foaf:Organization;
+		rdfs:label "ud. marroan" .
+
+halalm:Ud_Parahyangan a foaf:Organization;
+		rdfs:label "ud parahyangan" .
+
+halalm:Umkm_Buyung a foaf:Organization;
+		rdfs:label "umkm buyung" .
+
+halalm:Ummi a foaf:Organization;
+		rdfs:label "ummi" .
+
+halalm:Ummi_Snack a foaf:Organization;
+		rdfs:label "ummi snack" .
+
+halalm:Unikayo a foaf:Organization;
+		rdfs:label "unikayo" .
+
+halalm:Usaha_Mie_Musbar a foaf:Organization;
+		rdfs:label "usaha mie musbar" .
+
+halalm:Wahana_Kosmetika_Indonesia_Pt a foaf:Organization;
+		rdfs:label "wahana kosmetika indonesia,pt" .
+
+halalm:Warung_Bansus_Mang_Apet_Mancur a foaf:Organization;
+		rdfs:label "warung bansus mang apet mancur" .
+
+halalm:Wenaxs a foaf:Organization;
+		rdfs:label "wenaxs" .
+
+halalm:Wianda a foaf:Organization;
+		rdfs:label "wianda" .
+
+halalm:Yobels a foaf:Organization;
+		rdfs:label "yobels" .
+
+halalm:Yona_Butter_Cookies a foaf:Organization;
+		rdfs:label "yona  butter cookies" .
+
+halalm:Yosita_Snack a foaf:Organization;
+		rdfs:label "yosita snack" .
+
+halalm:Zairacrunchy_Snack a foaf:Organization;
+		rdfs:label "zairacrunchy snack" .
+
+halalm:Zalwa_Snack a foaf:Organization;
+		rdfs:label "zalwa snack" .
+
+halalm:Zrosee a foaf:Organization;
+		rdfs:label "zrosee" .halalf:22_Seafood_Salmon_Portion a foodlirmm:FoodProduct;
+    	a food:Food;
+    	foodlirmm:code "1075";
+    	rdfs:label "22 seafood salmon portion";
+    	gr:hasManufacturer halalm:Pt_Indo_Seafood .

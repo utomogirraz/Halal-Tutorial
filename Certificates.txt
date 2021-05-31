@@ -1,0 +1,2289 @@
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix  rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix  owl: <http://www.w3.org/2002/07/owl#>.
+@prefix  xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix  foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix  halalv: <http://halal.addi.is.its.ac.id/halalv.ttl#>.
+@prefix  halalf: <http://halal.addi.is.its.ac.id/foodproducts/>.
+@prefix  halali: <http://halal.addi.is.its.ac.id/ingredients/>.
+@prefix  halalc: <http://halal.addi.is.its.ac.id/certificates/>.
+@prefix  halals: <http://halal.addi.is.its.ac.id/sources/>.
+@prefix  halalm: <http://halal.addi.is.its.ac.id/manufactures/>.
+@prefix  food: <http://purl.org/foodontology#> .
+@prefix  foodlirmm: <http://data.lirmm.fr/ontologies/food#> .
+@prefix  gr: <http://purl.org/goodrelations/v1#> . 
+@prefix  dbr: <http://dbpedia.org/resource/> .
+
+halalc:00010026501003 a halalv:HalalCertificate;
+			halalv:halalCode "00010026501003";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030000761094 a halalv:HalalCertificate;
+			halalv:halalCode "00030000761094";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030062991012 a halalv:HalalCertificate;
+			halalv:halalCode "00030062991012";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030072900615 a halalv:HalalCertificate;
+			halalv:halalCode "00030072900615";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030099701119 a halalv:HalalCertificate;
+			halalv:halalCode "00030099701119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030101730120 a halalv:HalalCertificate;
+			halalv:halalCode "00030101730120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00030107130920 a halalv:HalalCertificate;
+			halalv:halalCode "00030107130920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040009041098 a halalv:HalalCertificate;
+			halalv:halalCode "00040009041098";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040011611299 a halalv:HalalCertificate;
+			halalv:halalCode "00040011611299";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040015610601 a halalv:HalalCertificate;
+			halalv:halalCode "00040015610601";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040025190603 a halalv:HalalCertificate;
+			halalv:halalCode "00040025190603";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040029270404 a halalv:HalalCertificate;
+			halalv:halalCode "00040029270404";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040040520606 a halalv:HalalCertificate;
+			halalv:halalCode "00040040520606";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040040820606 a halalv:HalalCertificate;
+			halalv:halalCode "00040040820606";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040047600408 a halalv:HalalCertificate;
+			halalv:halalCode "00040047600408";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040092951218 a halalv:HalalCertificate;
+			halalv:halalCode " 00040092951218";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00040099811119 a halalv:HalalCertificate;
+			halalv:halalCode "00040099811119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00050102520220 a halalv:HalalCertificate;
+			halalv:halalCode "00050102520220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060008910908 a halalv:HalalCertificate;
+			halalv:halalCode "00060008910908";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060010310699 a halalv:HalalCertificate;
+			halalv:halalCode "00060010310699";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060019690402 a halalv:HalalCertificate;
+			halalv:halalCode "00060019690402";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060036430805 a halalv:HalalCertificate;
+			halalv:halalCode "00060036430805";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060075380116 a halalv:HalalCertificate;
+			halalv:halalCode "00060075380116";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060078940916 a halalv:HalalCertificate;
+			halalv:halalCode "00060078940916";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060085331017 a halalv:HalalCertificate;
+			halalv:halalCode "00060085331017";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060105030720 a halalv:HalalCertificate;
+			halalv:halalCode "00060105030720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00060109051120 a halalv:HalalCertificate;
+			halalv:halalCode "00060109051120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00080103090320 a halalv:HalalCertificate;
+			halalv:halalCode "00080103090320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00090005000297 a halalv:HalalCertificate;
+			halalv:halalCode "00090005000297";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00090005900797 a halalv:HalalCertificate;
+			halalv:halalCode "00090005900797";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00090012840700 a halalv:HalalCertificate;
+			halalv:halalCode "00090012840700";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00090071710115 a halalv:HalalCertificate;
+			halalv:halalCode "00090071710115";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00090115320221 a halalv:HalalCertificate;
+			halalv:halalCode "00090115320221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100000861094 a halalv:HalalCertificate;
+			halalv:halalCode "00100000861094";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100014301200 a halalv:HalalCertificate;
+			halalv:halalCode "00100014301200";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100017571001 a halalv:HalalCertificate;
+			halalv:halalCode "00100017571001";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100029330404 a halalv:HalalCertificate;
+			halalv:halalCode "00100029330404";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100036010805 a halalv:HalalCertificate;
+			halalv:halalCode "00100036010805";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100039270306 a halalv:HalalCertificate;
+			halalv:halalCode "00100039270306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100039280306 a halalv:HalalCertificate;
+			halalv:halalCode "00100039280306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100039290306 a halalv:HalalCertificate;
+			halalv:halalCode "00100039290306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100039300306 a halalv:HalalCertificate;
+			halalv:halalCode "00100039300306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100039350306 a halalv:HalalCertificate;
+			halalv:halalCode " 00100039350306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100040660306 a halalv:HalalCertificate;
+			halalv:halalCode "00100040660306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100042041006 a halalv:HalalCertificate;
+			halalv:halalCode "00100042041006";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100044500607 a halalv:HalalCertificate;
+			halalv:halalCode "00100044500607";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100048400708 a halalv:HalalCertificate;
+			halalv:halalCode "00100048400708";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100048590808 a halalv:HalalCertificate;
+			halalv:halalCode "00100048590808";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100051350809 a halalv:HalalCertificate;
+			halalv:halalCode "00100051350809";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100059331011 a halalv:HalalCertificate;
+			halalv:halalCode "00100059331011";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100062440912 a halalv:HalalCertificate;
+			halalv:halalCode "00100062440912";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100077790616 a halalv:HalalCertificate;
+			halalv:halalCode "00100077790616";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100077860716 a halalv:HalalCertificate;
+			halalv:halalCode "00100077860716";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100078150816 a halalv:HalalCertificate;
+			halalv:halalCode "00100078150816";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100082470417 a halalv:HalalCertificate;
+			halalv:halalCode "00100082470417";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100083330617 a halalv:HalalCertificate;
+			halalv:halalCode "00100083330617";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100084210817 a halalv:HalalCertificate;
+			halalv:halalCode "00100084210817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100086690118 a halalv:HalalCertificate;
+			halalv:halalCode "00100086690118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100088360418 a halalv:HalalCertificate;
+			halalv:halalCode "00100088360418";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100093230119 a halalv:HalalCertificate;
+			halalv:halalCode "00100093230119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100095810519 a halalv:HalalCertificate;
+			halalv:halalCode "00100095810519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100102080220 a halalv:HalalCertificate;
+			halalv:halalCode "00100102080220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100104740620 a halalv:HalalCertificate;
+			halalv:halalCode "00100104740620";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100106220820 a halalv:HalalCertificate;
+			halalv:halalCode "00100106220820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100109151120 a halalv:HalalCertificate;
+			halalv:halalCode "00100109151120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100115030221 a halalv:HalalCertificate;
+			halalv:halalCode "00100115030221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00100115540221 a halalv:HalalCertificate;
+			halalv:halalCode "00100115540221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110017761001 a halalv:HalalCertificate;
+			halalv:halalCode "00110017761001";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110020380502 a halalv:HalalCertificate;
+			halalv:halalCode "00110020380502";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110039060306 a halalv:HalalCertificate;
+			halalv:halalCode "00110039060306";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110040600606 a halalv:HalalCertificate;
+			halalv:halalCode "00110040600606";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110060360212 a halalv:HalalCertificate;
+			halalv:halalCode "00110060360212";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00110084410817 a halalv:HalalCertificate;
+			halalv:halalCode "00110084410817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120005360899 a halalv:HalalCertificate;
+			halalv:halalCode "00120005360899";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120015840601 a halalv:HalalCertificate;
+			halalv:halalCode "00120015840601";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120021940902 a halalv:HalalCertificate;
+			halalv:halalCode "00120021940902";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120026701003 a halalv:HalalCertificate;
+			halalv:halalCode "00120026701003";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120037001005 a halalv:HalalCertificate;
+			halalv:halalCode "00120037001005";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120042521106 a halalv:HalalCertificate;
+			halalv:halalCode "00120042521106";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120042890107 a halalv:HalalCertificate;
+			halalv:halalCode " 00120042890107";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120045420907 a halalv:HalalCertificate;
+			halalv:halalCode "00120045420907";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120057041210 a halalv:HalalCertificate;
+			halalv:halalCode "00120057041210";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120059691111 a halalv:HalalCertificate;
+			halalv:halalCode "00120059691111";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120060021211 a halalv:HalalCertificate;
+			halalv:halalCode "00120060021211";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120061610612 a halalv:HalalCertificate;
+			halalv:halalCode "00120061610612";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120065430613 a halalv:HalalCertificate;
+			halalv:halalCode "00120065430613";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120070391014 a halalv:HalalCertificate;
+			halalv:halalCode "00120070391014";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120070961214 a halalv:HalalCertificate;
+			halalv:halalCode "00120070961214";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120071760115 a halalv:HalalCertificate;
+			halalv:halalCode "00120071760115";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120076560416 a halalv:HalalCertificate;
+			halalv:halalCode "00120076560416";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120078360816 a halalv:HalalCertificate;
+			halalv:halalCode " 00120078360816";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120082160417 a halalv:HalalCertificate;
+			halalv:halalCode "00120082160417";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120083470617 a halalv:HalalCertificate;
+			halalv:halalCode "00120083470617";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120086840118 a halalv:HalalCertificate;
+			halalv:halalCode "00120086840118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120088760518 a halalv:HalalCertificate;
+			halalv:halalCode "00120088760518";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120097370719 a halalv:HalalCertificate;
+			halalv:halalCode " 00120097370719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120097520719 a halalv:HalalCertificate;
+			halalv:halalCode "00120097520719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120101910120 a halalv:HalalCertificate;
+			halalv:halalCode "00120101910120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120104640620 a halalv:HalalCertificate;
+			halalv:halalCode "00120104640620";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120105340720 a halalv:HalalCertificate;
+			halalv:halalCode "00120105340720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120106130820 a halalv:HalalCertificate;
+			halalv:halalCode "00120106130820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120106620920 a halalv:HalalCertificate;
+			halalv:halalCode "00120106620920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120111131220 a halalv:HalalCertificate;
+			halalv:halalCode "00120111131220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00120116540321 a halalv:HalalCertificate;
+			halalv:halalCode "00120116540321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00130007780298 a halalv:HalalCertificate;
+			halalv:halalCode " 00130007780298";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00130052591009 a halalv:HalalCertificate;
+			halalv:halalCode "00130052591009";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00130056471010 a halalv:HalalCertificate;
+			halalv:halalCode "00130056471010";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00130084070817 a halalv:HalalCertificate;
+			halalv:halalCode "00130084070817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00130089980818 a halalv:HalalCertificate;
+			halalv:halalCode " 00130089980818";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00150068420314 a halalv:HalalCertificate;
+			halalv:halalCode "00150068420314";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00150114790221 a halalv:HalalCertificate;
+			halalv:halalCode "00150114790221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160000630499 a halalv:HalalCertificate;
+			halalv:halalCode "00160000630499";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160005580799 a halalv:HalalCertificate;
+			halalv:halalCode "00160005580799";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160026010903 a halalv:HalalCertificate;
+			halalv:halalCode "00160026010903";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160048830908 a halalv:HalalCertificate;
+			halalv:halalCode "00160048830908";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160057710411 a halalv:HalalCertificate;
+			halalv:halalCode "00160057710411";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160067271213 a halalv:HalalCertificate;
+			halalv:halalCode "00160067271213";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160068240214 a halalv:HalalCertificate;
+			halalv:halalCode "00160068240214";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160068660314 a halalv:HalalCertificate;
+			halalv:halalCode "00160068660314	";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160074271015 a halalv:HalalCertificate;
+			halalv:halalCode "00160074271015";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160077740616 a halalv:HalalCertificate;
+			halalv:halalCode "00160077740616";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160090840918 a halalv:HalalCertificate;
+			halalv:halalCode "00160090840918";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160090860918 a halalv:HalalCertificate;
+			halalv:halalCode "00160090860918";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160093440119 a halalv:HalalCertificate;
+			halalv:halalCode "00160093440119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160095720519 a halalv:HalalCertificate;
+			halalv:halalCode "00160095720519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160096090519 a halalv:HalalCertificate;
+			halalv:halalCode "00160096090519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160097160719 a halalv:HalalCertificate;
+			halalv:halalCode "00160097160719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160097550719 a halalv:HalalCertificate;
+			halalv:halalCode "00160097550719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160099631019 a halalv:HalalCertificate;
+			halalv:halalCode "00160099631019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160100321119 a halalv:HalalCertificate;
+			halalv:halalCode "00160100321119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160101041219 a halalv:HalalCertificate;
+			halalv:halalCode "00160101041219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160101231219 a halalv:HalalCertificate;
+			halalv:halalCode "00160101231219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160101680120 a halalv:HalalCertificate;
+			halalv:halalCode "00160101680120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160102900320 a halalv:HalalCertificate;
+			halalv:halalCode "00160102900320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160103190320 a halalv:HalalCertificate;
+			halalv:halalCode "00160103190320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160103310320 a halalv:HalalCertificate;
+			halalv:halalCode "00160103310320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160105990820 a halalv:HalalCertificate;
+			halalv:halalCode "00160105990820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160107160920 a halalv:HalalCertificate;
+			halalv:halalCode "00160107160920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160108031020 a halalv:HalalCertificate;
+			halalv:halalCode "00160108031020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160111021120 a halalv:HalalCertificate;
+			halalv:halalCode "00160111021120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160111931220 a halalv:HalalCertificate;
+			halalv:halalCode "00160111931220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160113750121 a halalv:HalalCertificate;
+			halalv:halalCode "00160113750121";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160114240121 a halalv:HalalCertificate;
+			halalv:halalCode "00160114240121";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160115230221 a halalv:HalalCertificate;
+			halalv:halalCode "00160115230221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160116420321 a halalv:HalalCertificate;
+			halalv:halalCode "00160116420321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160116550321 a halalv:HalalCertificate;
+			halalv:halalCode "00160116550321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00160117390321 a halalv:HalalCertificate;
+			halalv:halalCode "00160117390321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00170090670918 a halalv:HalalCertificate;
+			halalv:halalCode "00170090670918";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00170092031118 a halalv:HalalCertificate;
+			halalv:halalCode "00170092031118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00190040010506 a halalv:HalalCertificate;
+			halalv:halalCode "00190040010506";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00190066611013 a halalv:HalalCertificate;
+			halalv:halalCode "00190066611013";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00190087810318 a halalv:HalalCertificate;
+			halalv:halalCode "00190087810318";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00190114830221 a halalv:HalalCertificate;
+			halalv:halalCode "00190114830221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00210006911197 a halalv:HalalCertificate;
+			halalv:halalCode "00210006911197";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00210025450703 a halalv:HalalCertificate;
+			halalv:halalCode "00210025450703";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00210068030214 a halalv:HalalCertificate;
+			halalv:halalCode "00210068030214";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00210114030121 a halalv:HalalCertificate;
+			halalv:halalCode "00210114030121";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00230043470307 a halalv:HalalCertificate;
+			halalv:halalCode "00230043470307";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00250009501298 a halalv:HalalCertificate;
+			halalv:halalCode "00250009501298";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00250081440317 a halalv:HalalCertificate;
+			halalv:halalCode "00250081440317";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00260040870606 a halalv:HalalCertificate;
+			halalv:halalCode "00260040870606";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00290032980105 a halalv:HalalCertificate;
+			halalv:halalCode "00290032980105";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00340074090915 a halalv:HalalCertificate;
+			halalv:halalCode "00340074090915";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00340105590720 a halalv:HalalCertificate;
+			halalv:halalCode "00340105590720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00340106440920 a halalv:HalalCertificate;
+			halalv:halalCode "00340106440920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00340112441220 a halalv:HalalCertificate;
+			halalv:halalCode "00340112441220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:00340116240321 a halalv:HalalCertificate;
+			halalv:halalCode "00340116240321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061002500406 a halalv:HalalCertificate;
+			halalv:halalCode "01061002500406";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061055581210 a halalv:HalalCertificate;
+			halalv:halalCode "01061055581210";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061057560611 a halalv:HalalCertificate;
+			halalv:halalCode "01061057560611";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061076870812 a halalv:HalalCertificate;
+			halalv:halalCode "01061076870812";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061249970920 a halalv:HalalCertificate;
+			halalv:halalCode "01061249970920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01061259970321 a halalv:HalalCertificate;
+			halalv:halalCode "01061259970321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101042420909 a halalv:HalalCertificate;
+			halalv:halalCode "01101042420909";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101055820111 a halalv:HalalCertificate;
+			halalv:halalCode "01101055820111";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101075380812 a halalv:HalalCertificate;
+			halalv:halalCode "01101075380812";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101125250215 a halalv:HalalCertificate;
+			halalv:halalCode "01101125250215";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101160990316 a halalv:HalalCertificate;
+			halalv:halalCode "01101160990316";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101161420316 a halalv:HalalCertificate;
+			halalv:halalCode "01101161420316";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101163680416 a halalv:HalalCertificate;
+			halalv:halalCode "01101163680416";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101194770817 a halalv:HalalCertificate;
+			halalv:halalCode "01101194770817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101224090219 a halalv:HalalCertificate;
+			halalv:halalCode "01101224090219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101226010419 a halalv:HalalCertificate;
+			halalv:halalCode "01101226010419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101246920220 a halalv:HalalCertificate;
+			halalv:halalCode "01101246920220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101247600520 a halalv:HalalCertificate;
+			halalv:halalCode "01101247600520";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101256731220 a halalv:HalalCertificate;
+			halalv:halalCode "01101256731220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01101257081220 a halalv:HalalCertificate;
+			halalv:halalCode "01101257081220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01111089680713 a halalv:HalalCertificate;
+			halalv:halalCode "01111089680713";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01111129170515 a halalv:HalalCertificate;
+			halalv:halalCode "01111129170515";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01121217501218 a halalv:HalalCertificate;
+			halalv:halalCode "01121217501218";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01121247180620 a halalv:HalalCertificate;
+			halalv:halalCode "01121247180620";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01121251121020 a halalv:HalalCertificate;
+			halalv:halalCode "01121251121020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01121258790121 a halalv:HalalCertificate;
+			halalv:halalCode "01121258790121";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01161241501119 a halalv:HalalCertificate;
+			halalv:halalCode "01161241501119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01161250400920 a halalv:HalalCertificate;
+			halalv:halalCode "01161250400920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01191080621112 a halalv:HalalCertificate;
+			halalv:halalCode "01191080621112";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01191162000416 a halalv:HalalCertificate;
+			halalv:halalCode "01191162000416";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01201225260419 a halalv:HalalCertificate;
+			halalv:halalCode "01201225260419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01211064181011 a halalv:HalalCertificate;
+			halalv:halalCode "01211064181011";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01221184470517 a halalv:HalalCertificate;
+			halalv:halalCode "01221184470517";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01221247780620 a halalv:HalalCertificate;
+			halalv:halalCode "01221247780620";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01231163850416 a halalv:HalalCertificate;
+			halalv:halalCode "01231163850416";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01251001090405 a halalv:HalalCertificate;
+			halalv:halalCode "01251001090405";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01271097480214 a halalv:HalalCertificate;
+			halalv:halalCode "01271097480214";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01281250671020 a halalv:HalalCertificate;
+			halalv:halalCode "01281250671020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:01331247570520 a halalv:HalalCertificate;
+			halalv:halalCode "01331247570520";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02100017721220 a halalv:HalalCertificate;
+			halalv:halalCode "02100017721220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02100017960121 a halalv:HalalCertificate;
+			halalv:halalCode "02100017960121";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120012290618 a halalv:HalalCertificate;
+			halalv:halalCode "02120012290618";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120013670519 a halalv:HalalCertificate;
+			halalv:halalCode "02120013670519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120013880919 a halalv:HalalCertificate;
+			halalv:halalCode "02120013880919";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120014491019 a halalv:HalalCertificate;
+			halalv:halalCode "02120014491019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120014651219 a halalv:HalalCertificate;
+			halalv:halalCode "02120014651219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120015060320 a halalv:HalalCertificate;
+			halalv:halalCode "02120015060320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120016811120 a halalv:HalalCertificate;
+			halalv:halalCode "02120016811120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02120017021120 a halalv:HalalCertificate;
+			halalv:halalCode "02120017021120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02160011511217 a halalv:HalalCertificate;
+			halalv:halalCode "02160011511217";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02160015641120 a halalv:HalalCertificate;
+			halalv:halalCode "02160015641120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02160016671120 a halalv:HalalCertificate;
+			halalv:halalCode "02160016671120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02160017761220 a halalv:HalalCertificate;
+			halalv:halalCode "02160017761220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02220016991120 a halalv:HalalCertificate;
+			halalv:halalCode "02220016991120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02310014330919 a halalv:HalalCertificate;
+			halalv:halalCode "02310014330919";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:02340015571020 a halalv:HalalCertificate;
+			halalv:halalCode "02340015571020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03090016020217 a halalv:HalalCertificate;
+			halalv:halalCode "03090016020217";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03100013550116 a halalv:HalalCertificate;
+			halalv:halalCode "03100013550116";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120025420619 a halalv:HalalCertificate;
+			halalv:halalCode "03120025420619";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120025530619 a halalv:HalalCertificate;
+			halalv:halalCode "03120025530619";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120026520719 a halalv:HalalCertificate;
+			halalv:halalCode "03120026520719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120026770719 a halalv:HalalCertificate;
+			halalv:halalCode "03120026770719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120027060819 a halalv:HalalCertificate;
+			halalv:halalCode "03120027060819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120027390819 a halalv:HalalCertificate;
+			halalv:halalCode "03120027390819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120027410819 a halalv:HalalCertificate;
+			halalv:halalCode "03120027410819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120028340919 a halalv:HalalCertificate;
+			halalv:halalCode "03120028340919";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03120033751219 a halalv:HalalCertificate;
+			halalv:halalCode "03120033751219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03160024250419 a halalv:HalalCertificate;
+			halalv:halalCode "03160024250419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03160034011219 a halalv:HalalCertificate;
+			halalv:halalCode "03160034011219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:03290027770819 a halalv:HalalCertificate;
+			halalv:halalCode "03290027770819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05060020891120 a halalv:HalalCertificate;
+			halalv:halalCode "05060020891120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05090022581220 a halalv:HalalCertificate;
+			halalv:halalCode "05090022581220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100020271120 a halalv:HalalCertificate;
+			halalv:halalCode "05100020271120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100020321120 a halalv:HalalCertificate;
+			halalv:halalCode "05100020321120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100020521120 a halalv:HalalCertificate;
+			halalv:halalCode "05100020521120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100021161120 a halalv:HalalCertificate;
+			halalv:halalCode "05100021161120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100021541120 a halalv:HalalCertificate;
+			halalv:halalCode "05100021541120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100022301220 a halalv:HalalCertificate;
+			halalv:halalCode "05100022301220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05100022441220 a halalv:HalalCertificate;
+			halalv:halalCode "05100022441220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05110021641220 a halalv:HalalCertificate;
+			halalv:halalCode "05110021641220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05120019520320 a halalv:HalalCertificate;
+			halalv:halalCode "05120019520320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:0512002076120 a halalv:HalalCertificate;
+			halalv:halalCode "0512002076120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05120021601220 a halalv:HalalCertificate;
+			halalv:halalCode "05120021601220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05120021791220 a halalv:HalalCertificate;
+			halalv:halalCode "05120021791220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05120022601220 a halalv:HalalCertificate;
+			halalv:halalCode "05120022601220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05120022680221 a halalv:HalalCertificate;
+			halalv:halalCode "05120022680221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05160015320818 a halalv:HalalCertificate;
+			halalv:halalCode "05160015320818";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05160019741020 a halalv:HalalCertificate;
+			halalv:halalCode "05160019741020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:05160022181220 a halalv:HalalCertificate;
+			halalv:halalCode "05160022181220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06090001870608 a halalv:HalalCertificate;
+			halalv:halalCode "06090001870608";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06100015630320 a halalv:HalalCertificate;
+			halalv:halalCode "06100015630320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06120015350320 a halalv:HalalCertificate;
+			halalv:halalCode "06120015350320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06120017200321 a halalv:HalalCertificate;
+			halalv:halalCode "06120017200321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06160015660320 a halalv:HalalCertificate;
+			halalv:halalCode "06160015660320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06200010981217 a halalv:HalalCertificate;
+			halalv:halalCode "06200010981217";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:06350013040419 a halalv:HalalCertificate;
+			halalv:halalCode "06350013040419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07060060100519 a halalv:HalalCertificate;
+			halalv:halalCode "07060060100519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07090017940613 a halalv:HalalCertificate;
+			halalv:halalCode "07090017940613";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07100025710415 a halalv:HalalCertificate;
+			halalv:halalCode "07100025710415";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07100041411017 a halalv:HalalCertificate;
+			halalv:halalCode "07100041411017";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07100071130120 a halalv:HalalCertificate;
+			halalv:halalCode "07100071130120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07120025820415 a halalv:HalalCertificate;
+			halalv:halalCode "07120025820415";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07170018941013 a halalv:HalalCertificate;
+			halalv:halalCode "07170018941013";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07190064691019 a halalv:HalalCertificate;
+			halalv:halalCode "07190064691019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07260039170617 a halalv:HalalCertificate;
+			halalv:halalCode "07260039170617";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:07340061160719 a halalv:HalalCertificate;
+			halalv:halalCode "07340061160719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08120002140808 a halalv:HalalCertificate;
+			halalv:halalCode "08120002140808";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08120008460316 a halalv:HalalCertificate;
+			halalv:halalCode "08120008460316";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08190010831219 a halalv:HalalCertificate;
+			halalv:halalCode "08190010831219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08190012421120 a halalv:HalalCertificate;
+			halalv:halalCode "08190012421120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08200011241020 a halalv:HalalCertificate;
+			halalv:halalCode "08200011241020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08200012001120 a halalv:HalalCertificate;
+			halalv:halalCode "08200012001120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08250005461112 a halalv:HalalCertificate;
+			halalv:halalCode "08250005461112";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:08250010411019 a halalv:HalalCertificate;
+			halalv:halalCode "08250010411019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:088_SPKP_MUI_JATIM a halalv:HalalCertificate;
+			halalv:halalCode "088/spkp/mui-jatim";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100001820807 a halalv:HalalCertificate;
+			halalv:halalCode "09100001820807";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100008550417 a halalv:HalalCertificate;
+			halalv:halalCode "09100008550417";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100008841117 a halalv:HalalCertificate;
+			halalv:halalCode "09100008841117";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100011340419 a halalv:HalalCertificate;
+			halalv:halalCode "09100011340419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100011711019 a halalv:HalalCertificate;
+			halalv:halalCode "09100011711019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100013340720 a halalv:HalalCertificate;
+			halalv:halalCode "09100013340720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100013370720 a halalv:HalalCertificate;
+			halalv:halalCode "09100013370720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09100013410820 a halalv:HalalCertificate;
+			halalv:halalCode "09100013410820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09120012401119 a halalv:HalalCertificate;
+			halalv:halalCode "09120012401119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09160011620919 a halalv:HalalCertificate;
+			halalv:halalCode "09160011620919";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09160013010220 a halalv:HalalCertificate;
+			halalv:halalCode "09160013010220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:09190013390820 a halalv:HalalCertificate;
+			halalv:halalCode "09190013390820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:10100004910313 a halalv:HalalCertificate;
+			halalv:halalCode "10100004910313";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:13120025310920 a halalv:HalalCertificate;
+			halalv:halalCode "13120025310920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:13120028151220 a halalv:HalalCertificate;
+			halalv:halalCode "13120028151220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:13130026941120 a halalv:HalalCertificate;
+			halalv:halalCode "13130026941120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:13160025160820 a halalv:HalalCertificate;
+			halalv:halalCode "13160025160820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:13200028041220 a halalv:HalalCertificate;
+			halalv:halalCode "13200028041220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:1331002631120 a halalv:HalalCertificate;
+			halalv:halalCode "1331002631120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15010061120820 a halalv:HalalCertificate;
+			halalv:halalCode "15010061120820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15030029130318 a halalv:HalalCertificate;
+			halalv:halalCode "15030029130318";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15060043501119 a halalv:HalalCertificate;
+			halalv:halalCode "15060043501119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15060070150321 a halalv:HalalCertificate;
+			halalv:halalCode "15060070150321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100000720307 a halalv:HalalCertificate;
+			halalv:halalCode "15100000720307";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100025100517 a halalv:HalalCertificate;
+			halalv:halalCode "15100025100517";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100026040817 a halalv:HalalCertificate;
+			halalv:halalCode "15100026040817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100036080119 a halalv:HalalCertificate;
+			halalv:halalCode "15100036080119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100039370819 a halalv:HalalCertificate;
+			halalv:halalCode "15100039370819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100040080819 a halalv:HalalCertificate;
+			halalv:halalCode "15100040080819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100041571019 a halalv:HalalCertificate;
+			halalv:halalCode "15100041571019";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100043751119 a halalv:HalalCertificate;
+			halalv:halalCode "15100043751119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100044071219 a halalv:HalalCertificate;
+			halalv:halalCode "15100044071219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100044111219 a halalv:HalalCertificate;
+			halalv:halalCode "15100044111219";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100045350320 a halalv:HalalCertificate;
+			halalv:halalCode "15100045350320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100045880320 a halalv:HalalCertificate;
+			halalv:halalCode "15100045880320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100046050320 a halalv:HalalCertificate;
+			halalv:halalCode "15100046050320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100048670420 a halalv:HalalCertificate;
+			halalv:halalCode "15100048670420";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100060450720 a halalv:HalalCertificate;
+			halalv:halalCode "15100060450720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100060800820 a halalv:HalalCertificate;
+			halalv:halalCode "15100060800820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100061900920 a halalv:HalalCertificate;
+			halalv:halalCode "15100061900920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100062881020 a halalv:HalalCertificate;
+			halalv:halalCode "15100062881020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100064321020 a halalv:HalalCertificate;
+			halalv:halalCode "15100064321020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100067401120 a halalv:HalalCertificate;
+			halalv:halalCode "15100067401120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100068281220 a halalv:HalalCertificate;
+			halalv:halalCode "15100068281220";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15100070370321 a halalv:HalalCertificate;
+			halalv:halalCode "15100070370321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15110061880920 a halalv:HalalCertificate;
+			halalv:halalCode "15110061880920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120004330511 a halalv:HalalCertificate;
+			halalv:halalCode "15120004330511";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120031200518 a halalv:HalalCertificate;
+			halalv:halalCode "15120031200518";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120037590519 a halalv:HalalCertificate;
+			halalv:halalCode "15120037590519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120039090819 a halalv:HalalCertificate;
+			halalv:halalCode "15120039090819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120039380819 a halalv:HalalCertificate;
+			halalv:halalCode "15120039380819";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120040560919 a halalv:HalalCertificate;
+			halalv:halalCode "15120040560919";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120045280320 a halalv:HalalCertificate;
+			halalv:halalCode "15120045280320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120048870420 a halalv:HalalCertificate;
+			halalv:halalCode "15120048870420";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120060340720 a halalv:HalalCertificate;
+			halalv:halalCode "15120060340720";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120070660321 a halalv:HalalCertificate;
+			halalv:halalCode "15120070660321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120071240321 a halalv:HalalCertificate;
+			halalv:halalCode "15120071240321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15120071580321 a halalv:HalalCertificate;
+			halalv:halalCode "15120071580321";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15140065021120 a halalv:HalalCertificate;
+			halalv:halalCode "15140065021120";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160009980114 a halalv:HalalCertificate;
+			halalv:halalCode "15160009980114";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160021100616 a halalv:HalalCertificate;
+			halalv:halalCode "15160021100616";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160022971016 a halalv:HalalCertificate;
+			halalv:halalCode "15160022971016";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160023880217 a halalv:HalalCertificate;
+			halalv:halalCode "15160023880217";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160024850517 a halalv:HalalCertificate;
+			halalv:halalCode "15160024850517";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160028930118 a halalv:HalalCertificate;
+			halalv:halalCode "15160028930118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160029640418 a halalv:HalalCertificate;
+			halalv:halalCode "15160029640418";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160037220419 a halalv:HalalCertificate;
+			halalv:halalCode "15160037220419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160037920619 a halalv:HalalCertificate;
+			halalv:halalCode "15160037920619";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160042541119 a halalv:HalalCertificate;
+			halalv:halalCode "15160042541119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160042751119 a halalv:HalalCertificate;
+			halalv:halalCode "15160042751119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160049960520 a halalv:HalalCertificate;
+			halalv:halalCode "15160049960520";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160050940620 a halalv:HalalCertificate;
+			halalv:halalCode "15160050940620";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15160062290920 a halalv:HalalCertificate;
+			halalv:halalCode "15160062290920";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15190004160111 a halalv:HalalCertificate;
+			halalv:halalCode "15190004160111";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15190027641017 a halalv:HalalCertificate;
+			halalv:halalCode "15190027641017";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15200037940619 a halalv:HalalCertificate;
+			halalv:halalCode "15200037940619";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15250044810320 a halalv:HalalCertificate;
+			halalv:halalCode "15250044810320";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15250062676020 a halalv:HalalCertificate;
+			halalv:halalCode "15250062676020";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15320043341119 a halalv:HalalCertificate;
+			halalv:halalCode "15320043341119";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:15330037300419 a halalv:HalalCertificate;
+			halalv:halalCode "15330037300419";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17040032320817 a halalv:HalalCertificate;
+			halalv:halalCode "17040032320817";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17100044921218 a halalv:HalalCertificate;
+			halalv:halalCode "17100044921218";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17100054690420 a halalv:HalalCertificate;
+			halalv:halalCode "17100054690420";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17100061840221 a halalv:HalalCertificate;
+			halalv:halalCode "17100061840221";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17120015111114 a halalv:HalalCertificate;
+			halalv:halalCode "17120015111114";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17120026850916 a halalv:HalalCertificate;
+			halalv:halalCode "17120026850916";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17120043981118 a halalv:HalalCertificate;
+			halalv:halalCode "17120043981118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17190043821118 a halalv:HalalCertificate;
+			halalv:halalCode "17190043821118";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:17210048270519 a halalv:HalalCertificate;
+			halalv:halalCode "17210048270519";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:175_SPKP_MUI_JATIM a halalv:HalalCertificate;
+			halalv:halalCode "175/spkp/mui-jatim";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:21010008430820 a halalv:HalalCertificate;
+			halalv:halalCode "21010008430820";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:224_SPKP_MUI_JATIM a halalv:HalalCertificate;
+			halalv:halalCode "224/spkp/mui-jatim";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:27010020490319 a halalv:HalalCertificate;
+			halalv:halalCode "27010020490319";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:27160006740815 a halalv:HalalCertificate;
+			halalv:halalCode "27160006740815";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:27160020660719 a halalv:HalalCertificate;
+			halalv:halalCode "27160020660719";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:303_SPKP_MUI_JATIM a halalv:HalalCertificate;
+			halalv:halalCode "303/spkp/mui-jatim";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
+
+halalc:3_SPKP_MUI_JATIM_6 a halalv:HalalCertificate;
+			halalv:halalCode "3/spkp/mui-jatim/6";
+			halalv:halalExp "0000-00-00"^^xsd:date;
+			halalv:OrgCert halals:Majelis_Ulama_Indonesia;
+			halalv:halalStatus halalv:Halal .
